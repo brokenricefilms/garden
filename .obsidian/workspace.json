@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "a536143783bc1b1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bbba1a7f3de132e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8919d0bd72657eba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The garden of thoughts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab044ece517561c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My note-writing system.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88e63b24fcb364c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Filename heading sync plugin.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a773972e90bba29f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1f2be8348891ce7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f671c6ddc500927",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b0a1e1aefd0d143",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ab6b4d21beea3f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#sns",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e9c7ebb5a0bec003",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1f0e172442cab20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b8ac07029d3faac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The garden of thoughts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c7f02cf0b141f5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The garden of thoughts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c06b15183ea6ccd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "746d69cd0565460a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The garden of thoughts.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "8919d0bd72657eba",
+  "lastOpenFiles": [
+    "My note-writing system.md",
+    "Filename heading sync plugin.md",
+    "AUR.md",
+    "tại sao mod lại chuyển từ brave → chrome.md",
+    "the data structures and algorithms of humanity.md",
+    "reduce the time spend to studying.md",
+    "publish zet note to github repo with hashtag.md",
+    "mindmap with Sheng Huang.md",
+    "keyword the new way.md",
+    "how we reduce the time spending to study.md",
+    "Who are people i admire.md",
+    "Phạm Tấn Thuận.md",
+    "How I Mind Map Life Decisions in 5 Steps.md",
+    "The garden of thoughts.md",
+    "filename heading sync setting.png",
+    "the problem with question mark on file name.md",
+    "tasks.md",
+    "Mar 23, 2023.md",
+    "Mar 22, 2023.md",
+    "obsidian plugin rename tag.md",
+    "why linux have many package manager.md",
+    "DNF.md",
+    "why i use arch.md",
+    "Writing.md",
+    "Reading.md",
+    "Thinking.md",
+    "Mar 18, 2023.md",
+    "hairstyles.canvas",
+    "Pasted image 20230321100927.png",
+    "Pasted image 20230321100917.jpg",
+    "Takuya Matsuyama hairstyle.png",
+    "hairstyles.png",
+    "template",
+    "Excalidraw",
+    "publish",
+    "20210930100911.md.png",
+    "strong men weak men time.png",
+    "havent product team.png",
+    "project management tower.png",
+    "LICENSE",
+    "sync",
+    "zet_publish/2021091200040.png",
+    "zet_publish",
+    "zet_personal"
+  ]
+}

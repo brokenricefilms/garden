@@ -1,0 +1,11 @@
+{
+  "userIllegalSymbols": [
+    "?",
+    "|",
+    ""
+  ],
+  "ignoredFiles": {},
+  "ignoreRegex": "template/*",
+  "useFileOpenHook": true,
+  "useFileSaveHook": true
+}

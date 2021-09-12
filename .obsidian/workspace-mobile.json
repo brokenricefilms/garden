@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "311f0647149b172d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1f5dfec80dfadc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96b44a688878041a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "hairstyles.canvas",
+                "viewState": {
+                  "x": -25.696533532917726,
+                  "y": -190.56526172824871,
+                  "zoom": -1.4249479743835756
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "534f9743283e0dd6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fef6d79b5e92da17",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cb59b466c944c3b4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "99ca7a90c22108d0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "74093975381cecf1",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "35a4041b8c3eca5b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7eba5ca21fece197",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "hairstyles.canvas",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "417b95e01c729bbd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "hairstyles.canvas",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "932ecfbc4ee5d118",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "hairstyles.canvas"
+          }
+        }
+      },
+      {
+        "id": "2b5f4a1f7fcd1d07",
+        "type": "leaf",
+        "state": {
+          "type": "online.larslockefeer.obsidian-plugin-todo",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "96b44a688878041a",
+  "lastOpenFiles": [
+    "train mount movement to speak clearly.md",
+    "Speaking.md",
+    "Become  to Genius.md",
+    "The garden of thoughts.md",
+    "the data structures and algorithms of humanity.md",
+    "template",
+    "template/daily.md",
+    "Excalidraw/Drawing 2023-03-20 16.29.35.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-20 16.27.34.excalidraw.md",
+    "Excalidraw",
+    "Chặng đường đến đến với lập trình và làm thế méo nào để học nó.md",
+    "how we reduce the time spending to study.md",
+    "What I think about people beauty.md",
+    "Làm sao lập trình một blog để chém gió.md",
+    "what about zettelkasten + mind map.md",
+    "Would You Like a Cup of Coffee (2021).md",
+    "Linux có gì vui.md",
+    "2023-03-18.md",
+    "README.md",
+    "2023-03-19.md",
+    "Test sync on phone.md",
+    "2023-03-18.sync-conflict-20230318-182753-PKY3LCR.md",
+    "2023-03-18.sync-conflict-20230318-182242-PKY3LCR.md",
+    "2023-03-18.sync-conflict-20230318-182105-PKY3LCR.md",
+    "2023-03-18.sync-conflict-20230318-182045-PKY3LCR.md",
+    "2023-03-18.sync-conflict-20230318-181711-PKY3LCR.md"
+  ]
+}

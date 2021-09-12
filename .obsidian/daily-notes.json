@@ -1,0 +1,4 @@
+{
+  "format": "MMM D, YYYY",
+  "template": "template/daily"
+}

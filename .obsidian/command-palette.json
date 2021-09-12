@@ -1,0 +1,8 @@
+{
+  "pinned": [
+    "app:delete-file",
+    "workspace:close-others",
+    "app:toggle-right-sidebar",
+    "app:toggle-left-sidebar"
+  ]
+}
