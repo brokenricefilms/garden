@@ -1,17 +1,3 @@
 {
-  "vimMode": true,
-  "promptDelete": false,
-  "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true,
-  "showInlineTitle": false,
-  "spellcheckLanguages": [
-    "en-US",
-    "vi"
-  ],
-  "spellcheck": true,
-  "readableLineLength": true,
-  "strictLineBreaks": false,
-  "foldHeading": false,
-  "foldIndent": false,
-  "showLineNumber": false
+  "vimMode": true
 }

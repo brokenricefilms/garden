@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e1f5dfec80dfadc0",
+        "id": "8039ccc699a9e918",
         "type": "tabs",
         "children": [
           {
-            "id": "96b44a688878041a",
+            "id": "2d663c58f7a8cf6c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "hairstyles.canvas",
-                "viewState": {
-                  "x": -25.696533532917726,
-                  "y": -190.56526172824871,
-                  "zoom": -1.4249479743835756
-                }
+                "file": "The garden of thoughts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "hairstyles.canvas",
+            "file": "The garden of thoughts.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "hairstyles.canvas",
+            "file": "The garden of thoughts.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "hairstyles.canvas"
+            "file": "The garden of thoughts.md"
           }
         }
       },
@@ -134,43 +132,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "96b44a688878041a",
+  "active": "2d663c58f7a8cf6c",
   "lastOpenFiles": [
-    "train mount movement to speak clearly.md",
-    "Speaking.md",
-    "Become  to Genius.md",
-    "The garden of thoughts.md",
-    "the data structures and algorithms of humanity.md",
-    "template",
-    "template/daily.md",
-    "Excalidraw/Drawing 2023-03-20 16.29.35.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-20 16.27.34.excalidraw.md",
-    "Excalidraw",
-    "Chặng đường đến đến với lập trình và làm thế méo nào để học nó.md",
-    "how we reduce the time spending to study.md",
-    "What I think about people beauty.md",
-    "Làm sao lập trình một blog để chém gió.md",
+    "Feb 3, 2023.md",
+    "Tự làm một document film về bản thân.md",
+    "You Raise Me Up (2021).md",
+    "hairstyles.canvas",
+    "the problem with question mark on file name.md",
+    "havent product team.png",
+    "Vimium bước tới kỷ nguyên khai tử chuột..md",
+    "Army of Thieves (2021).md",
+    "Who I trust.md",
     "what about zettelkasten + mind map.md",
-    "Would You Like a Cup of Coffee (2021).md",
-    "Linux có gì vui.md",
-    "2023-03-18.md",
-    "README.md",
-    "2023-03-19.md",
-    "Test sync on phone.md",
-    "2023-03-18.sync-conflict-20230318-182753-PKY3LCR.md",
-    "2023-03-18.sync-conflict-20230318-182242-PKY3LCR.md",
-    "2023-03-18.sync-conflict-20230318-182105-PKY3LCR.md",
-    "2023-03-18.sync-conflict-20230318-182045-PKY3LCR.md",
-    "2023-03-18.sync-conflict-20230318-181711-PKY3LCR.md"
+    "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
+    "classroom of the eilite.md",
+    "Chặng đường đến đến với lập trình và làm thế méo nào để học nó.md",
+    "Cày thuật toán cùng ông dev.md",
+    "Tazza One Eyed Jack.md",
+    "Nghệ thuật tinh tế của việc đếch quan tâm.md",
+    "kiểm soát sinh và tử.md",
+    "geohot.md",
+    "Trong không gian riêng cùng tận hưởng với vợ những món ăn mà hai đứa nấu.md",
+    "the correct mind mapping technique.md",
+    "Mar 19, 2023.md",
+    "fuck you money.md",
+    "zettelkasten note-taking method.md",
+    "filename heading sync setting.png",
+    "My note-writing system.md",
+    "Ellie Phuong.md",
+    "Become  to Genius.md",
+    "why i don't wear underwear.md",
+    "Hôm nay cảm xúc màu gì.md",
+    "strong men weak men time.png",
+    "LICENSE",
+    "template",
+    "Excalidraw"
   ]
 }
