@@ -148,16 +148,20 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "d72ceead222074a2",
   "lastOpenFiles": [
+    "Mar 23, 2023.md",
+    "tasks.md",
+    "The garden of thoughts.md",
     "Filename heading sync plugin.md",
     "My note-writing system.md",
     "How make tags useful for managing thoughts.md",
     "Writing.md",
-    "The garden of thoughts.md",
     "AUR.md",
     "tại sao mod lại chuyển từ brave → chrome.md",
     "the data structures and algorithms of humanity.md",
@@ -171,8 +175,6 @@
     "How I Mind Map Life Decisions in 5 Steps.md",
     "filename heading sync setting.png",
     "the problem with question mark on file name.md",
-    "tasks.md",
-    "Mar 23, 2023.md",
     "Mar 22, 2023.md",
     "obsidian plugin rename tag.md",
     "why linux have many package manager.md",
