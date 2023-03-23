@@ -43,5 +43,18 @@
       "key": "ArrowLeft"
     }
   ],
-  "app:go-forward": []
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "workspace:toggle-stacked-tabs": [
+    {
+      "modifiers": [],
+      "key": "F11"
+    }
+  ]
 }

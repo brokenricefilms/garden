@@ -1,5 +1,6 @@
 {
   "vimMode": true,
   "useMarkdownLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "promptDelete": false
 }
