@@ -2,5 +2,11 @@
   "vimMode": true,
   "useMarkdownLinks": true,
   "showInlineTitle": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "vi"
+  ],
+  "alwaysUpdateLinks": true
 }

@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a7520c316f457874",
+        "id": "ac93f01c6347eb00",
         "type": "tabs",
         "children": [
           {
-            "id": "6c767dd97ec6bb9f",
+            "id": "6617e82fa72ca002",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "why i use arch.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4a4040d49e03f97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "rwxrob.md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rwxrob.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rwxrob.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rwxrob.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -167,12 +153,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d4a4040d49e03f97",
+  "active": "6617e82fa72ca002",
   "lastOpenFiles": [
-    "why i use arch.md",
     "Mar 23, 2023.md",
-    "template/daily.md",
     "The garden of thoughts.md",
+    "why i use arch.md",
+    "gõ tiếng việt trên vim không cần bộ gõ tiếng việt built-in.md",
+    "template/daily.md",
     "Takuya Matsuyama (devaslife, craftzdog).md",
     "hairstyles.canvas",
     "the problem with question mark on file name.md",
@@ -185,7 +172,6 @@
     "tasks.md",
     "what about zettelkasten + mind map.md",
     "the gar.md",
-    "Untitled.md",
     "CSS Sizing Units.md",
     "AUR.md",
     "tại sao mod lại chuyển từ brave → chrome.md",
