@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Mar 23, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Mar 23, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Mar 23, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "Mar 23, 2023.md"
               }
             }
           }
@@ -155,10 +155,12 @@
   },
   "active": "6c767dd97ec6bb9f",
   "lastOpenFiles": [
+    "template/daily.md",
+    "Mar 23, 2023.md",
+    "The garden of thoughts.md",
     "Takuya Matsuyama (devaslife, craftzdog).md",
     "hairstyles.canvas",
     "the problem with question mark on file name.md",
-    "The garden of thoughts.md",
     "Writing.md",
     "My note-writing system.md",
     "Filename heading sync plugin.md",
@@ -169,7 +171,6 @@
     "what about zettelkasten + mind map.md",
     "the gar.md",
     "Untitled.md",
-    "Mar 23, 2023.md",
     "CSS Sizing Units.md",
     "AUR.md",
     "tại sao mod lại chuyển từ brave → chrome.md",
@@ -181,7 +182,6 @@
     "how we reduce the time spending to study.md",
     "Who are people i admire.md",
     "Phạm Tấn Thuận.md",
-    "How I Mind Map Life Decisions in 5 Steps.md",
     "filename heading sync setting.png",
     "Pasted image 20230321100927.png",
     "Pasted image 20230321100917.jpg",
