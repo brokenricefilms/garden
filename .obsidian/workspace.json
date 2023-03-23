@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "How make tags useful for managing thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "How make tags useful for managing thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "How make tags useful for managing thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "How make tags useful for managing thoughts.md"
               }
             }
           }
@@ -155,12 +155,13 @@
   },
   "active": "d72ceead222074a2",
   "lastOpenFiles": [
-    "Mar 23, 2023.md",
-    "tasks.md",
     "The garden of thoughts.md",
+    "How make tags useful for managing thoughts.md",
+    "CSS Sizing Units.md",
+    "tasks.md",
+    "Mar 23, 2023.md",
     "Filename heading sync plugin.md",
     "My note-writing system.md",
-    "How make tags useful for managing thoughts.md",
     "Writing.md",
     "AUR.md",
     "tại sao mod lại chuyển từ brave → chrome.md",
@@ -181,7 +182,6 @@
     "DNF.md",
     "why i use arch.md",
     "Reading.md",
-    "Thinking.md",
     "hairstyles.canvas",
     "Pasted image 20230321100927.png",
     "Pasted image 20230321100917.jpg",

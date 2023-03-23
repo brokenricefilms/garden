@@ -31,4 +31,4 @@ How to explore the garden of thoughts?
 
 #human, #video/movie, #video, #Journal, #programming/css, #programming, #money/fund, #money, #hardware, #video/anime, #blog, #productive, #philosophy, #gender_equality, #cooking, #healthy, #sex, #psychology, #mathematics, #tool/linux, #tool, #tool/vim, #focus, #note-writing/zettelkasten, #note-writing, #emotional_intelligence, #mathematics/encryption, #ideas/programming, #ideas, #ideas/video, #buy/want, #buy, #mind-map, #book, #university, #tool/github, #open-source, #project_manager, #education, #design, #design/font, #critical-thinking, #video/kdrama, #social_networking_service_SNS, #team-work, #marriage, #job, #programming/algorithm, #programming/data_structure, #tips, #tool/obsidian
 
-<--TODO: make tags clickable on GitHub-->
+<!--TODO: make tags clickable on GitHub-->
