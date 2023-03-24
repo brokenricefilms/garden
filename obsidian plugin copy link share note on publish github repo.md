@@ -17,14 +17,10 @@
 	    hotkeys: []
 	})
 }()
-```
-> pasted it to dev tool
+// pasted it to dev tool
+// obsidian://open/?vault=garden&file=obsidian%20plugin%20copy%20link%20share%20note%20on%20publish.md
+//command in obsidian: `Copy note URL`
 
-command in obsidian: `Copy note URL`
-
-> obsidian://open/?vault=garden&file=obsidian%20plugin%20copy%20link%20share%20note%20on%20publish.md
-
-```js
 !function() {
 	function copy_share_link() {
 		const github_repo_url = 'https://github.com/thuanowa/garden/blob/main/'
@@ -44,7 +40,6 @@ command in obsidian: `Copy note URL`
 ```
 
 - [I] make a obsidian plugin for easy to use #ideas/programming 
-
 
 ---
 [Copy note URL command - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/copy-note-url-command/6696)
