@@ -52,7 +52,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codepen.md",
+                "file": "The garden of thoughts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab3aca2c858469fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Speaking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "804c6ff66c585364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "train mount movement to speak clearly.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d6654536f1a6514",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4eeabd8eee79e3e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What I think about people beauty.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codepen.md",
+                "file": "train mount movement to speak clearly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "codepen.md",
+                "file": "train mount movement to speak clearly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "codepen.md"
+                "file": "train mount movement to speak clearly.md"
               }
             }
           }
@@ -192,15 +244,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "512c6f81a7ba25dd",
+  "active": "804c6ff66c585364",
   "lastOpenFiles": [
+    "Speaking.md",
+    "The garden of thoughts.md",
+    "Reading.md",
+    "What I think about people beauty.md",
+    "codepen.md",
     "pug html preprocessor.md",
     "html preprocessor.md",
-    "codepen.md",
     "Mar 24, 2023.md",
     "tasks.md",
     "How make tags useful for managing thoughts.md",
-    "The garden of thoughts.md",
     "Xah Lee.md",
     "Mar 23, 2023.md",
     "why i use arch.md",
@@ -213,14 +268,11 @@
     "My note-writing system.md",
     "Filename heading sync plugin.md",
     "zettelkasten note-taking method.md",
-    "Reading.md",
     "what about zettelkasten + mind map.md",
     "the gar.md",
     "CSS Sizing Units.md",
     "AUR.md",
     "tại sao mod lại chuyển từ brave → chrome.md",
-    "the data structures and algorithms of humanity.md",
-    "reduce the time spend to studying.md",
     "filename heading sync setting.png",
     "Pasted image 20230321100927.png",
     "Pasted image 20230321100917.jpg",
