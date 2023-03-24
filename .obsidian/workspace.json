@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Mar 22, 2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30937741f929551e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian plugin copy link share note on publish github repo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -88,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "obsidian plugin copy link share note on publish github repo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "obsidian plugin copy link share note on publish github repo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "obsidian plugin copy link share note on publish github repo.md"
               }
             }
           }
@@ -152,12 +166,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c643f4aa0207d19b",
+  "active": "30937741f929551e",
   "lastOpenFiles": [
+    "Mar 22, 2023.md",
+    "obsidian plugin copy link share note on publish github repo.md",
+    "The garden of thoughts.md",
     "Mar 24, 2023.md",
     "html preprocessor.md",
     "tasks.md",
-    "The garden of thoughts.md",
     "Thinking.md",
     "Become  to Genius.md",
     "hairstyles.canvas",
@@ -179,7 +195,6 @@
     "the problem with question mark on file name.md",
     "Writing.md",
     "My note-writing system.md",
-    "Filename heading sync plugin.md",
     "filename heading sync setting.png",
     "Pasted image 20230321100927.png",
     "Pasted image 20230321100917.jpg",
