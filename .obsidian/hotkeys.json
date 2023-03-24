@@ -15,14 +15,6 @@
       "key": "S"
     }
   ],
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "D"
-    }
-  ],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
   "obsidian-excalidraw-plugin:insert-link": [],
   "obsidian-auto-link-title:enhance-url-with-title": [],
@@ -55,6 +47,14 @@
     {
       "modifiers": [],
       "key": "F11"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
     }
   ]
 }
