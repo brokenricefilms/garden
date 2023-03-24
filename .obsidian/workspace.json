@@ -11,18 +11,17 @@
             "id": "c643f4aa0207d19b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "hairstyles.canvas",
-                "viewState": {
-                  "x": -434.6799999999999,
-                  "y": -313.49,
-                  "zoom": 0
-                }
+                "file": "The garden of thoughts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -68,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hairstyles.canvas",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hairstyles.canvas",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hairstyles.canvas"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -157,16 +155,16 @@
   "active": "c643f4aa0207d19b",
   "lastOpenFiles": [
     "Mar 24, 2023.md",
-    "hairstyles.canvas",
-    "The garden of thoughts.md",
+    "html preprocessor.md",
     "tasks.md",
-    "Become  to Genius.md",
+    "The garden of thoughts.md",
     "Thinking.md",
+    "Become  to Genius.md",
+    "hairstyles.canvas",
     "how to train yourself to be a genius.md",
     "training critical thinking by writing.md",
     "What I think about people beauty.md",
     "Reading.md",
-    "html preprocessor.md",
     "pug html preprocessor.md",
     "Speaking.md",
     "train mount movement to speak clearly.md",
