@@ -39,7 +39,7 @@
 }()
 ```
 
-- [I] make a obsidian plugin for easy to use #ideas/programming 
+- [-] make a obsidian plugin for easy to use #ideas/programming 
 
 ---
 [Copy note URL command - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/copy-note-url-command/6696)

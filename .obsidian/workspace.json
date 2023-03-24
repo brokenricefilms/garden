@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian plugin copy link share note on publish github repo.md",
+                "file": "tasks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian plugin copy link share note on publish github repo.md",
+                "file": "tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian plugin copy link share note on publish github repo.md",
+                "file": "tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian plugin copy link share note on publish github repo.md"
+                "file": "tasks.md"
               }
             }
           }
@@ -153,12 +153,15 @@
   },
   "active": "3e7f7b5b68306e2b",
   "lastOpenFiles": [
+    "obsidian plugin copy link share note on publish github repo.md",
+    "Untitled.md",
+    "custom_javascript/copy_share_link.js",
+    "custom_javascript",
     "Mar 24, 2023.md",
     "Mar 18, 2023.md",
     "tasks.md",
     "The garden of thoughts.md",
     "My dreams in life.md",
-    "obsidian plugin copy link share note on publish github repo.md",
     "screenshot.excalidraw.md",
     "Drawing 2023-03-24 21.20.11.excalidraw.md",
     "Mar 22, 2023.md",
@@ -180,7 +183,6 @@
     "Mar 23, 2023.md",
     "why i use arch.md",
     "gõ tiếng việt trên vim không cần bộ gõ tiếng việt built-in.md",
-    "template/daily.md",
     "filename heading sync setting.png",
     "Pasted image 20230321100927.png",
     "Pasted image 20230321100917.jpg",
