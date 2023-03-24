@@ -10,5 +10,6 @@
   "obsidian-tasks-plugin",
   "obsidian-vimrc-support",
   "no-dupe-leaves",
-  "customjs"
+  "customjs",
+  "obsidian-hider"
 ]
