@@ -43,7 +43,7 @@ command in obsidian: `Copy note URL`
 }()
 ```
 
-
+- [I] make a obsidian plugin for easy to use #ideas/programming 
 
 
 ---
