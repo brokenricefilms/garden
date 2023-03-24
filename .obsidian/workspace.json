@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xah Lee.md",
+                "file": "How make tags useful for managing thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xah Lee.md",
+                "file": "How make tags useful for managing thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Xah Lee.md",
+                "file": "How make tags useful for managing thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xah Lee.md"
+                "file": "How make tags useful for managing thoughts.md"
               }
             }
           }
@@ -155,9 +155,9 @@
   },
   "active": "7102bad94d1bd457",
   "lastOpenFiles": [
+    "The garden of thoughts.md",
     "Xah Lee.md",
     "Mar 24, 2023.md",
-    "The garden of thoughts.md",
     "Mar 23, 2023.md",
     "why i use arch.md",
     "gõ tiếng việt trên vim không cần bộ gõ tiếng việt built-in.md",
