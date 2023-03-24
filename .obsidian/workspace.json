@@ -32,10 +32,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e40799294213693",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pug html preprocessor.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "512c6f81a7ba25dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "codepen.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
-        "stacked": true
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "html preprocessor.md",
+                "file": "codepen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "html preprocessor.md",
+                "file": "codepen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "html preprocessor.md"
+                "file": "codepen.md"
               }
             }
           }
@@ -167,10 +192,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5a1e3af5326aca04",
+  "active": "512c6f81a7ba25dd",
   "lastOpenFiles": [
-    "Mar 24, 2023.md",
+    "pug html preprocessor.md",
     "html preprocessor.md",
+    "codepen.md",
+    "Mar 24, 2023.md",
     "tasks.md",
     "How make tags useful for managing thoughts.md",
     "The garden of thoughts.md",
@@ -194,8 +221,6 @@
     "tại sao mod lại chuyển từ brave → chrome.md",
     "the data structures and algorithms of humanity.md",
     "reduce the time spend to studying.md",
-    "publish zet note to github repo with hashtag.md",
-    "mindmap with Sheng Huang.md",
     "filename heading sync setting.png",
     "Pasted image 20230321100927.png",
     "Pasted image 20230321100917.jpg",
