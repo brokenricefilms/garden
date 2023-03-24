@@ -1,6 +1,7 @@
 # Xah Lee
 
-<http://xahlee.info>
+- Website: <http://xahlee.info>
+- Email: Xah@XahLee.org
 
 ---
 
