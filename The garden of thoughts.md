@@ -11,7 +11,7 @@ How to explore the garden of thoughts?
 
 ## Trees
 
-- [thinker](thinker.md)
+- [Thinker](Thinker.md)
 	- [Reading](Reading.md)
 	- [Writing](Writing.md)
 	- [Speaking](Speaking.md)
