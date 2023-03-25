@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thinker.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thinker.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thinker.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -166,15 +165,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "08874afad640bb98",
+  "active": "72ac7c9574c6aba5",
   "lastOpenFiles": [
+    "Thinker.md",
     "The garden of thoughts.md",
     "Mar 20, 2023.sync-conflict-20230325-141100-YY54AJQ.md",
     "The garden of thoughts.sync-conflict-20230325-141102-YY54AJQ.md",
-    "Thinker.md",
     "how to train yourself to be a genius.md",
     "Mar 25, 2023.md",
-    "Thinker.md",
     "Thinking.md",
     "Mar 24, 2023.md",
     "tasks.md",
