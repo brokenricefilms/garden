@@ -11,13 +11,11 @@ How to explore the garden of thoughts?
 
 ## Trees
 
-- [Become  to Genius](Become%20%20to%20Genius.md)
-	- [Thinking](Thinking.md)
+- [thinker](thinker.md)
 	- [Reading](Reading.md)
 	- [Writing](Writing.md)
 	- [Speaking](Speaking.md)
 - [My dreams in life](My%20dreams%20in%20life.md)
-	- [fuck you money](fuck%20you%20money.md)
 - [The data structures and algorithms of humanity](The%20data%20structures%20and%20algorithms%20of%20humanity.md)
 
 ## Flowers

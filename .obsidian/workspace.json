@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thinking.md",
+                "file": "Mar 25, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,6 +44,14 @@
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "181df046c7bfafde",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -115,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thinking.md",
+                "file": "Mar 25, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thinking.md",
+                "file": "Mar 25, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thinking.md"
+                "file": "Mar 25, 2023.md"
               }
             }
           }
@@ -181,7 +189,9 @@
   },
   "active": "4f910f43e5d90e02",
   "lastOpenFiles": [
+    "thinker.md",
     "how to train yourself to be a genius.md",
+    "Mar 25, 2023.md",
     "Thinking.md",
     "The garden of thoughts.md",
     "Mar 24, 2023.md",
@@ -212,7 +222,6 @@
     "How make tags useful for managing thoughts.md",
     "Xah Lee.md",
     "Mar 23, 2023.md",
-    "why i use arch.md",
     "filename heading sync setting.png",
     "Pasted image 20230321100927.png",
     "Pasted image 20230321100917.jpg",

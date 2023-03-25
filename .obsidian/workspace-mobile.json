@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Jordan B. Peterson.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "The garden of thoughts.md",
+            "file": "Jordan B. Peterson.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "The garden of thoughts.md",
+            "file": "Jordan B. Peterson.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "The garden of thoughts.md"
+            "file": "Jordan B. Peterson.md"
           }
         }
       },
@@ -132,6 +132,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -142,6 +144,14 @@
   },
   "active": "2d663c58f7a8cf6c",
   "lastOpenFiles": [
+    "Dr Jordan Peterson on Sex & Promiscuity.md",
+    "Jordan B. Peterson.md",
+    "training critical thinking by writing.md",
+    "how to train yourself to be a genius.md",
+    "thinker.md",
+    "The garden of thoughts.md",
+    "My dreams in life.md",
+    "Thinking.md",
     "Feb 3, 2023.md",
     "Tự làm một document film về bản thân.md",
     "You Raise Me Up (2021).md",
@@ -162,15 +172,7 @@
     "geohot.md",
     "Trong không gian riêng cùng tận hưởng với vợ những món ăn mà hai đứa nấu.md",
     "the correct mind mapping technique.md",
-    "Mar 19, 2023.md",
-    "fuck you money.md",
-    "zettelkasten note-taking method.md",
     "filename heading sync setting.png",
-    "My note-writing system.md",
-    "Ellie Phuong.md",
-    "Become  to Genius.md",
-    "why i don't wear underwear.md",
-    "Hôm nay cảm xúc màu gì.md",
     "strong men weak men time.png",
     "LICENSE",
     "template",
