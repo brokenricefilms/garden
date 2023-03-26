@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "obsidian script show all tags.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "obsidian script show all tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "obsidian script show all tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "obsidian script show all tags.md"
               }
             }
           }
@@ -154,9 +154,13 @@
   },
   "active": "08874afad640bb98",
   "lastOpenFiles": [
+    "custom_javascript/copy_all_tag.js",
+    "custom_javascript/Object.keys(app.metadataCache.getTags()).join(', ')",
+    "custom_javascript/copy_share_link.js",
+    "custom_javascript/cObject.keys(app.metadataCache.getTags()).join(', ')opy_share_link.js",
+    "The garden of thoughts.md",
     "Mar 18, 2023.md",
     "Thinker.md",
-    "The garden of thoughts.md",
     "Mar 20, 2023.sync-conflict-20230325-141100-YY54AJQ.md",
     "The garden of thoughts.sync-conflict-20230325-141102-YY54AJQ.md",
     "how to train yourself to be a genius.md",
@@ -170,7 +174,6 @@
     "lighting_camera.png",
     "Pasted Image 20230324220055_204.png",
     "Untitled.md",
-    "custom_javascript/copy_share_link.js",
     "custom_javascript",
     "My dreams in life.md",
     "Drawing 2023-03-24 21.20.11.excalidraw.md",
@@ -197,7 +200,6 @@
     "20210930100911.md.png",
     "strong men weak men time.png",
     "LICENSE",
-    "zet_publish",
-    "zet_personal"
+    "zet_publish"
   ]
 }
