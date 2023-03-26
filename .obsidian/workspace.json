@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thinker.md",
+                "file": "Mar 18, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thinker.md",
+                "file": "Mar 18, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thinker.md",
+                "file": "Mar 18, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thinker.md"
+                "file": "Mar 18, 2023.md"
               }
             }
           }
@@ -154,8 +154,8 @@
   },
   "active": "08874afad640bb98",
   "lastOpenFiles": [
-    "The garden of thoughts.md",
     "Thinker.md",
+    "The garden of thoughts.md",
     "Mar 20, 2023.sync-conflict-20230325-141100-YY54AJQ.md",
     "The garden of thoughts.sync-conflict-20230325-141102-YY54AJQ.md",
     "how to train yourself to be a genius.md",
