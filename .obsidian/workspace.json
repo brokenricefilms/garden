@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "7022df1ca0f46a96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stephen Wolfram.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c082b02277645d35",
             "type": "leaf",
             "state": {
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -141,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "show all youtube channel chapter.md",
+                "file": "Stephen Wolfram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "show all youtube channel chapter.md",
+                "file": "Stephen Wolfram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "show all youtube channel chapter.md"
+                "file": "Stephen Wolfram.md"
               }
             }
           }
@@ -205,10 +218,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9529827f048d6dd",
+  "active": "7022df1ca0f46a96",
   "lastOpenFiles": [
-    "Mar 28, 2023.md",
     "show all youtube channel chapter.md",
+    "Stephen Wolfram.md",
+    "Mar 28, 2023.md",
     "zettelkasten note-taking method.md",
     "Writing.md",
     "My note-writing system.md",
@@ -242,7 +256,6 @@
     "sync",
     "lighting_camera.png",
     "custom_javascript",
-    "Drawing 2023-03-24 21.20.11.excalidraw.md",
     "hairstyles.canvas",
     "filename heading sync setting.png",
     "Pasted image 20230321100927.png",
