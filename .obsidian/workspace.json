@@ -11,11 +11,56 @@
             "id": "0b930f8e4a5f3f82",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The garden of thoughts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e43c20fe68e4c04e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbc1d6e349077434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten note-taking method.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c082b02277645d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My note-writing system.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -83,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten note-taking method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettelkasten note-taking method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettelkasten note-taking method.md"
+              }
             }
           }
         ],
@@ -143,15 +192,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b930f8e4a5f3f82",
+  "active": "bbc1d6e349077434",
   "lastOpenFiles": [
+    "Writing.md",
+    "My note-writing system.md",
+    "The garden of thoughts.md",
     "menu key on black keyboard.png",
     "screenshot.excalidraw.md",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
-    "My note-writing system.md",
-    "Writing.md",
-    "The garden of thoughts.md",
     "My dreams in life.md",
     "Trong không gian riêng cùng tận hưởng với vợ những món ăn mà hai đứa nấu.md",
     "food i like.md",
