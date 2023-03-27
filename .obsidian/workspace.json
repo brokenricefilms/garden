@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian script show all tags.md",
+                "file": "why i don't wear underwear.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian script show all tags.md",
+                "file": "why i don't wear underwear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian script show all tags.md",
+                "file": "why i don't wear underwear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian script show all tags.md"
+                "file": "why i don't wear underwear.md"
               }
             }
           }
@@ -154,6 +154,7 @@
   },
   "active": "08874afad640bb98",
   "lastOpenFiles": [
+    "obsidian script show all tags.md",
     "custom_javascript/copy_all_tag.js",
     "custom_javascript/Object.keys(app.metadataCache.getTags()).join(', ')",
     "custom_javascript/copy_share_link.js",
@@ -199,7 +200,6 @@
     "publish",
     "20210930100911.md.png",
     "strong men weak men time.png",
-    "LICENSE",
-    "zet_publish"
+    "LICENSE"
   ]
 }
