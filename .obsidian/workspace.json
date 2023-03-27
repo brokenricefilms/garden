@@ -4,102 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "80d0e2d941f5041b",
+        "id": "b6ce4e7584e37eef",
         "type": "tabs",
         "children": [
           {
-            "id": "08874afad640bb98",
+            "id": "0b930f8e4a5f3f82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The garden of thoughts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d22876a96174352",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My dreams in life.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "999afe7414e26616",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trong không gian riêng cùng tận hưởng với vợ những món ăn mà hai đứa nấu.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "169bcfd1d48e17f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "food i like.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e735cda06df501d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mar 27, 2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a994d4b2ee6186b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b59cdec008548a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My note-writing system.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4,
         "stacked": true
       }
     ],
@@ -167,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mar 27, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mar 27, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mar 27, 2023.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -231,17 +143,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e735cda06df501d",
+  "active": "0b930f8e4a5f3f82",
   "lastOpenFiles": [
-    "test key input code on linux wayland.md",
-    "food i like.md",
-    "Writing.md",
-    "Trong không gian riêng cùng tận hưởng với vợ những món ăn mà hai đứa nấu.md",
-    "My dreams in life.md",
-    "The garden of thoughts.md",
+    "menu key on black keyboard.png",
+    "screenshot.excalidraw.md",
+    "easyeffects input tab.png",
+    "Pasted Image 20230324220055_204.png",
     "My note-writing system.md",
-    "tasks.md",
+    "Writing.md",
+    "The garden of thoughts.md",
+    "My dreams in life.md",
+    "Trong không gian riêng cùng tận hưởng với vợ những món ăn mà hai đứa nấu.md",
+    "food i like.md",
+    "Pasted Image 20230324220055_204.png.md",
     "Mar 27, 2023.md",
+    "test key input code on linux wayland.md",
+    "tasks.md",
     "why i don't wear underwear.md",
     "obsidian script show all tags.md",
     "custom_javascript/copy_all_tag.js",
@@ -258,17 +175,12 @@
     "Mar 24, 2023.md",
     "obsidian plugin copy link share note on publish github repo.md",
     "sync",
-    "screenshot.excalidraw.md",
     "lighting_camera.png",
-    "Pasted Image 20230324220055_204.png",
     "custom_javascript",
     "Drawing 2023-03-24 21.20.11.excalidraw.md",
     "Mar 22, 2023.md",
-    "Pasted Image 20230324211543_868.png",
     "html preprocessor.md",
-    "Become  to Genius.md",
     "hairstyles.canvas",
-    "training critical thinking by writing.md",
     "filename heading sync setting.png",
     "Pasted image 20230321100927.png",
     "Pasted image 20230321100917.jpg",
@@ -278,7 +190,6 @@
     "Excalidraw",
     "publish",
     "20210930100911.md.png",
-    "strong men weak men time.png",
     "LICENSE"
   ]
 }
