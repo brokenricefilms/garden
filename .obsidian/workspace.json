@@ -21,6 +21,32 @@
             }
           },
           {
+            "id": "6d22876a96174352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My dreams in life.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "999afe7414e26616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trong không gian riêng cùng tận hưởng với vợ những món ăn mà hai đứa nấu.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9a994d4b2ee6186b",
             "type": "leaf",
             "state": {
@@ -115,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My note-writing system.md",
+                "file": "Trong không gian riêng cùng tận hưởng với vợ những món ăn mà hai đứa nấu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My note-writing system.md",
+                "file": "Trong không gian riêng cùng tận hưởng với vợ những món ăn mà hai đứa nấu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My note-writing system.md"
+                "file": "Trong không gian riêng cùng tận hưởng với vợ những món ăn mà hai đứa nấu.md"
               }
             }
           }
@@ -179,10 +205,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b59cdec008548a0",
+  "active": "999afe7414e26616",
   "lastOpenFiles": [
-    "Writing.md",
+    "My dreams in life.md",
     "The garden of thoughts.md",
+    "Writing.md",
+    "My note-writing system.md",
     "tasks.md",
     "Mar 27, 2023.md",
     "why i don't wear underwear.md",
@@ -206,7 +234,6 @@
     "Pasted Image 20230324220055_204.png",
     "Untitled.md",
     "custom_javascript",
-    "My dreams in life.md",
     "Drawing 2023-03-24 21.20.11.excalidraw.md",
     "Mar 22, 2023.md",
     "Pasted Image 20230324211543_868.png",
@@ -216,7 +243,6 @@
     "training critical thinking by writing.md",
     "What I think about people beauty.md",
     "Reading.md",
-    "pug html preprocessor.md",
     "filename heading sync setting.png",
     "Pasted image 20230321100927.png",
     "Pasted image 20230321100917.jpg",
