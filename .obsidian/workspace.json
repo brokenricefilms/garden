@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing.md",
+                "file": "show all youtube channel chapter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing.md",
+                "file": "show all youtube channel chapter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing.md"
+                "file": "show all youtube channel chapter.md"
               }
             }
           }
@@ -218,13 +218,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e43c20fe68e4c04e",
+  "active": "d9529827f048d6dd",
   "lastOpenFiles": [
     "Mar 28, 2023.md",
+    "Writing.md",
     "show all youtube channel chapter.md",
     "Stephen Wolfram.md",
     "zettelkasten note-taking method.md",
-    "Writing.md",
     "My note-writing system.md",
     "The garden of thoughts.md",
     "menu key on black keyboard.png",
