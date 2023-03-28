@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stephen Wolfram.md",
+                "file": "Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stephen Wolfram.md",
+                "file": "Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stephen Wolfram.md"
+                "file": "Writing.md"
               }
             }
           }
@@ -218,11 +218,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7022df1ca0f46a96",
+  "active": "e43c20fe68e4c04e",
   "lastOpenFiles": [
+    "Mar 28, 2023.md",
     "show all youtube channel chapter.md",
     "Stephen Wolfram.md",
-    "Mar 28, 2023.md",
     "zettelkasten note-taking method.md",
     "Writing.md",
     "My note-writing system.md",
