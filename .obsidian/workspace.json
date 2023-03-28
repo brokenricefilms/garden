@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b6ce4e7584e37eef",
+        "id": "1db6a0ac7c735bda",
         "type": "tabs",
         "children": [
           {
-            "id": "0b930f8e4a5f3f82",
+            "id": "b06ad84619aaeecf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,74 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e43c20fe68e4c04e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbc1d6e349077434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mar 28, 2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9529827f048d6dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "show all youtube channel chapter.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7022df1ca0f46a96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stephen Wolfram.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c082b02277645d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My note-writing system.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -154,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "show all youtube channel chapter.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "show all youtube channel chapter.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "show all youtube channel chapter.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -218,15 +152,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9529827f048d6dd",
+  "active": "b06ad84619aaeecf",
   "lastOpenFiles": [
     "Mar 28, 2023.md",
-    "show all youtube channel chapter.md",
-    "Writing.md",
-    "Stephen Wolfram.md",
-    "zettelkasten note-taking method.md",
-    "My note-writing system.md",
     "The garden of thoughts.md",
+    "My note-writing system.md",
+    "Stephen Wolfram.md",
+    "Writing.md",
+    "show all youtube channel chapter.md",
+    "zettelkasten note-taking method.md",
     "menu key on black keyboard.png",
     "screenshot.excalidraw.md",
     "easyeffects input tab.png",
