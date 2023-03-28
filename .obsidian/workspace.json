@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "obsidian script show all tags.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "obsidian script show all tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "obsidian script show all tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "obsidian script show all tags.md"
               }
             }
           }
@@ -154,8 +154,8 @@
   },
   "active": "b06ad84619aaeecf",
   "lastOpenFiles": [
-    "Mar 28, 2023.md",
     "The garden of thoughts.md",
+    "Mar 28, 2023.md",
     "My note-writing system.md",
     "Stephen Wolfram.md",
     "Writing.md",
