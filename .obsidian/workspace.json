@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "tasks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "tasks.md"
               }
             }
           }
@@ -154,11 +154,12 @@
   },
   "active": "fc598fca4dbd5886",
   "lastOpenFiles": [
-    "yoga ball.md",
     "Mar 29, 2023.md",
     "tasks.md",
-    "obsidian script show all tags.md",
+    "How make tags useful for managing thoughts.md",
     "The garden of thoughts.md",
+    "yoga ball.md",
+    "obsidian script show all tags.md",
     "Mar 28, 2023.md",
     "My note-writing system.md",
     "Stephen Wolfram.md",
@@ -186,7 +187,6 @@
     "The garden of thoughts.sync-conflict-20230325-141102-YY54AJQ.md",
     "how to train yourself to be a genius.md",
     "Mar 25, 2023.md",
-    "Thinking.md",
     "sync",
     "lighting_camera.png",
     "custom_javascript",
