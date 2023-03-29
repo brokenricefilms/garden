@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1db6a0ac7c735bda",
+        "id": "95da6a9cbd5c0d36",
         "type": "tabs",
         "children": [
           {
-            "id": "b06ad84619aaeecf",
+            "id": "fc598fca4dbd5886",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mar 29, 2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "680e8ddf8a969d91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "yoga ball.md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mar 29, 2023.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mar 29, 2023.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mar 29, 2023.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -165,7 +152,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b06ad84619aaeecf",
+  "active": "fc598fca4dbd5886",
   "lastOpenFiles": [
     "yoga ball.md",
     "Mar 29, 2023.md",
