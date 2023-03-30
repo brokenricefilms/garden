@@ -6,4 +6,4 @@ yep [AUR](AUR.md) not prefect, some package broken, but still the best of i thin
 
 ---
 
-#tool/linux 
+#Technology_and_applied_sciences/tool/linux 

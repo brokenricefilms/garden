@@ -34,4 +34,4 @@ nmap mt :lua require("harpoon.ui").nav_file(10)<enter>
 - [ThePrimeagen](ThePrimeagen.md)
 - https://www.youtube.com/watch?v=Qnos8aApa9g
 
-> #tool/vim
+> #Technology_and_applied_sciences/tool/vim

@@ -15,4 +15,4 @@ có những biện pháp tránh thai họ sẽ không sợ, họ mất đi cảm
   - https://www.youtube.com/watch?v=hGFuDGJmXic
   - Relate: https://www.youtube.com/watch?v=qvdHIowgLRs
 
-#social_media/youtube #sex #Society_and_social_sciences/psychology
+#Society_and_social_sciences/sexology #Society_and_social_sciences/psychology

@@ -5,4 +5,4 @@
 
 ---
 
-#philosophy 
+#Philosophy_and_thinking 

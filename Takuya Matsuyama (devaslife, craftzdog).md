@@ -8,4 +8,4 @@
 
 [hairstyles](hairstyles.canvas)
 
-#human 
+#People_and_self/humans 

@@ -4,4 +4,4 @@
 - let't try to fix with 2 hashtag ##github
 - hm it not working → i think not a regex, i like a security
 
-> #writing/note-writing/zettelkasten
+> #Philosophy_and_thinking/writing/zettelkasten_method

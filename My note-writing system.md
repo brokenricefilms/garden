@@ -10,4 +10,4 @@ Note-writing
 
 Video: [my note-writing system | take 2, plugins - YouTube](https://www.youtube.com/watch?v=KJpDepXMEPo)
 
-#productive 
+#Philosophy_and_thinking/writing 

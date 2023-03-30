@@ -46,4 +46,4 @@ Và câu trả lời chắc chắn là mình không hối hận khi bỏ thời 
 
 ---
 
-#Culture_and_the_arts/anime #writing/blog
+#Culture_and_the_arts/anime #Philosophy_and_thinking/writing/blog

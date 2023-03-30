@@ -46,4 +46,4 @@ Okay chốt lại thì hàng ngày thì tui vẫn nắm tai bé mèo dạo chơi
 
 ---
 
-#tool/github #open-source #writing/blog 
+#Technology_and_applied_sciences/tool/github #Technology_and_applied_sciences/open-source #Philosophy_and_thinking/writing/blog 

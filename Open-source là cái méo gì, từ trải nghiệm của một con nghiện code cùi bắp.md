@@ -41,4 +41,4 @@ Cái này liên quan tới git, mấy chế đừng như tui xài auto commit sc
 
 **Tóm lại**: đối với suy nghĩ của tui qua những project opensource, chúng ta có thể đống góp cho cộng đồng của nghành mình nói riêng và xã hội nói chung. Những phần mền tui thường dùng thường ngày thường là opensource, terminal app, web dev,... Nếu bạn có thời gian hay có hứng thú với những opensource software ấy, thì có thể ghé qua nha. Tui cũng có thành lập một cái nơi trên github để các đồng chí tụi mình phát triển, thảo luận,... opensource mấy chế có hứng thú có thể ghé qua nha.
 
-#tool/github #open-source
+#Technology_and_applied_sciences/tool/github #Technology_and_applied_sciences/open-source

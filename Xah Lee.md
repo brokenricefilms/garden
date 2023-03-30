@@ -3,4 +3,4 @@
 - Website: <http://xahlee.info>
 - Email: Xah@XahLee.org
 
-#human
+#People_and_self/humans

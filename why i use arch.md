@@ -10,4 +10,4 @@ okay let's ask myself [why linux have many package manager](why%20linux%20have%2
 
 but wait what is [AUR](AUR.md)?
 
-#tool/linux 
+#Technology_and_applied_sciences/tool/linux 

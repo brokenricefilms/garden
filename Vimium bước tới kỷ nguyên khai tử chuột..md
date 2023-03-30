@@ -46,4 +46,4 @@ Do nó chỉ là một cái extention nên còn nhiều hạn chế trong hiệu
 
 ---
 
-#tool/vim #writing/blog
+#Technology_and_applied_sciences/tool/vim #Philosophy_and_thinking/writing/blog

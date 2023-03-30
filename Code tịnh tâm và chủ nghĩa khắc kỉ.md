@@ -135,4 +135,4 @@ Những câu chuyện, bài học và lời khuyên của tui là những trải
 
 ---
 
-> #productive #philosophy #writing/blog #programming
+#Philosophy_and_thinking/writing/blog #Technology_and_applied_sciences/programming

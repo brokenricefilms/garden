@@ -1,3 +1,3 @@
 # Artem Kirsanov
 
-> #human
+> #People_and_self/humans

@@ -8,7 +8,7 @@
 ## rem
 
 - using the default font size provide by browser
-- this can be changed by website code <!--TODO: how?-->
+- this can be changed by website code
 
 ## em
 
@@ -63,4 +63,4 @@
 - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units
 - https://web.dev/learn/css/sizing/
 
-#programming/css
+#Technology_and_applied_sciences/programming/css

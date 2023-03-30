@@ -9,4 +9,4 @@
 
 [ông dev](ông%20dev.md)
 
-#programming/algorithm
+#Technology_and_applied_sciences/programming/algorithm

@@ -14,4 +14,4 @@
 
 ---
 
-> #social_media/youtube #money/fund #money
+ #Society_and_social_sciences/finance/fund #Society_and_social_sciences/finance

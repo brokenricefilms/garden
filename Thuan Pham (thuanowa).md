@@ -12,4 +12,4 @@ My family
 - I'm a homebody + lazy + crazy person.
 - [Home • thuanowa](https://thuanowa.com)
 
-#human 
+#People_and_self/humans 

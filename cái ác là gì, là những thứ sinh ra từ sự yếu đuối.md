@@ -15,4 +15,4 @@ classroom of the elite ep. 1
 
 [classroom of the eilite](classroom%20of%20the%20eilite.md)
 
-#philosophy 
+#Philosophy_and_thinking 

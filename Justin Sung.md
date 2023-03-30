@@ -2,4 +2,4 @@
 
 - https://www.youtube.com/c/JustinSung
 
-#human 
+#People_and_self/humans 

@@ -49,4 +49,4 @@
 ---
 [Copy note URL command - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/copy-note-url-command/6696)
 
-#tool/obsidian 
+#Technology_and_applied_sciences/tool/obsidian 

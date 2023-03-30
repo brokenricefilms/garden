@@ -22,4 +22,4 @@ thì tóm lại trong cuộc sống bình dị thường ngày thì tôi nên h�
 
 [BUỒN-CƯỜI PODCAST #9 FT. DUSTIN PHÚC NGUYỄN: Hôm nay cảm xúc màu gì? - YouTube](https://www.youtube.com/watch?v=gVS_37XbAsc)
 
-#intelligence/emotional_intelligence
+#Philosophy_and_thinking/intelligence/emotional_intelligence

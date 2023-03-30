@@ -110,4 +110,4 @@
 
 ---
 
-> #book #Society_and_social_sciences/psychology
+#Society_and_social_sciences/psychology

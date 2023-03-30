@@ -2,4 +2,4 @@
 
 [Phuc (sis husband)](Phuc%20(sis%20husband).md)
 
-#human 
+#People_and_self/humans 

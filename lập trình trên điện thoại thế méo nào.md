@@ -39,4 +39,4 @@ Sao bao lần cai cú, tui nghĩ ra một cách để gãi ngứa là code trên
 
 **Tóm cái quần lại** thì lập trình trên điện thoại không phải là bất khả thi, và code cũng ổn áp. Tui cũng không thường code trên điện thoại đơn giản vì nó không sướng bằng laptop, tui nghĩ nó có thể giúp ích trong những lúc mà mình không đem theo laptop, hoặc nghịch phá các thể loại.
 
-#writing/blog
+#Philosophy_and_thinking/writing/blog

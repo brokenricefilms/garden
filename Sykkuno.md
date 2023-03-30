@@ -2,4 +2,4 @@
 
 [Sykkuno - YouTube](https://www.youtube.com/@Sykkuno)
 
-#human 
+#People_and_self/humans 

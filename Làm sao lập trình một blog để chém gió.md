@@ -61,4 +61,4 @@ Cuối cùng anh em có thể tham khảo source code của cái blog của tui 
 
 ---
 
-#writing/blog #programming 
+#Philosophy_and_thinking/writing/blog #Technology_and_applied_sciences/programming 

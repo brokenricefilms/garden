@@ -6,4 +6,4 @@ học thêm được từ mới đầu bị ẩm 😄
 
 ---
 
-> #human
+> #People_and_self/humans

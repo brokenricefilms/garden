@@ -7,4 +7,4 @@ set keymap=vietnamese-vni
 
 ---
 
-#tool/vim 
+#Technology_and_applied_sciences/tool/vim 

@@ -4,4 +4,4 @@
 
 ---
 
-> #programming/algorithm #programming/data_structure
+> #Technology_and_applied_sciences/programming/algorithm #Technology_and_applied_sciences/programming/data_structure

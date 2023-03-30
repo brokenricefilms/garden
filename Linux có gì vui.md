@@ -73,4 +73,4 @@ Những câu chuyện, bài học và lời khuyên của tui là những trải
 
 ---
 
-> #tool/linux #writing/blog
+> #Technology_and_applied_sciences/tool/linux #Philosophy_and_thinking/writing/blog

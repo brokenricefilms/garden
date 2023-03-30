@@ -35,4 +35,4 @@
 
 ---
 
-> #money
+> #Society_and_social_sciences/finance

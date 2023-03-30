@@ -43,4 +43,4 @@ p..:π
 [^4]: http://xahlee.info/M/index.html
 [^5]: https://github.com/thuanowa/ibus-bamboo-math
 
-> #mathematics #writing/blog 
+> #Mathematics_and_logic #Philosophy_and_thinking/writing/blog 

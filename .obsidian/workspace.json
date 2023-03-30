@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "95da6a9cbd5c0d36",
+        "id": "8e759fdac8edc04b",
         "type": "tabs",
         "children": [
           {
-            "id": "fc6844778b3c8c49",
+            "id": "af73c165022ecec2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What I think about people beauty.md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#blog",
+                "query": "tag:#book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "right": {
     "id": "e9c7ebb5a0bec003",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What I think about people beauty.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What I think about people beauty.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What I think about people beauty.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -137,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,34 +153,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc6844778b3c8c49",
+  "active": "af73c165022ecec2",
   "lastOpenFiles": [
-    "The garden of thoughts.md",
+    "CSS Sizing Units.md",
+    "can đảm biến thách thức thành sức mạnh.md",
+    "Osho.md",
+    "lên đường với trái tim trần trụi - tôi là một con lừa.md",
+    "Nghệ thuật tinh tế của việc đếch quan tâm.md",
+    "Viết lách giống như đánh tennis mỗi ngày.md",
+    "tưởng tượng về tương lai cùng vợ nấu ăn và tận hưởng không gian riêng.md",
+    "training critical thinking by writing.md",
     "Thiết kế đồ họa lại trước làn sóng Blockchain.md",
-    "What font i like.md",
-    "How make tags useful for managing thoughts.md",
+    "The problem with active recall and spaced repetition.md",
+    "thần bài với bubble sort.md",
+    "Mar 24, 2023.md",
+    "Mar 19, 2023.md",
+    "Mar 18, 2023.md",
+    "bàn về một số vấn đề về con người và sns.md",
+    "Những áp lực tiêu cực và sự cặm cụi.md",
+    "làm sao để học một cái gì đó khi không có tiền + thời gian.md",
+    "liên kết mọi người trong nhóm bằng đồ ăn.md",
+    "how to take smart notes talk by author.md",
     "How to successfully negotiate salary.md",
     "Dr Jordan Peterson on Sex & Promiscuity.md",
     "Disguised Toast talk about his journey to lose weight.md",
     "Chia sẻ kinh nghiệm xin quỹ nghiên cứu - OCAST & NSF grants.md",
-    "Death March to the Parallel World Rhapsody.md",
-    "Viết lách giống như đánh tennis mỗi ngày.md",
-    "tưởng tượng về tương lai cùng vợ nấu ăn và tận hưởng không gian riêng.md",
-    "training critical thinking by writing.md",
-    "The Social Dilemma (2020).md",
-    "bàn về một số vấn đề về con người và sns.md",
-    "Who I trust.md",
-    "tasks.md",
-    "Mar 22, 2023.md",
-    "Mar 29, 2023.md",
-    "yoga ball.md",
-    "obsidian script show all tags.md",
-    "Mar 28, 2023.md",
     "My note-writing system.md",
-    "Stephen Wolfram.md",
-    "Writing.md",
-    "show all youtube channel chapter.md",
-    "zettelkasten note-taking method.md",
+    "Gõ ký tự toán học ∑ bằng chức năng gõ tắt.md",
+    "Integral cryptanalysis.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",

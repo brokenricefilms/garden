@@ -13,4 +13,4 @@
 ---
 
 - [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](The%20World's%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat.md)
-#philosophy 
+#Philosophy_and_thinking 

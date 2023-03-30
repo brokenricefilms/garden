@@ -1,6 +1,6 @@
 # gydient
 
-#human
+#People_and_self/humans
 
 - name: Tra Giang Nguyen
 - website: https://gydient.com/

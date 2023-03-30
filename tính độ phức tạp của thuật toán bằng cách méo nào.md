@@ -8,4 +8,4 @@
 
 ---
 
-> #programming/algorithm
+> #Technology_and_applied_sciences/programming/algorithm

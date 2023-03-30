@@ -8,4 +8,4 @@ i make youtube video [Session manager from command line to browser: tmux & worko
 
 ---
 
-#tool/workona
+#Technology_and_applied_sciences/tool/workona

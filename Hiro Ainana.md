@@ -4,4 +4,4 @@ author: [Death March to the Parallel World Rhapsody](Death%20March%20to%20the%20
 
 ---
 
-> #human
+> #People_and_self/humans

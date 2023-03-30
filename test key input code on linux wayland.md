@@ -4,4 +4,4 @@
 sudo libinput debug-events
 ```
 
-#tool/linux 
+#Technology_and_applied_sciences/tool/linux 

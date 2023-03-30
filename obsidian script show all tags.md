@@ -9,4 +9,4 @@ Object.keys(app.metadataCache.getTags()).join(', ')
 Object.keys(app.metadataCache.getTags()).map(x => x.slice(1)).join(', ')
 ```
 
-#tool/obsidian
+#Technology_and_applied_sciences/tool/obsidian

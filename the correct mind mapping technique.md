@@ -7,4 +7,4 @@
 
 ---
 
-> #mind-map
+> #Philosophy_and_thinking/mind_map

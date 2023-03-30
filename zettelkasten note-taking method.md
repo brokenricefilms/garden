@@ -8,4 +8,4 @@
 
 ---
 
-> #writing/note-writing/zettelkasten
+> #Philosophy_and_thinking/writing/zettelkasten_method

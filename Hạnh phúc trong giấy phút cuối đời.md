@@ -7,4 +7,4 @@ Làm sao để mình hạnh phúc trong giây phúc cuối đời?
 
 ---
 
-#philosophy 
+#Philosophy_and_thinking 

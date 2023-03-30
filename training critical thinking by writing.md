@@ -13,4 +13,4 @@
 
 ---
 
-#social_media/youtube #philosophy_and_thinking/thinking/critical_thinking
+#Philosophy_and_thinking/thinking/critical_thinking

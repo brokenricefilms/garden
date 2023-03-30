@@ -8,4 +8,4 @@
 
 ---
 
-> #Culture_and_the_arts/anime #writing/note-writing/zettelkasten
+> #Culture_and_the_arts/anime #Philosophy_and_thinking/writing/zettelkasten_method

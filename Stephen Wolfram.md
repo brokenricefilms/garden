@@ -4,4 +4,4 @@
 - Wolfram alpha
 - Mathematica
 
-#human
+#People_and_self/humans

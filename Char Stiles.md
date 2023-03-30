@@ -1,4 +1,4 @@
 # Char Stiles
 creative coding in music, visual
 
-#human
+#People_and_self/humans

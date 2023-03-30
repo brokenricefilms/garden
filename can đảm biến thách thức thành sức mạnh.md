@@ -26,4 +26,4 @@ tại sao phải tin tưởng tuyệt đối vào một điều gì đó mà ch�
 
 ---
 
-> #book
+#Philosophy_and_thinking 

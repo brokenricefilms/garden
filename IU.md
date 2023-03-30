@@ -4,4 +4,4 @@ ca sĩ diễn viên, cute
 
 ---
 
-> #human
+> #People_and_self/humans

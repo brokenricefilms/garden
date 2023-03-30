@@ -6,4 +6,4 @@ Smile more
 
 That's it
 
-> #writing/journal
+> #Philosophy_and_thinking/writing/journal

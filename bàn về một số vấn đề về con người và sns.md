@@ -1,7 +1,5 @@
 # bàn về một số vấn đề về con người và sns
 
-#writing/journal #social_media
-
 thời gian con người tồn tại ít liên quan tới level của con người đó
 
 con người không đủ trình thì sns sẽ điều khiển tâm trí của người đó
@@ -12,4 +10,4 @@ khiến cho việc suy nghĩ không có logic
 
 ⇒ cần đủ level trong việc lên sns thì mới có đủ trình kiểm soát được chính bản thân, nếu không chúng ta sẽ là một sản phẩm của nó mà thôi
 
-> note mang tính cà kịa cao
+#Philosophy_and_thinking/writing/journal #Society_and_social_sciences/social_media

@@ -116,4 +116,4 @@ Mấy công cụ trên thì giúp ích chúng ta một phần trong công cuộc
 
 ---
 
-#writing/blog 
+#Philosophy_and_thinking/writing/blog 

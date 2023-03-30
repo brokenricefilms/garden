@@ -120,4 +120,4 @@ Ngoài những kiến thức hàn lâm ra, tôi cũng được thầy Lâm chia 
 
 ---
 
-#university
+#Human_activities/education/university

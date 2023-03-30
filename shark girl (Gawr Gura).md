@@ -1,3 +1,3 @@
 # shark girl (Gawr Gura)
 
-#human 
+#People_and_self/humans 

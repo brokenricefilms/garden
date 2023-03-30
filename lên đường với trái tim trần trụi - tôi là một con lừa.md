@@ -22,10 +22,8 @@ nói chung phải đủ trình, suy nghĩ và một máu liều đó là điều
 
 đơn giản chỉ là một quyển nhật ký cảm nhận của tác giả, khi trải nhiệm khi đi ... có thể nói là vòng quanh thế giới này.
 
-## Ref
-
-- Author: [Nguyễn Phương Mai](Nguyễn%20Phương%20Mai.md)
-
 ---
 
-> #book
+Author: [Nguyễn Phương Mai](Nguyễn%20Phương%20Mai.md)
+
+#Society_and_social_sciences 

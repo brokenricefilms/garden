@@ -5,4 +5,4 @@
 
 ---
 
-> #mind-map #writing/note-writing/zettelkasten
+> #Philosophy_and_thinking/mind_map #Philosophy_and_thinking/writing/zettelkasten_method

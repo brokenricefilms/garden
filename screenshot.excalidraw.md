@@ -1,6 +1,6 @@
 ---
 excalidraw-plugin: parsed
-tags: [tool/excalidraw]
+tags: [Technology_and_applied_sciences/tool/excalidraw]
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 

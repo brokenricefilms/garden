@@ -14,4 +14,4 @@
 - Author: [Sonke Ahrens](Sonke%20Ahrens.md)
 - Link: https://www.youtube.com/watch?v=nPOI4f7yCag
 
-> #social_media/youtube #writing/note-writing/zettelkasten #philosophy_and_thinking/thinking/critical_thinking #writing/note-writing
+#Philosophy_and_thinking/writing/zettelkasten_method 

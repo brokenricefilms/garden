@@ -31,4 +31,4 @@ Một ngày nào đó cảm giác tỉnh thức sẽ đến với tâm hồn th�
 
 ---
 
-> #tool/vim #writing/blog
+> #Technology_and_applied_sciences/tool/vim #Philosophy_and_thinking/writing/blog
