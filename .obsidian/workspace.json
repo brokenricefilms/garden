@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Khi tôi chết, di nguyện, di chúc.md",
+                "file": "zettelkasten note-taking method.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Khi tôi chết, di nguyện, di chúc.md",
+                "file": "zettelkasten note-taking method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Khi tôi chết, di nguyện, di chúc.md",
+                "file": "zettelkasten note-taking method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Khi tôi chết, di nguyện, di chúc.md"
+                "file": "zettelkasten note-taking method.md"
               }
             }
           }
@@ -155,6 +155,7 @@
   },
   "active": "303b8ac0266d3a86",
   "lastOpenFiles": [
+    "Khi tôi chết, di nguyện, di chúc.md",
     "Mar 30, 2023.md",
     "zettelkasten note-taking method.md",
     "The garden of thoughts.md",
@@ -180,7 +181,6 @@
     "Mar 28, 2023.md",
     "Mar 29, 2023.md",
     "The writing style of Thuan Pham.md",
-    "template/daily.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
