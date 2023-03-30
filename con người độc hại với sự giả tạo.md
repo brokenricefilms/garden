@@ -8,4 +8,4 @@
 
 ---
 
-> #arts/anime #psychology
+> #Culture_and_the_arts/anime #Society_and_social_sciences/psychology

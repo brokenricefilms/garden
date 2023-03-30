@@ -8,4 +8,4 @@
 
 ---
 
-> #note-writing/zettelkasten
+> #writing/note-writing/zettelkasten

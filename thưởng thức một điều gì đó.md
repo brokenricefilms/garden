@@ -11,4 +11,4 @@
 
 ---
 
-> #psychology
+> #Society_and_social_sciences/psychology

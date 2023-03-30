@@ -2,4 +2,4 @@
 
 
 
-#journal
+#writing/journal

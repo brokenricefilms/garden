@@ -10,4 +10,4 @@
 
 ---
 
-#human_activities/education #arts/movie
+#human_activities/education #Culture_and_the_arts/movie

@@ -8,4 +8,4 @@ nhìn nhận một cách tích cực thì chúng ta có thể cắt bỏ phần 
 
 ---
 
-> #psychology
+> #Society_and_social_sciences/psychology

@@ -6,4 +6,4 @@ Smile more
 
 That's it
 
-> #Journal
+> #writing/journal

@@ -1,6 +1,6 @@
 # bàn về một số vấn đề về con người và sns
 
-#Journal #social_media
+#writing/journal #social_media
 
 thời gian con người tồn tại ít liên quan tới level của con người đó
 

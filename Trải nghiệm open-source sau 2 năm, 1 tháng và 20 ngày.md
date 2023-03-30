@@ -46,4 +46,4 @@ Okay chốt lại thì hàng ngày thì tui vẫn nắm tai bé mèo dạo chơi
 
 ---
 
-#tool/github #open-source #blog 
+#tool/github #open-source #writing/blog 

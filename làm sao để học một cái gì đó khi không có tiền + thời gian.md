@@ -20,4 +20,4 @@
 
 - [How To Learn To Code When You Have No Time And No Money - Codeland 2018](https://www.youtube.com/watch?v=xvV7OI1jdu4)
 
-> #social_media/youtube #psychology
+> #social_media/youtube #Society_and_social_sciences/psychology

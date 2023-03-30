@@ -81,4 +81,4 @@ Bye bye mấy chế.
 
 ---
 
-#programming #blog 
+#programming #writing/blog 

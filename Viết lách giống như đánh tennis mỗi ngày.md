@@ -22,4 +22,4 @@ khi nói chuyện với người lạ thì bản thân chúng ta sẽ dựng t�
 
 ---
 
-> #social_media/youtube #psychology
+> #social_media/youtube #Society_and_social_sciences/psychology

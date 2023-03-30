@@ -5,4 +5,4 @@
 
 ---
 
-> #mind-map #note-writing/zettelkasten
+> #mind-map #writing/note-writing/zettelkasten

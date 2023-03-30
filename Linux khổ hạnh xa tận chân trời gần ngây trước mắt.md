@@ -31,4 +31,4 @@ sudo echo ahihi  0.02s user 0.01s system 21% cpu 0.124 total
 
 ---
 
-> #tool/linux #blog 
+> #tool/linux #writing/blog 

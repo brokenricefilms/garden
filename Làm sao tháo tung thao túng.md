@@ -20,4 +20,4 @@
 
 [Táo](Táo.md)
 
-> #psychology
+> #Society_and_social_sciences/psychology

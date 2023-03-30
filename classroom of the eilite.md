@@ -1,3 +1,3 @@
 # classroom of the eilite
 
-#arts/anime 
+#Culture_and_the_arts/anime 

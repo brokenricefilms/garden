@@ -46,4 +46,4 @@ Do nó chỉ là một cái extention nên còn nhiều hạn chế trong hiệu
 
 ---
 
-#tool/vim #blog
+#tool/vim #writing/blog

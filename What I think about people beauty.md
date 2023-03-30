@@ -4,4 +4,4 @@ I have a ranting like 1 star, 2 star,... 5 star most a people i see in 3 star, 4
 
 → so what my style, yeah like [IU](IU.md) that sample for my style, i like girl simple, cute, good mindset, thinking,..
 
-#psychology 
+#Society_and_social_sciences/psychology 

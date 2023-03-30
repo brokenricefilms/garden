@@ -120,4 +120,4 @@ Mà khi anh em áp dụng trong cuộc sống sẽ giúp anh em thấy cuộc đ
 
 ---
 
-> #blog
+> #writing/blog

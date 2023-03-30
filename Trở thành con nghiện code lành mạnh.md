@@ -80,4 +80,4 @@ _Đó là một số cách mà tui thấy ok, còn nhiều cách khác nữa m�
 
 **Tóm lại:** Tự nhận là một con nghiện code nhưng nội công còn cùi mía, sức khỏe và tinh thần cũng không được ổn lắm, hi vọng cùng được đồng hành cùng anh chị em tìm kiếm con đường trở thành con nghiện code lành mạnh.
 
-#programming #blog 
+#programming #writing/blog 

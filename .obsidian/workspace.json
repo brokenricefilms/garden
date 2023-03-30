@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc598fca4dbd5886",
+            "id": "fc6844778b3c8c49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How make tags useful for managing thoughts.md",
+                "file": "What I think about people beauty.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tool/linux",
+                "query": "tag:#blog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How make tags useful for managing thoughts.md",
+                "file": "What I think about people beauty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How make tags useful for managing thoughts.md",
+                "file": "What I think about people beauty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How make tags useful for managing thoughts.md"
+                "file": "What I think about people beauty.md"
               }
             }
           }
@@ -151,8 +151,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc598fca4dbd5886",
+  "active": "fc6844778b3c8c49",
   "lastOpenFiles": [
+    "The garden of thoughts.md",
+    "Thiết kế đồ họa lại trước làn sóng Blockchain.md",
+    "What font i like.md",
+    "How make tags useful for managing thoughts.md",
     "How to successfully negotiate salary.md",
     "Dr Jordan Peterson on Sex & Promiscuity.md",
     "Disguised Toast talk about his journey to lose weight.md",
@@ -161,11 +165,8 @@
     "Viết lách giống như đánh tennis mỗi ngày.md",
     "tưởng tượng về tương lai cùng vợ nấu ăn và tận hưởng không gian riêng.md",
     "training critical thinking by writing.md",
-    "Thiết kế đồ họa lại trước làn sóng Blockchain.md",
     "The Social Dilemma (2020).md",
-    "The garden of thoughts.md",
     "bàn về một số vấn đề về con người và sns.md",
-    "How make tags useful for managing thoughts.md",
     "Who I trust.md",
     "tasks.md",
     "Mar 22, 2023.md",
@@ -179,7 +180,6 @@
     "show all youtube channel chapter.md",
     "zettelkasten note-taking method.md",
     "menu key on black keyboard.png",
-    "screenshot.excalidraw.md",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
     "custom_javascript/copy_all_tag.js",

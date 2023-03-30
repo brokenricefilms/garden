@@ -12,4 +12,4 @@
 - [5 Ways to Train Yourself to Be a Genius (3 Short-term, 2 Long-term) - YouTube](https://www.youtube.com/watch?v=3znAl0QH1eE)
 
 
-> #note-writing/zettelkasten
+> #writing/note-writing/zettelkasten

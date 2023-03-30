@@ -65,4 +65,4 @@ anh em có thể xem cái screencast tui làm cái blog của tui, để xem qua
 - tui xài termux, cho nó chạy cron job nó tự sync cái repo note của tui trên github, khoảng 15 phút thì nó tự sync, tui viết note có định dạng là md nên hiện tại tui dùng markor để coi note trên điện thoại, (tui đợi thằng obsidian publish cái app trên android thì tui chuyển qua obsidian trên điện thoại xài)
 
 ---
-#blog #tool/linux 
+#writing/blog #tool/linux 
