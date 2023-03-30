@@ -25,4 +25,57 @@ How to explore the garden of thoughts?
 
 ## Tags
 
-#Technology_and_applied_sciences/tool/linux, #Technology_and_applied_sciences/tool, #Technology_and_applied_sciences, #People_and_self/humans, #People_and_self, #Culture_and_the_arts/movie, #Culture_and_the_arts, #Philosophy_and_thinking/writing/journal, #Philosophy_and_thinking/writing, #Philosophy_and_thinking, #Technology_and_applied_sciences/programming/css, #Technology_and_applied_sciences/programming, #Society_and_social_sciences/finance/fund, #Society_and_social_sciences/finance, #Society_and_social_sciences, #Technology_and_applied_sciences/hardware, #Culture_and_the_arts/anime, #Philosophy_and_thinking/writing/blog, #People_and_self/gender_equality, #Culture_and_the_arts/food_and_drink/cooking, #Culture_and_the_arts/food_and_drink, #Health_and_fitness, #Society_and_social_sciences/sexology, #Society_and_social_sciences/psychology, #Technology_and_applied_sciences/tool/obsidian, #Mathematics_and_logic, #Technology_and_applied_sciences/tool/vim, #Philosophy_and_thinking/writing/zettelkasten_method, #Philosophy_and_thinking/intelligence/emotional_intelligence, #Philosophy_and_thinking/intelligence, #ideas/programming, #ideas, #ideas/video, #buy/want, #buy, #Philosophy_and_thinking/mind_map, #Human_activities/education/university, #Human_activities/education, #Human_activities, #Technology_and_applied_sciences/tool/github, #Technology_and_applied_sciences/open-source, #Technology_and_applied_sciences/programming/algorithm, #Technology_and_applied_sciences/programming/data_structure, #Culture_and_the_arts/design, #Culture_and_the_arts/kdrama, #Culture_and_the_arts/font, #Technology_and_applied_sciences/tool/workona, #Society_and_social_sciences/social_media, #Technology_and_applied_sciences/programming/html, #Technology_and_applied_sciences/tool/excalidraw, #Technology_and_applied_sciences/tool/command_line, #Philosophy_and_thinking/thinking/critical_thinking, #Philosophy_and_thinking/thinking, #People_and_self/marriage
+- #Culture_and_the_arts
+    - #Culture_and_the_arts/anime
+    - #Culture_and_the_arts/graphic_design
+        - #Culture_and_the_arts/graphic_design/font
+    - #Culture_and_the_arts/food_and_drink
+        - #Culture_and_the_arts/food_and_drink/cooking
+    - #Culture_and_the_arts/kdrama
+    - #Culture_and_the_arts/movie
+- #Health_and_fitness
+- #Human_activities
+    - #Human_activities/education
+        - #Human_activities/education/university
+- #Mathematics_and_logic
+- #People_and_self
+    - #People_and_self/gender_equality
+    - #People_and_self/humans
+    - #People_and_self/marriage
+- #Philosophy_and_thinking
+    - #Philosophy_and_thinking/intelligence
+        - #Philosophy_and_thinking/intelligence/emotional_intelligence
+    - #Philosophy_and_thinking/mind_map
+    - #Philosophy_and_thinking/thinking
+        - #Philosophy_and_thinking/thinking/critical_thinking
+    - #Philosophy_and_thinking/writing
+        - #Philosophy_and_thinking/writing/blog
+        - #Philosophy_and_thinking/writing/journal
+        - #Philosophy_and_thinking/writing/zettelkasten_method
+- #Society_and_social_sciences
+    - #Society_and_social_sciences/finance
+    - #Society_and_social_sciences/finance/fund
+    - #Society_and_social_sciences/psychology
+    - #Society_and_social_sciences/sexology
+    - #Society_and_social_sciences/social_media
+- #Technology_and_applied_sciences
+    - #Technology_and_applied_sciences/hardware
+    - #Technology_and_applied_sciences/open-source
+    - #Technology_and_applied_sciences/programming
+        - #Technology_and_applied_sciences/programming/algorithm
+        - #Technology_and_applied_sciences/programming/css
+        - #Technology_and_applied_sciences/programming/data_structure
+        - #Technology_and_applied_sciences/programming/html
+    - #Technology_and_applied_sciences/tool
+        - #Technology_and_applied_sciences/tool/command_line
+        - #Technology_and_applied_sciences/tool/excalidraw
+        - #Technology_and_applied_sciences/tool/github
+        - #Technology_and_applied_sciences/tool/linux
+        - #Technology_and_applied_sciences/tool/obsidian
+        - #Technology_and_applied_sciences/tool/vim
+        - #Technology_and_applied_sciences/tool/workona
+- #buy
+    - #buy/want
+- #ideas
+    - #ideas/programming
+    - #ideas/video
