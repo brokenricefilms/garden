@@ -1,5 +1,4 @@
 # The garden of thoughts
-🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀
 
 > DISCLAIMER: My stories, lessons, and advice are my personal experience, not reflecting opinions from any organization or company.
 
