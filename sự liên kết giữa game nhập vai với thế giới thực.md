@@ -8,4 +8,4 @@
 
 ---
 
-#video/anime
+#arts/anime

@@ -8,4 +8,4 @@
 
 ---
 
-> #video/movie
+> #arts/movie

@@ -4,4 +4,4 @@
 
 --
 
-> #video/anime
+> #arts/anime

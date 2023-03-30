@@ -29,4 +29,4 @@ nỗi đau, nỗi đau ấy?
 ---
 
 - Diễn viên: [IU](IU.md)
-#video/kdrama
+#arts/kdrama

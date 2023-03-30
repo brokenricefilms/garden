@@ -35,4 +35,4 @@ void bubbleSort(int array[], int n) {
 - Video: <https://www.youtube.com/watch?v=KsbdeXLau08>
 - Code bubble sort của ông dev xài js: https://github.com/OngDevTutorials/sorting-algorithms-visualizer/blob/master/assets/js/algorithms/BubbleSort.js
 
-> #video
+> #social_media/youtube

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "How make tags useful for managing thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sns",
+                "query": "tag:#tool/linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,12 +67,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "right": {
     "id": "e9c7ebb5a0bec003",
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "How make tags useful for managing thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "How make tags useful for managing thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,17 +128,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "How make tags useful for managing thoughts.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,12 +153,23 @@
   },
   "active": "fc598fca4dbd5886",
   "lastOpenFiles": [
+    "How to successfully negotiate salary.md",
+    "Dr Jordan Peterson on Sex & Promiscuity.md",
+    "Disguised Toast talk about his journey to lose weight.md",
+    "Chia sẻ kinh nghiệm xin quỹ nghiên cứu - OCAST & NSF grants.md",
+    "Death March to the Parallel World Rhapsody.md",
+    "Viết lách giống như đánh tennis mỗi ngày.md",
+    "tưởng tượng về tương lai cùng vợ nấu ăn và tận hưởng không gian riêng.md",
+    "training critical thinking by writing.md",
+    "Thiết kế đồ họa lại trước làn sóng Blockchain.md",
+    "The Social Dilemma (2020).md",
+    "The garden of thoughts.md",
+    "bàn về một số vấn đề về con người và sns.md",
+    "How make tags useful for managing thoughts.md",
     "Who I trust.md",
     "tasks.md",
     "Mar 22, 2023.md",
     "Mar 29, 2023.md",
-    "How make tags useful for managing thoughts.md",
-    "The garden of thoughts.md",
     "yoga ball.md",
     "obsidian script show all tags.md",
     "Mar 28, 2023.md",
@@ -172,21 +182,10 @@
     "screenshot.excalidraw.md",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
-    "My dreams in life.md",
-    "Trong không gian riêng cùng tận hưởng với vợ những món ăn mà hai đứa nấu.md",
-    "food i like.md",
-    "Pasted Image 20230324220055_204.png.md",
-    "Mar 27, 2023.md",
-    "test key input code on linux wayland.md",
-    "why i don't wear underwear.md",
     "custom_javascript/copy_all_tag.js",
     "custom_javascript/Object.keys(app.metadataCache.getTags()).join(', ')",
     "custom_javascript/copy_share_link.js",
     "custom_javascript/cObject.keys(app.metadataCache.getTags()).join(', ')opy_share_link.js",
-    "Mar 18, 2023.md",
-    "Thinker.md",
-    "Mar 20, 2023.sync-conflict-20230325-141100-YY54AJQ.md",
-    "The garden of thoughts.sync-conflict-20230325-141102-YY54AJQ.md",
     "sync",
     "lighting_camera.png",
     "custom_javascript",

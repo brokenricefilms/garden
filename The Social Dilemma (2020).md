@@ -1,6 +1,6 @@
 # The Social Dilemma (2020)
 
-#video
+#arts/movie 
 
 công nghệ, áp dụng với phân tích cảm xúc con người làm tăng giá trị, săn tiền, lợi ích, lợi dụng
 

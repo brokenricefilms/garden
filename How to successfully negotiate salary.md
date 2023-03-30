@@ -14,4 +14,4 @@
 
 ---
 
-> #video #money #psychology
+> #social_media/youtube #money #psychology

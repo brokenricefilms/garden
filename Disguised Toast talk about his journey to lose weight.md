@@ -9,4 +9,4 @@
 
 [How this streamer lost 30 pounds... - YouTube](https://www.youtube.com/watch?v=jjNtGpKIsRM)
 
-#healthy #video
+#health #social_media/youtube

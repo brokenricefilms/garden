@@ -1,6 +1,6 @@
 # Product Management for Managers
 
-#video #project_manager
+#social_media/youtube #project_manager
 
 ## Note
 

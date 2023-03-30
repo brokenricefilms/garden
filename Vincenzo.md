@@ -4,4 +4,4 @@
 
 ---
 
-#video/kdrama
+#arts/kdrama

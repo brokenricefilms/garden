@@ -48,4 +48,4 @@ và cái sự lập trình ấy được đề cập qua [The Social Dilemma (20
 
 ---
 
-#video/anime
+#arts/anime

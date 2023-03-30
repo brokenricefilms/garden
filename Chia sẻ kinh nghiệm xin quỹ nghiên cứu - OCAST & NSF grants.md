@@ -14,4 +14,4 @@
 
 ---
 
-> #video #money/fund #money
+> #social_media/youtube #money/fund #money

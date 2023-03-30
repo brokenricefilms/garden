@@ -8,4 +8,4 @@
 
 ---
 
-> #video/anime #psychology
+> #arts/anime #psychology

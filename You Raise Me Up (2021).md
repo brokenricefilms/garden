@@ -11,4 +11,4 @@
 
 - [you raise me up (info)](https://mydramalist.com/696959-you-raise-me-up)
 
-> #video/kdrama
+> #arts/kdrama

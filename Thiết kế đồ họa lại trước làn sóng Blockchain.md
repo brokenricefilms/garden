@@ -17,4 +17,4 @@ creative font-end từ một designer chuyên về nghệ thuật mà hoc code �
   - Tuan Le
 - Link: https://www.youtube.com/watch?v=G3IoEc7EHlg
 
-> #video #design
+> #social_media/youtube #arts/design

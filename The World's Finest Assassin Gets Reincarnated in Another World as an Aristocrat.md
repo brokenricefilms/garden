@@ -10,4 +10,4 @@
 - Japanese name: Sekai Saikō no Ansatsusha, Isekai Kizoku ni Tensei-suru
 - [Sát thủ đệ nhất thế giới chuyển sinh thành quý tộc ở thế giới khác [Việt sub] - YouTube](https://www.youtube.com/playlist?list=PLdM751AKK4aNZKavYFk3uWT7Sg1CqHp4q)
 
-#video/anime
+#arts/anime

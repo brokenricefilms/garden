@@ -14,4 +14,4 @@
 - Author: [Hieu Nguyen](Hieu%20Nguyen.md)
 - Link: [Những áp lực tiêu cực và sự cặm cụi - YouTube](https://www.youtube.com/watch?v=hZTehTRzY50)
 
-#video
+#social_media/youtube

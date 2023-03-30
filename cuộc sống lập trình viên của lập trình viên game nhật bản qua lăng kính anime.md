@@ -10,4 +10,4 @@
 
 ---
 
-> #video/anime
+> #arts/anime

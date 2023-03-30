@@ -12,4 +12,4 @@
 
 ---
 
-> #education
+> #human_activities/education

@@ -13,4 +13,4 @@
 
 ---
 
-#design/font
+#arts/design/font

@@ -8,4 +8,4 @@
 
 ---
 
-> #video/anime #note-writing/zettelkasten
+> #arts/anime #note-writing/zettelkasten
