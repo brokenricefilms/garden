@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks.md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasks.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -154,8 +154,9 @@
   },
   "active": "fc598fca4dbd5886",
   "lastOpenFiles": [
-    "Mar 22, 2023.md",
+    "Who I trust.md",
     "tasks.md",
+    "Mar 22, 2023.md",
     "Mar 29, 2023.md",
     "How make tags useful for managing thoughts.md",
     "The garden of thoughts.md",
@@ -186,7 +187,6 @@
     "Thinker.md",
     "Mar 20, 2023.sync-conflict-20230325-141100-YY54AJQ.md",
     "The garden of thoughts.sync-conflict-20230325-141102-YY54AJQ.md",
-    "how to train yourself to be a genius.md",
     "sync",
     "lighting_camera.png",
     "custom_javascript",
