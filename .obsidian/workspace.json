@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42a3f54fdd74a2e3",
+            "id": "303b8ac0266d3a86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How make tags useful for managing thoughts.md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How make tags useful for managing thoughts.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How make tags useful for managing thoughts.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How make tags useful for managing thoughts.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -153,34 +153,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42a3f54fdd74a2e3",
+  "active": "303b8ac0266d3a86",
   "lastOpenFiles": [
-    "The garden of thoughts.md",
-    "How make tags useful for managing thoughts.md",
+    "Speaking.md",
+    "Reading.md",
+    "Writing.md",
+    "Thinker.md",
     "My dreams in life.md",
+    "cày cấu trúc dữ liệu và thuật toán cùng ông dev.md",
+    "The garden of thoughts.md",
+    "The data structures and algorithms of humanity.md",
+    "yoga ball.md",
+    "gõ tiếng việt trên vim không cần bộ gõ tiếng việt built-in.md",
+    "How make tags useful for managing thoughts.md",
+    "Mar 24, 2023.md",
+    "Mar 22, 2023.md",
+    "Mar 21, 2023.md",
+    "Mar 23, 2023.md",
+    "why i use arch.md",
+    "html preprocessor.md",
+    "Mar 25, 2023.md",
+    "Mar 27, 2023.md",
+    "test key input code on linux wayland.md",
+    "Mar 28, 2023.md",
+    "Mar 29, 2023.md",
     "The writing style of Thuan Pham.md",
     "template/daily.md",
     "Mar 30, 2023.md",
     "Untitled.md",
-    "Writing.md",
-    "how to take smart notes talk by author.md",
-    "zettelkasten note-taking method.md",
-    "What I think about people beauty.md",
-    "why i don't wear underwear.md",
-    "What in my mind right now.md",
-    "What font i like.md",
-    "Thiết kế đồ họa lại trước làn sóng Blockchain.md",
-    "CSS Sizing Units.md",
-    "can đảm biến thách thức thành sức mạnh.md",
-    "Osho.md",
-    "lên đường với trái tim trần trụi - tôi là một con lừa.md",
-    "Nghệ thuật tinh tế của việc đếch quan tâm.md",
-    "Viết lách giống như đánh tennis mỗi ngày.md",
-    "tưởng tượng về tương lai cùng vợ nấu ăn và tận hưởng không gian riêng.md",
-    "training critical thinking by writing.md",
-    "The problem with active recall and spaced repetition.md",
-    "thần bài với bubble sort.md",
-    "Mar 24, 2023.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
