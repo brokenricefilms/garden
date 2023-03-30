@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6b33aaa90e0efcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My dreams in life.md",
+                "file": "How make tags useful for managing thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My dreams in life.md",
+                "file": "How make tags useful for managing thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My dreams in life.md",
+                "file": "How make tags useful for managing thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My dreams in life.md"
+                "file": "How make tags useful for managing thoughts.md"
               }
             }
           }
@@ -167,9 +153,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6b33aaa90e0efcc",
+  "active": "42a3f54fdd74a2e3",
   "lastOpenFiles": [
     "The garden of thoughts.md",
+    "How make tags useful for managing thoughts.md",
+    "My dreams in life.md",
     "The writing style of Thuan Pham.md",
     "template/daily.md",
     "Mar 30, 2023.md",
@@ -193,8 +181,6 @@
     "The problem with active recall and spaced repetition.md",
     "thần bài với bubble sort.md",
     "Mar 24, 2023.md",
-    "Mar 19, 2023.md",
-    "Mar 18, 2023.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
