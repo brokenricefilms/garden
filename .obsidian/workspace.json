@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Khi tôi chết, di nguyện, di chúc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Khi tôi chết, di nguyện, di chúc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Khi tôi chết, di nguyện, di chúc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "Khi tôi chết, di nguyện, di chúc.md"
               }
             }
           }
@@ -155,13 +155,15 @@
   },
   "active": "303b8ac0266d3a86",
   "lastOpenFiles": [
+    "Mar 30, 2023.md",
+    "zettelkasten note-taking method.md",
+    "The garden of thoughts.md",
+    "Thinker.md",
     "Speaking.md",
     "Reading.md",
     "Writing.md",
-    "Thinker.md",
     "My dreams in life.md",
     "cày cấu trúc dữ liệu và thuật toán cùng ông dev.md",
-    "The garden of thoughts.md",
     "The data structures and algorithms of humanity.md",
     "yoga ball.md",
     "gõ tiếng việt trên vim không cần bộ gõ tiếng việt built-in.md",
@@ -179,8 +181,6 @@
     "Mar 29, 2023.md",
     "The writing style of Thuan Pham.md",
     "template/daily.md",
-    "Mar 30, 2023.md",
-    "Untitled.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
