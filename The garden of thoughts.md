@@ -2,8 +2,6 @@
 
 > DISCLAIMER: My stories, lessons, and advice are my personal experience, not reflecting opinions from any organization or company.
 
-This garden i use both Vietnamese, English (little bit) → this can be conflict between when i am linking note, if you can read 2 lang (Vietnamese, English), i think this the best way to explore my note, what i thought?
-
 How to explore the garden of thoughts?
 
 -   You just use GitHub search, search [Tags](#tags) or anything you want. You also can read the [Trees](#trees), [Flowers](#flowers) below.
