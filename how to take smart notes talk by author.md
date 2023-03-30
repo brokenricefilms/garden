@@ -1,7 +1,5 @@
 # how to take smart notes talk by author
 
-## Note
-
 - ghi chú không chỉ đơn giản bày tỏ ý nghĩ của bản thần mà nó còn giúp chúng ta tạo ra ý tưởng mới
 - một ý tưởng là một note để chúng ta vận dụng cái đầu để suy nghĩ về nó
 - ở đây không chỉ đơn giản là lưu lại mà note dùng để liên kết từ một ý tưởng này đến một ý tưởng khác tạo ra một ý tưởng mới

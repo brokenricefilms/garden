@@ -1,4 +1,4 @@
-# why i don't wear underwear?
+# why i don't wear underwear
 
 - i remember first time i wear underwear when i study in years 5 (12 years of school in Vietnam), why i wear this because my mom say you need to wear that in the public area and i just fallowing what her say
 - right now i ask yourself the why question of anything
