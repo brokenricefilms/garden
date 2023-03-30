@@ -54,7 +54,7 @@ How to explore the garden of thoughts?
         - #Philosophy_and_thinking/writing/zettelkasten_method
 - #Society_and_social_sciences
     - #Society_and_social_sciences/finance
-    - #Society_and_social_sciences/finance/fund
+	    - #Society_and_social_sciences/finance/fund
     - #Society_and_social_sciences/psychology
     - #Society_and_social_sciences/sexology
     - #Society_and_social_sciences/social_media
