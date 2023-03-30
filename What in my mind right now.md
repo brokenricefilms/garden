@@ -2,11 +2,8 @@
 
 You can find my daily note, can search through `#journal`
 
-or via e.g.
-
+Or via example:
 > today is [Mar 22, 2023](Mar%2022,%202023.md)
 > Mar ?, 2023
 > Feb
 > 2023 
-
----

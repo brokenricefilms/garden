@@ -4,8 +4,9 @@
 
 How to explore the garden of thoughts?
 
--   You just use GitHub search, search [Tags](#tags) or anything you want. You also can read the [Trees](#trees), [Flowers](#flowers) below.
--   e.g. `#Culture_and_the_arts/anime`  <https://github.com/search?q=%23Culture_and_the_arts%2Fanime>
+-   You just use GitHub search, search [Branches](#branches) (aka tag) or anything you want. 
+	-   For example: `#Culture_and_the_arts/anime`  <https://github.com/search?q=%23Culture_and_the_arts%2Fanime>
+- You also can read the [Trees](#trees), [Flowers](#flowers) below.
 -   [What in my mind right now](What%20in%20my%20mind%20right%20now.md)
 
 ## Trees
@@ -23,7 +24,7 @@ How to explore the garden of thoughts?
 -   [Who I trust](Who%20I%20trust.md)
 -   [What i think about people beauty?](What%20I%20think%20about%20people%20beauty.md)
 
-## Tags
+## Branches
 
 - #Culture_and_the_arts
     - #Culture_and_the_arts/anime
