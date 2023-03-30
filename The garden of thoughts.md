@@ -5,7 +5,7 @@
 How to explore the garden of thoughts?
 
 -   You just use GitHub search, search [Tags](#tags) or anything you want. You also can read the [Trees](#trees), [Flowers](#flowers) below.
--   e.g. `#Culture_and_the_arts/anime` tag <https://github.com/search?q=%23Culture_and_the_arts%2Fanime>
+-   e.g. `#Culture_and_the_arts/anime`  <https://github.com/search?q=%23Culture_and_the_arts%2Fanime>
 -   [What in my mind right now](What%20in%20my%20mind%20right%20now.md)
 
 ## Trees
