@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "8e759fdac8edc04b",
+        "id": "24997330248a2c2a",
         "type": "tabs",
         "children": [
           {
-            "id": "303b8ac0266d3a86",
+            "id": "41bfef75412cdb78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mar 31, 2023.md",
+                "file": "tasks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eeabafc66746041d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mar 18, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -89,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mar 31, 2023.md",
+                "file": "Mar 18, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mar 31, 2023.md",
+                "file": "Mar 18, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mar 31, 2023.md"
+                "file": "Mar 18, 2023.md"
               }
             }
           }
@@ -153,15 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "303b8ac0266d3a86",
+  "active": "eeabafc66746041d",
   "lastOpenFiles": [
     "tasks.md",
     "Mar 31, 2023.md",
+    "Mar 18, 2023.md",
+    "Mar 19, 2023.md",
+    "The garden of thoughts.md",
     "Mar 30, 2023.md",
     "zettelkasten note-taking method.md",
     "what about Zettelkasten + mind map.md",
     "Khi tôi chết, di nguyện, di chúc.md",
-    "The garden of thoughts.md",
     "Thinker.md",
     "Speaking.md",
     "Reading.md",
@@ -179,8 +195,6 @@
     "why i use arch.md",
     "html preprocessor.md",
     "Mar 25, 2023.md",
-    "Mar 27, 2023.md",
-    "test key input code on linux wayland.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
