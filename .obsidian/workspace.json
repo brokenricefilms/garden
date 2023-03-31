@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten note-taking method.md",
+                "file": "tasks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten note-taking method.md",
+                "file": "tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten note-taking method.md",
+                "file": "tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten note-taking method.md"
+                "file": "tasks.md"
               }
             }
           }
@@ -155,9 +155,11 @@
   },
   "active": "303b8ac0266d3a86",
   "lastOpenFiles": [
+    "Mar 31, 2023.md",
+    "zettelkasten note-taking method.md",
+    "what about Zettelkasten + mind map.md",
     "Khi tôi chết, di nguyện, di chúc.md",
     "Mar 30, 2023.md",
-    "zettelkasten note-taking method.md",
     "The garden of thoughts.md",
     "Thinker.md",
     "Speaking.md",
@@ -179,8 +181,6 @@
     "Mar 27, 2023.md",
     "test key input code on linux wayland.md",
     "Mar 28, 2023.md",
-    "Mar 29, 2023.md",
-    "The writing style of Thuan Pham.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
