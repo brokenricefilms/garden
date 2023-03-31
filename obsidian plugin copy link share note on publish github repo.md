@@ -1,6 +1,5 @@
 # obsidian plugin copy link share note on publish github repo
 
-
 [script copy link share](./custom_javascript/copy_share_link.js)
 
 ```js
@@ -42,11 +41,9 @@
 }()
 ```
 
-- [-] make a obsidian plugin for easy to use #ideas/programming 
+- [-] make a obsidian plugin for easy to use
 
 - using [GitHub - saml-dev/obsidian-custom-js: An Obsidian plugin to allow users to reuse code blocks across all devices and OSes](https://github.com/saml-dev/obsidian-custom-js)
 
 ---
 [Copy note URL command - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/copy-note-url-command/6696)
-
-#Technology_and_applied_sciences/tool/obsidian 

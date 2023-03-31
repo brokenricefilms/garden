@@ -15,5 +15,3 @@
 
 - [Why I Don't Wear Underwear Anymore](https://www.youtube.com/watch?v=9ofNFTzsjt8)
 - [WHY MILITARY GUYS DONT WEAR UNDERWEAR](https://www.youtube.com/watch?v=zGDL_-o9Vxs)
-
-#Health_and_fitness

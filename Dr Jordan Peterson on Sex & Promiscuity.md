@@ -10,9 +10,6 @@ có những biện pháp tránh thai họ sẽ không sợ, họ mất đi cảm
 
 ---
 
-- Author: [Jordan B. Peterson](Jordan%20B.%20Peterson.md)
-- Link:
-  - https://www.youtube.com/watch?v=hGFuDGJmXic
-  - Relate: https://www.youtube.com/watch?v=qvdHIowgLRs
+[Jordan B. Peterson](Jordan%20B.%20Peterson.md)
 
-#Society_and_social_sciences/sexology #Society_and_social_sciences/psychology
+[YouTube](https://www.youtube.com/watch?v=hGFuDGJmXic) video, relate: ["Modern people like to think that there is nothing dangerous about sex" Jordan Peterson - YouTube](https://www.youtube.com/watch?v=qvdHIowgLRs)

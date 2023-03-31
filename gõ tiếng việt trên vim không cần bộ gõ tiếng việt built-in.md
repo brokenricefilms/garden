@@ -4,7 +4,3 @@
 set keymap=vietnamese-telex
 set keymap=vietnamese-vni
 ```
-
----
-
-#Technology_and_applied_sciences/tool/vim 
