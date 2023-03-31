@@ -7,5 +7,5 @@
   "fileNamePrefix": "",
   "transcludeByDefault": false,
   "noteLinkTemplate": "",
-  "refactoredNoteTemplate": "# {{title}}\n\n{{new_note_content}}\n\n---\n"
+  "refactoredNoteTemplate": "# {{title}}\n\n{{new_note_content}}"
 }

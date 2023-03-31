@@ -4,120 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "24997330248a2c2a",
+        "id": "af3db4fdfad8ca52",
         "type": "tabs",
         "children": [
           {
-            "id": "41bfef75412cdb78",
+            "id": "9869cbffc0944251",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebe8095e8cd5116b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66a5fe1acdd5e58e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing note like API.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96e87662101cc73e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "why i don't use titlefile name with unique ID.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89886b505dee5fd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thuan Pham (CTO of Uber).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cdae9b85aad4222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My note-writing system.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee9e0c45cf2b63fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The writing style of Thuan Pham.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67497836c99c0798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten note-taking method.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc4d5af5ac517b71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The writing style of Thuan Pham.md",
+                "file": "Mar 31, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -194,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "writing note like API.md",
+                "file": "Mar 31, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "writing note like API.md",
+                "file": "Mar 31, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writing note like API.md"
+                "file": "Mar 31, 2023.md"
               }
             }
           }
@@ -258,18 +153,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66a5fe1acdd5e58e",
+  "active": "9869cbffc0944251",
   "lastOpenFiles": [
-    "why i don't use titlefile name with unique ID.md",
-    "writing note like API.md",
-    "Writing.md",
-    "Thuan Pham (CTO of Uber).md",
-    "My note-writing system.md",
     "The writing style of Thuan Pham.md",
     "zettelkasten note-taking method.md",
+    "My note-writing system.md",
+    "Tasks.md",
+    "Writing.md",
+    "writing note like API.md",
+    "why i don't use titlefile name with unique ID.md",
+    "template/daily.md",
+    "Thuan Pham (CTO of Uber).md",
     "How make tags useful for managing thoughts.md",
     "Mar 30, 2023.md",
-    "Tasks.md",
     "Mar 31, 2023.md",
     "The garden of thoughts.md",
     "Mar 29, 2023.md",
@@ -285,7 +181,6 @@
     "The data structures and algorithms of humanity.md",
     "yoga ball.md",
     "gõ tiếng việt trên vim không cần bộ gõ tiếng việt built-in.md",
-    "Mar 24, 2023.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
