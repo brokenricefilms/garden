@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "9f7b54c25cfc8fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My dreams in life.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e8cce5ad68d01f3d",
             "type": "leaf",
             "state": {
@@ -181,6 +194,8 @@
   },
   "active": "9869cbffc0944251",
   "lastOpenFiles": [
+    "My dreams in life.md",
+    "The garden of thoughts.md",
     "Writing.md",
     "music i like.md",
     "training critical thinking by writing.md",
@@ -196,7 +211,6 @@
     "template/daily.md",
     "Thuan Pham (CTO of Uber).md",
     "Mar 30, 2023.md",
-    "The garden of thoughts.md",
     "Mar 29, 2023.md",
     "Mar 18, 2023.md",
     "Mar 19, 2023.md",
@@ -205,7 +219,6 @@
     "Thinker.md",
     "Speaking.md",
     "Reading.md",
-    "My dreams in life.md",
     "cày cấu trúc dữ liệu và thuật toán cùng ông dev.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
