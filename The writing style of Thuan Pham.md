@@ -6,5 +6,3 @@ I get this ideas from [Xah Lee](Xah%20Lee.md) by him article: [The Writing Style
 ---
 
 [Thuan Pham (thuanowa)](Thuan%20Pham%20(thuanowa).md)
-
-#Philosophy_and_thinking/writing 
