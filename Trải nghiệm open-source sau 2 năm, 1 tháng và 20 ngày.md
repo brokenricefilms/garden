@@ -43,7 +43,3 @@ Open-source cũng khiến tui vui vì giúp một phần nào đó từ nội c�
 Thiện tại thì tui vẫn sống tốt cơm ngày 3 bữa (vẫn đang ăn bám), có điện để xài với mấy cái hàng rào, tại bữa giờ trời mưa qué, mấy bé cá mập hay lên ghé thăm tui lém, có mấy cái hàng rào rồi mà mấy ẻm cũng ráng chui vô được táp táp, nhâm nhi mấy cái sợ cáp mạng bé bỏng, thấy cái trình thu hút harem của tui rồi đấy cá mập còn xa vào lưới tình tui mà ahihi.
 
 Okay chốt lại thì hàng ngày thì tui vẫn nắm tai bé mèo dạo chơi đi ngó hàng harem của hàng xóm xa, push code như cơm bữa và cuộc sống bình dị của tui là vậy. Và khi tui thăng thiên, tui cũng không biết lúc nào tui thấy 60 tuổi là đẹp để tui thăng thiên rồi chùng với cái bài hát 60 mươi năm cuộc đời gì đó. Vào lúc thăng thiên ấy, nghe thiên hạ đồn thì nó sẽ giống như một thước phim quay chậm và tui có thể tự tin nói mình đã để lại dấu răng ở trên cái thế giới này.
-
----
-
-#Technology_and_applied_sciences/tool/github #Technology_and_applied_sciences/open-source #Philosophy_and_thinking/writing/blog 

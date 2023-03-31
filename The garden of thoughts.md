@@ -34,7 +34,7 @@ How to explore the garden of thoughts?
 
 - [why i don't wear underwear](why%20i%20don't%20wear%20underwear.md)
 - [What I think about people beauty](What%20I%20think%20about%20people%20beauty.md)
-- [Chuyện thằng bảo với thằng mật](Chuyện%20thằkkkkng%20bảo%20với%20thằng%20mật.md)
+- [Chuyện thằng bảo với thằng mật](Chuyện%20thằng%20bảo%20với%20thằng%20mật.md)
 - [music i like](music%20i%20like.md)
 - [Khi tôi chết, di nguyện, di chúc](Khi%20tôi%20chết,%20di%20nguyện,%20di%20chúc.md)
 - [Tại sao light theme mới là chân ái?](Tại%20sao%20light%20theme%20mới%20là%20chân%20ái?.md)
