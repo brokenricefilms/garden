@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fb6772795e4f1ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10x developer.md",
+                "file": "music i like.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -103,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10x developer.md",
+                "file": "music i like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10x developer.md",
+                "file": "music i like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10x developer.md"
+                "file": "music i like.md"
               }
             }
           }
@@ -167,9 +153,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fb6772795e4f1ce",
+  "active": "219408293f534230",
   "lastOpenFiles": [
     "The garden of thoughts.md",
+    "10x developer.md",
     "What font i like.md",
     "arts.md",
     "Chuyện thằng bảo với thằng mật.md",
@@ -188,7 +175,6 @@
     "Trải nghiệm open-source sau 2 năm, 1 thánjjg và 20 ngày.mdj.md",
     "be healthy.md",
     "không đầu thai.md",
-    "10x developer.md",
     "The data structures and algorithms of humanity.md",
     "Trải nghiệm tình yêu nam nữ.md",
     "Trở thành ông chồng ông bố tốt.md",
