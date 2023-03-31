@@ -23,6 +23,8 @@ How to explore the garden of thoughts?
 -   [why i don't wear underwear](why%20i%20don't%20wear%20underwear.md)
 -   [Who I trust](Who%20I%20trust.md)
 -   [What I think about people beauty](What%20I%20think%20about%20people%20beauty.md)
+-   [music i like](music%20i%20like.md)
+
 
 ## Branches
 

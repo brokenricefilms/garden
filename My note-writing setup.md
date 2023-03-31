@@ -1,4 +1,4 @@
-# My note-writing system
+# My note-writing setup
 
 Sync
 - use Syncthing
@@ -7,6 +7,5 @@ Sync
 Note-writing
 - Obsidian (default)
 - Neovim (quick editing or use for write private note)
-[The writing style of Thuan Pham](The%20writing%20style%20of%20Thuan%20Pham.md)
 
 Video: [my note-writing system | take 2, plugins - YouTube](https://www.youtube.com/watch?v=KJpDepXMEPo)

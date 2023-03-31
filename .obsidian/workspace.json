@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mar 31, 2023.md",
+                "file": "The garden of thoughts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8cce5ad68d01f3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "music i like.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b942dedca4c76e00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "training critical thinking by writing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mar 31, 2023.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mar 31, 2023.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mar 31, 2023.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -155,18 +181,21 @@
   },
   "active": "9869cbffc0944251",
   "lastOpenFiles": [
+    "Writing.md",
+    "music i like.md",
+    "training critical thinking by writing.md",
+    "How make tags useful for managing thoughts.md",
+    "My note-writing setup.md",
+    "the correct mind mapping technique.md",
+    "Mar 31, 2023.md",
     "The writing style of Thuan Pham.md",
     "zettelkasten note-taking method.md",
-    "My note-writing system.md",
     "Tasks.md",
-    "Writing.md",
     "writing note like API.md",
     "why i don't use titlefile name with unique ID.md",
     "template/daily.md",
     "Thuan Pham (CTO of Uber).md",
-    "How make tags useful for managing thoughts.md",
     "Mar 30, 2023.md",
-    "Mar 31, 2023.md",
     "The garden of thoughts.md",
     "Mar 29, 2023.md",
     "Mar 18, 2023.md",
@@ -178,9 +207,6 @@
     "Reading.md",
     "My dreams in life.md",
     "cày cấu trúc dữ liệu và thuật toán cùng ông dev.md",
-    "The data structures and algorithms of humanity.md",
-    "yoga ball.md",
-    "gõ tiếng việt trên vim không cần bộ gõ tiếng việt built-in.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",

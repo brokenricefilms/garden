@@ -1,4 +1,4 @@
-# How make tags useful for managing thoughts?
+# How make tags useful for managing thoughts
 
 use [Wikipedia:Contents/Categories - Wikipedia](htps://en.wikipedia.org/wiki/Wikipedia:Contents/Categories) for tags?
 
