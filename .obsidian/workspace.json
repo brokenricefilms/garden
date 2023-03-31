@@ -19,139 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c157fcbe2e3ef46c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "be healthy.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "216a85855e37abba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "không đầu thai.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71852a313f694b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10x developer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3787d66128141cf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The data structures and algorithms of humanity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79a33aec6dbf4cfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trong không gian riêng cùng tận hưởng với vợ những món ăn mà hai đứa nấu.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e718a6b40cbc890",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trở thành ông chồng ông bố tốt.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "667c9e4695ea183c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trải nghiệm tình yêu nam nữ.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52458a3eed417e09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Digital nomad đạp xe đạp khắp việt nam và nơi nào đó trên thế giới có internet.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6853aac390f1b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, dealine 2027).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4586f5ed528934e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hạnh phúc trong giấy phút cuối đời.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -220,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "be healthy.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "be healthy.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "be healthy.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -284,16 +153,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c157fcbe2e3ef46c",
+  "active": "b942dedca4c76e00",
   "lastOpenFiles": [
+    "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
     "The garden of thoughts.md",
+    "Digital nomad đạp xe đạp khắp việt nam và nơi nào đó trên thế giới có internet.md",
+    "bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, dealine 2027).md",
+    "Hạnh phúc trong giấy phút cuối đời.md",
+    "Trải nghiệm open-source sau 2 năm, 1 thánjjg và 20 ngày.mdj.md",
     "be healthy.md",
     "không đầu thai.md",
     "10x developer.md",
     "The data structures and algorithms of humanity.md",
-    "Hạnh phúc trong giấy phút cuối đời.md",
-    "bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, dealine 2027).md",
-    "Digital nomad đạp xe đạp khắp việt nam và nơi nào đó trên thế giới có internet.md",
     "Trải nghiệm tình yêu nam nữ.md",
     "Trở thành ông chồng ông bố tốt.md",
     "Trong không gian riêng cùng tận hưởng với vợ những món ăn mà hai đứa nấu.md",
@@ -305,13 +176,11 @@
     "Chặng hành trình chở thành weeaboo giả cày.md",
     "Mar 31, 2023.md",
     "Tại sao light theme mới là chân ái?.md",
-    "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
     "Chuyện thằng bảo với thằng mật.md",
     "What I think about people beauty.md",
     "why i don't wear underwear.md",
     "Who I trust.md",
     "Writing.md",
-    "My note-writing setup.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
