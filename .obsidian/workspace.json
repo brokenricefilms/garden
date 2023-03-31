@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks.md",
+                "file": "Mar 30, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks.md",
+                "file": "Mar 30, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks.md",
+                "file": "Mar 30, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasks.md"
+                "file": "Mar 30, 2023.md"
               }
             }
           }
@@ -155,6 +155,7 @@
   },
   "active": "303b8ac0266d3a86",
   "lastOpenFiles": [
+    "tasks.md",
     "Mar 31, 2023.md",
     "zettelkasten note-taking method.md",
     "what about Zettelkasten + mind map.md",
@@ -180,7 +181,6 @@
     "Mar 25, 2023.md",
     "Mar 27, 2023.md",
     "test key input code on linux wayland.md",
-    "Mar 28, 2023.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
