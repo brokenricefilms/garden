@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af3db4fdfad8ca52",
+        "id": "fc0eca95edf08093",
         "type": "tabs",
         "children": [
           {
-            "id": "cad1fd6547896037",
+            "id": "219408293f534230",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fb6772795e4f1ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10x developer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -89,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "10x developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "10x developer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "10x developer.md"
               }
             }
           }
@@ -153,15 +167,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cad1fd6547896037",
+  "active": "5fb6772795e4f1ce",
   "lastOpenFiles": [
-    "Tasks.md",
     "The garden of thoughts.md",
+    "What font i like.md",
+    "arts.md",
+    "Chuyện thằng bảo với thằng mật.md",
+    "rants.md",
+    "Tasks.md",
     "Mar 31, 2023.md",
     "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
     "Tại sao light theme mới là chân ái?.md",
     "Khi tôi chết, di nguyện, di chúc.md",
-    "Chuyện thằng bảo với thằng mật.md",
     "What I think about people beauty.md",
     "why i don't wear underwear.md",
     "Chuyện thằkkkkng bảo với thằng mật.md",
@@ -178,9 +195,6 @@
     "Trong không gian riêng cùng tận hưởng với vợ những món ăn mà hai đứa nấu.md",
     "Dr Jordan Peterson on Sex & Promiscuity.md",
     "Tự làm một document film về bản thân.md",
-    "Thinker.md",
-    "My dreams in life.md",
-    "What in my mind right now.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
