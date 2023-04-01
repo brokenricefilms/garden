@@ -1,4 +1,4 @@
-# hello world c
+# hi mom in C
 
 ```c
 #include <stdio.h>
