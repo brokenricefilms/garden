@@ -22,7 +22,7 @@ How to explore the garden of thoughts?
 	- [be healthy](be%20healthy.md)
 	- [fuck you money](fuck%20you%20money.md)
 	- [Digital nomad đạp xe đạp khắp việt nam và nơi nào đó trên thế giới có internet](Digital%20nomad%20đạp%20xe%20đạp%20khắp%20việt%20nam%20và%20nơi%20nào%20đó%20trên%20thế%20giới%20có%20internet.md)
-	- [bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, dealine 2027)](bike%20tour%20uống%20bia%20ông%20dev%20tại%20Đà%20Nẵng%20(trong%205%20năm,%20dealine%202027).md)
+	- [bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, deadline 2027)](bike%20tour%20uống%20bia%20ông%20dev%20tại%20Đà%20Nẵng%20(trong%205%20năm,%20deadline%202027).md)
 	- [Tự làm một document film về bản thân](Tự%20làm%20một%20document%20film%20về%20bản%20thân.md)
 	- [Trải nghiệm tình yêu nam nữ](Trải%20nghiệm%20tình%20yêu%20nam%20nữ.md)
 	- [Trong không gian riêng cùng tận hưởng với vợ những món ăn mà hai đứa nấu](Trong%20không%20gian%20riêng%20cùng%20tận%20hưởng%20với%20vợ%20những%20món%20ăn%20mà%20hai%20đứa%20nấu.md)
