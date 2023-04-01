@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a1e1be0bc99e5e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Speaking.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "stacked": true
@@ -155,8 +168,9 @@
   },
   "active": "219408293f534230",
   "lastOpenFiles": [
-    "music i like.md",
+    "Speaking.md",
     "The garden of thoughts.md",
+    "music i like.md",
     "10x developer.md",
     "What font i like.md",
     "arts.md",
@@ -180,7 +194,6 @@
     "Trải nghiệm tình yêu nam nữ.md",
     "Trở thành ông chồng ông bố tốt.md",
     "Trong không gian riêng cùng tận hưởng với vợ những món ăn mà hai đứa nấu.md",
-    "Dr Jordan Peterson on Sex & Promiscuity.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
