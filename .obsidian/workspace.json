@@ -34,16 +34,6 @@
             }
           },
           {
-            "id": "946645c172854de3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2023-04-01 17.00.08.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "acee0303136469fe",
             "type": "leaf",
             "state": {
@@ -57,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing 2023-04-01 17.00.08.excalidraw.md",
+                "file": "bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, deadline 2027).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing 2023-04-01 17.00.08.excalidraw.md",
+                "file": "bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, deadline 2027).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2023-04-01 17.00.08.excalidraw.md"
+                "file": "bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, deadline 2027).md"
               }
             }
           }
@@ -189,12 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "946645c172854de3",
+  "active": "1f6f3036790a201a",
   "lastOpenFiles": [
+    "Drawing 2023-04-01 17.00.08.excalidraw.md",
     "Pasted Image 20230401170323_440.png",
     "Pasted Image 20230401170038_434.png",
     "bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, deadline 2027).md",
-    "Drawing 2023-04-01 17.00.08.excalidraw.md",
     "The garden of thoughts.md",
     "10x developer.md",
     "Apr 1, 2023.md",
@@ -233,7 +223,6 @@
     "Pasted image 20230321100927.png",
     "Pasted image 20230321100917.jpg",
     "Takuya Matsuyama hairstyle.png",
-    "hairstyles.png",
     "template",
     "Excalidraw",
     "publish",
