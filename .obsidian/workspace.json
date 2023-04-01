@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello world c.md",
+                "file": "zettelkasten note-taking method.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hello world c.md",
+                "file": "zettelkasten note-taking method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hello world c.md",
+                "file": "zettelkasten note-taking method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hello world c.md"
+                "file": "zettelkasten note-taking method.md"
               }
             }
           }
@@ -182,8 +182,8 @@
   },
   "active": "44409355b78aa43a",
   "lastOpenFiles": [
-    "The garden of thoughts.md",
     "hello world c.md",
+    "The garden of thoughts.md",
     "Speaking.md",
     "music i like.md",
     "10x developer.md",
