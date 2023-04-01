@@ -11,8 +11,13 @@
             "id": "c357cdf2ac6efdd8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "music i like.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -84,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "music i like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "music i like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "music i like.md"
+              }
             }
           }
         ],
