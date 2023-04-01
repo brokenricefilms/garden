@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "946645c172854de3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2023-04-01 17.00.08.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "acee0303136469fe",
             "type": "leaf",
             "state": {
@@ -47,8 +57,7 @@
             }
           }
         ],
-        "currentTab": 1,
-        "stacked": true
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, deadline 2027).md",
+                "file": "Drawing 2023-04-01 17.00.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, deadline 2027).md",
+                "file": "Drawing 2023-04-01 17.00.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, deadline 2027).md"
+                "file": "Drawing 2023-04-01 17.00.08.excalidraw.md"
               }
             }
           }
@@ -180,8 +189,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f6f3036790a201a",
+  "active": "946645c172854de3",
   "lastOpenFiles": [
+    "Pasted Image 20230401170323_440.png",
+    "Pasted Image 20230401170038_434.png",
+    "bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, deadline 2027).md",
+    "Drawing 2023-04-01 17.00.08.excalidraw.md",
     "The garden of thoughts.md",
     "10x developer.md",
     "Apr 1, 2023.md",
@@ -202,12 +215,9 @@
     "why i don't wear underwear.md",
     "Chuyện thằkkkkng bảo với thằng mật.md",
     "Digital nomad đạp xe đạp khắp việt nam và nơi nào đó trên thế giới có internet.md",
-    "bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, deadline 2027).md",
     "Hạnh phúc trong giấy phút cuối đời.md",
     "Trải nghiệm open-source sau 2 năm, 1 thánjjg và 20 ngày.mdj.md",
     "be healthy.md",
-    "không đầu thai.md",
-    "The data structures and algorithms of humanity.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
@@ -227,7 +237,6 @@
     "template",
     "Excalidraw",
     "publish",
-    "20210930100911.md.png",
     "LICENSE"
   ]
 }
