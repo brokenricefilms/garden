@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "music i like.md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music i like.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "music i like.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "music i like.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -155,6 +155,7 @@
   },
   "active": "c357cdf2ac6efdd8",
   "lastOpenFiles": [
+    "music i like.md",
     "10x developer.md",
     "bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, deadline 2027).md",
     "The garden of thoughts.md",
@@ -162,7 +163,6 @@
     "Pasted Image 20230401170323_440.png",
     "Pasted Image 20230401170038_434.png",
     "Apr 1, 2023.md",
-    "music i like.md",
     "hi mom in C.md",
     "Speaking.md",
     "zettelkasten note-taking method.md",
