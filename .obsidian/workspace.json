@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Khi tôi chết, di nguyện, di chúc, when i die.md",
+                "file": "Last will, di chúc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Khi tôi chết, di nguyện, di chúc, when i die.md",
+                "file": "Last will, di chúc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Khi tôi chết, di nguyện, di chúc, when i die.md",
+                "file": "Last will, di chúc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Khi tôi chết, di nguyện, di chúc, when i die.md"
+                "file": "Last will, di chúc.md"
               }
             }
           }
@@ -155,10 +155,11 @@
   },
   "active": "c357cdf2ac6efdd8",
   "lastOpenFiles": [
+    "The garden of thoughts.md",
+    "Last will, di chúc.md",
+    "Thuan Pham (thuanowa).md",
     "Tasks.md",
     "Apr 2, 2023.md",
-    "Khi tôi chết, di nguyện, di chúc, when i die.md",
-    "The garden of thoughts.md",
     "music i like.md",
     "10x developer.md",
     "bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, deadline 2027).md",
@@ -182,7 +183,6 @@
     "Digital nomad đạp xe đạp khắp việt nam và nơi nào đó trên thế giới có internet.md",
     "Hạnh phúc trong giấy phút cuối đời.md",
     "Trải nghiệm open-source sau 2 năm, 1 thánjjg và 20 ngày.mdj.md",
-    "be healthy.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",

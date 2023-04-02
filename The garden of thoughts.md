@@ -36,6 +36,6 @@ How to explore the garden of thoughts?
 - [What I think about people beauty](What%20I%20think%20about%20people%20beauty.md)
 - [Chuyện thằng bảo với thằng mật](Chuyện%20thằng%20bảo%20với%20thằng%20mật.md)
 - [music i like](music%20i%20like.md)
-- [Khi tôi chết, di nguyện, di chúc, when i die](Khi%20tôi%20chết,%20di%20nguyện,%20di%20chúc,%20when%20i%20die.md)
+- [Last will, di chúc](Last%20will,%20di%20chúc.md)
 - [Tại sao light theme mới là chân ái?](Tại%20sao%20light%20theme%20mới%20là%20chân%20ái?.md)
 - [Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày](Trải%20nghiệm%20open-source%20sau%202%20năm,%201%20tháng%20và%2020%20ngày.md)
