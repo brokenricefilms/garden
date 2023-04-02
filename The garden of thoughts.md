@@ -9,7 +9,7 @@ How to explore the garden of thoughts?
 - You also can read the [Trees](#trees), [Flowers](#flowers) below.
 - Or just look at the [tree of repositories](https://github.com/thuanowa/garden). If you have new GitHub search feature tree will show from left side.
 - [What in my mind right now](What%20in%20my%20mind%20right%20now.md)
-- Current i write note in English and Vietnamese, for the future i will force yourself write in English Because i want improve it.
+- Current i write note in English and Vietnamese, i will force yourself write in English because i want improve it.
 
 ## Trees
 
