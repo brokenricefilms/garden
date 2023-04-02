@@ -6,6 +6,8 @@ Khi tui chết nếu còn lại xác thì sẽ thiêu đốt thành tro, rải t
 
 Trường hợp tôi bị giết, bị tai nạn giao thông tất cả trường hợp người khác kết thúc mạng sống của tui dù vô tình hay cố ý điều được tôi chấp nhận, không cần truy cứu về trách nhiệm về luật pháp, về trường hợp tôi là bảo trợ tài chính cho một ai đó thì có thể yêu cầu trách nhiệm về phần tài chính.
 
+> TODO: english will update later if i not la
+
 ---
 
 [Thuan Pham (thuanowa)](Thuan%20Pham%20(thuanowa).md)
