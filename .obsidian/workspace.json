@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hi mom in C.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hi mom in C.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hi mom in C.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hi mom in C.md"
+                "file": "Tasks.md"
               }
             }
           }
@@ -155,14 +155,15 @@
   },
   "active": "c357cdf2ac6efdd8",
   "lastOpenFiles": [
+    "Apr 2, 2023.md",
+    "The garden of thoughts.md",
+    "hi mom in C.md",
     "Linux có gì vui.md",
     "Táo (người làm nhạc).md",
-    "The garden of thoughts.md",
     "Tại sao light theme mới là chân ái.md",
     "Last will, di chúc.md",
     "Thuan Pham (thuanowa).md",
     "Tasks.md",
-    "Apr 2, 2023.md",
     "music i like.md",
     "10x developer.md",
     "bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, deadline 2027).md",
@@ -170,7 +171,6 @@
     "Pasted Image 20230401170323_440.png",
     "Pasted Image 20230401170038_434.png",
     "Apr 1, 2023.md",
-    "hi mom in C.md",
     "Speaking.md",
     "zettelkasten note-taking method.md",
     "What font i like.md",
