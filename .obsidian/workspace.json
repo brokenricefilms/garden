@@ -11,9 +11,12 @@
             "id": "c357cdf2ac6efdd8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "screenshot.excalidraw.md"
+                "file": "Apr 3, 2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "screenshot.excalidraw.md",
+                "file": "Apr 3, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "screenshot.excalidraw.md",
+                "file": "Apr 3, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "screenshot.excalidraw.md"
+                "file": "Apr 3, 2023.md"
               }
             }
           }
@@ -152,12 +155,14 @@
   },
   "active": "c357cdf2ac6efdd8",
   "lastOpenFiles": [
+    "luật pháp có.md",
+    "Apr 3, 2023.md",
+    "The garden of thoughts.md",
+    "screenshot.excalidraw.md",
     "Pasted Image 20230403075738_572.png",
     "Pasted Image 20230403075729_363.png",
     "Tasks.md",
-    "Apr 3, 2023.md",
     "Apr 2, 2023.md",
-    "The garden of thoughts.md",
     "hi mom in C.md",
     "Linux có gì vui.md",
     "Táo (người làm nhạc).md",
@@ -180,7 +185,6 @@
     "Mar 31, 2023.md",
     "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
     "What I think about people beauty.md",
-    "why i don't wear underwear.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
@@ -194,7 +198,6 @@
     "hairstyles.canvas",
     "filename heading sync setting.png",
     "Pasted image 20230321100927.png",
-    "Pasted image 20230321100917.jpg",
     "template",
     "Excalidraw",
     "publish",
