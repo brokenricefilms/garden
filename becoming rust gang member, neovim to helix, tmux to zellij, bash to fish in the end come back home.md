@@ -1,4 +1,4 @@
-# becoming rust gang, neovim to helix, tmux to zellij, bash to fish in the end come back to home
+# becoming rust gang member, neovim to helix, tmux to zellij, bash to fish in the end come back home
 
 fish
 - convert git worktree fzf 
