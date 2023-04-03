@@ -3,7 +3,7 @@
 fish
 - convert git worktree fzf
 - editor neovim -> helix (done)
-- update function
+- update function (done)
 
 helix
 - tutor
