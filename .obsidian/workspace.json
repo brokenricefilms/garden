@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "384ff9078ec22e3f",
+        "id": "244b4b7bdf308210",
         "type": "tabs",
         "children": [
           {
-            "id": "c357cdf2ac6efdd8",
+            "id": "fe3dc10f478ef352",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "d34c736960bcf32c",
+            "id": "98d89d89a313d2a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apr 3, 2023.md",
+                "file": "Mar 31, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "8afda56f53b97afc",
+            "id": "8fecea3cedf2bb44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing note like API.md",
+                "file": "hi mom in rust.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apr 3, 2023.md",
+                "file": "hi mom in rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apr 3, 2023.md",
+                "file": "hi mom in rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apr 3, 2023.md"
+                "file": "hi mom in rust.md"
               }
             }
           }
@@ -180,14 +180,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d34c736960bcf32c",
+  "active": "8fecea3cedf2bb44",
   "lastOpenFiles": [
+    "Mar 31, 2023.md",
+    "hi mom in rust.md",
+    "Tasks.md",
+    "Apr 3, 2023.md",
+    "writing note like API.md",
+    "The garden of thoughts.md",
     "Pasted image 20230403210420.png",
     "Pasted image 20230403210416.png",
     "Writing.md",
-    "writing note like API.md",
-    "The garden of thoughts.md",
-    "Apr 3, 2023.md",
     "không đầu thai.md",
     "Last will, di chúc.md",
     "becoming rust gang member, neovim to helix, tmux to zellij, bash to fish     in the end come back home.md",
@@ -195,7 +198,6 @@
     "screenshot.excalidraw.md",
     "Pasted Image 20230403075738_572.png",
     "Pasted Image 20230403075729_363.png",
-    "Tasks.md",
     "Apr 2, 2023.md",
     "hi mom in C.md",
     "Linux có gì vui.md",
@@ -212,7 +214,6 @@
     "Speaking.md",
     "zettelkasten note-taking method.md",
     "What font i like.md",
-    "arts.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
@@ -224,7 +225,6 @@
     "lighting_camera.png",
     "custom_javascript",
     "hairstyles.canvas",
-    "filename heading sync setting.png",
     "template",
     "Excalidraw",
     "publish",
