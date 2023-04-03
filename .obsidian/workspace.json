@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d34c736960bcf32c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8afda56f53b97afc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "writing note like API.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -89,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "Writing.md"
               }
             }
           }
@@ -153,12 +180,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c357cdf2ac6efdd8",
+  "active": "d34c736960bcf32c",
   "lastOpenFiles": [
+    "writing note like API.md",
+    "Writing.md",
+    "The garden of thoughts.md",
     "Apr 3, 2023.md",
+    "không đầu thai.md",
+    "Last will, di chúc.md",
     "becoming rust gang member, neovim to helix, tmux to zellij, bash to fish     in the end come back home.md",
     "luật pháp có.md",
-    "The garden of thoughts.md",
     "screenshot.excalidraw.md",
     "Pasted Image 20230403075738_572.png",
     "Pasted Image 20230403075729_363.png",
@@ -168,7 +199,6 @@
     "Linux có gì vui.md",
     "Táo (người làm nhạc).md",
     "Tại sao light theme mới là chân ái.md",
-    "Last will, di chúc.md",
     "Thuan Pham (thuanowa).md",
     "music i like.md",
     "10x developer.md",
@@ -182,9 +212,6 @@
     "What font i like.md",
     "arts.md",
     "Chuyện thằng bảo với thằng mật.md",
-    "rants.md",
-    "Mar 31, 2023.md",
-    "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",

@@ -38,4 +38,4 @@ How to explore the garden of thoughts?
 - [music i like](music%20i%20like.md)
 - [Last will, di chúc](Last%20will,%20di%20chúc.md)
 - [Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày](Trải%20nghiệm%20open-source%20sau%202%20năm,%201%20tháng%20và%2020%20ngày.md)
-- [Tại sao light theme mới là chân ái](Tại%20sao%20light%20theme%20mới%20là%20chân%20ái.md)
+- [Tại sao light theme mới là chân ái](Tại%20sao%20light%20theme%20mới%20là%20chân%20ái.md) 
