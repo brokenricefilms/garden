@@ -17,7 +17,7 @@ How to explore the garden of thoughts?
 	- [Reading](Reading.md)
 	- [Writing](Writing.md)
 	- [Speaking](Speaking.md)
-- [10x developer](10x%20developer.md)
+- [Chad developer](Chad%20developer.md)
 - My Dreams in life
 	- [be healthy](be%20healthy.md)
 	- [fuck you money](fuck%20you%20money.md)
