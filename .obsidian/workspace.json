@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Local Storage, Session Storage and Cookies.md",
+                "file": "when will i die new tab extension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Local Storage, Session Storage and Cookies.md",
+                "file": "when will i die new tab extension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Local Storage, Session Storage and Cookies.md"
+                "file": "when will i die new tab extension.md"
               }
             }
           }
@@ -180,10 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36f3f5aad3f8ed1c",
+  "active": "c33252c97c677e98",
   "lastOpenFiles": [
-    "when will i die new tab extension.md",
     "Local Storage, Session Storage and Cookies.md",
+    "when will i die new tab extension.md",
     "Apr 4, 2023.md",
     "Apr 3, 2023.md",
     "when will i die new tab extension first design.png",
