@@ -23,12 +23,12 @@ How to explore the garden of thoughts?
 	- [fuck you money](fuck%20you%20money.md)
 	- [Digital nomad](Digital%20nomad.md)
 	- [bike tour drink beer with ông dev at Da nang ( in 5 years, deadline 2027)](bike%20tour%20drink%20beer%20with%20ông%20dev%20at%20Da%20nang%20(%20in%205%20years,%20deadline%202027).md)
-	- [Tự làm một document film về bản thân](Tự%20làm%20một%20document%20film%20về%20bản%20thân.md)
-	- [Trải nghiệm tình yêu nam nữ](Trải%20nghiệm%20tình%20yêu%20nam%20nữ.md)
-	- [Trong không gian riêng cùng tận hưởng với vợ những món ăn mà hai đứa nấu](Trong%20không%20gian%20riêng%20cùng%20tận%20hưởng%20với%20vợ%20những%20món%20ăn%20mà%20hai%20đứa%20nấu.md)
-	- [Trở thành ông chồng ông bố tốt](Trở%20thành%20ông%20chồng%20ông%20bố%20tốt.md)
-	- [Hạnh phúc trong giấy phút cuối đời](Hạnh%20phúc%20trong%20giấy%20phút%20cuối%20đời.md)
-	- [không đầu thai](không%20đầu%20thai.md)
+	- [make document film of yourself](make%20document%20film%20of%20yourself.md)
+	- [try romantic love](try%20romantic%20love.md)
+	- [cooking and enjoy time with my partner](cooking%20and%20enjoy%20time%20with%20my%20partner.md)
+	- [be a good daddy](be%20a%20good%20daddy.md)
+	- [enjoy when my life ending](enjoy%20when%20my%20life%20ending.md)
+	- [not reincarnated](not%20reincarnated.md)
 
 ## Flowers
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "25e67bcff66455cd",
+        "id": "2830d58600725b2e",
         "type": "tabs",
         "children": [
           {
-            "id": "6d31b88ea80873e8",
+            "id": "167806ea1ae84936",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "012bdc7213865e48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Digital nomad.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77ff65e46682135a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bike tour drink beer with ông dev at Da nang ( in 5 years, deadline 2027).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -116,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bike tour drink beer with ông dev at Da nang ( in 5 years, deadline 2027).md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bike tour drink beer with ông dev at Da nang ( in 5 years, deadline 2027).md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bike tour drink beer with ông dev at Da nang ( in 5 years, deadline 2027).md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -180,38 +153,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77ff65e46682135a",
+  "active": "167806ea1ae84936",
   "lastOpenFiles": [
-    "Digital nomad.md",
+    "Chuyện thằng bảo với thằng mật.md",
     "The garden of thoughts.md",
-    "Apr 4, 2023.md",
+    "What I think about people beauty.md",
+    "Tại sao light theme mới là chân ái.md",
+    "bike tour drink beer with ông dev at Da nang ( in 5 years, deadline 2027).md",
+    "Digital nomad.md",
+    "Speaking.md",
+    "not reincarnated.md",
     "Last will, di chúc.md",
+    "enjoy when my life ending.md",
+    "be a good daddy.md",
+    "cooking and enjoy time with my partner.md",
     "thưởng thức một điều gì đó.md",
+    "try romantic love.md",
+    "make document film of yourself.md",
+    "fuck you money.md",
+    "yoga ball.md",
+    "be healthy.md",
+    "imagining about future, cooking with wife.md",
+    "Apr 4, 2023.md",
     "Would You Like a Cup of Coffee (2021).md",
     "IFSC.md",
     "Tasks.md",
     "Ai Mori.md",
     "Mar 31, 2023.md",
     "hi mom in rust.md",
-    "Apr 3, 2023.md",
-    "writing note like API.md",
     "Pasted image 20230403210420.png",
     "Pasted image 20230403210416.png",
-    "Writing.md",
-    "không đầu thai.md",
-    "becoming rust gang member, neovim to helix, tmux to zellij, bash to fish     in the end come back home.md",
-    "luật pháp có.md",
-    "screenshot.excalidraw.md",
     "Pasted Image 20230403075738_572.png",
     "Pasted Image 20230403075729_363.png",
-    "Apr 2, 2023.md",
-    "hi mom in C.md",
-    "Linux có gì vui.md",
-    "Táo (người làm nhạc).md",
-    "Tại sao light theme mới là chân ái.md",
-    "Thuan Pham (thuanowa).md",
-    "music i like.md",
-    "10x developer.md",
     "Pasted Image 20230401170323_440.png",
     "Pasted Image 20230401170038_434.png",
     "menu key on black keyboard.png",
