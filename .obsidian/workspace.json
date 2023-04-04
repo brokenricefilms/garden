@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "3d3a4fde5a46dc2f",
+            "id": "36f3f5aad3f8ed1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,12 +34,15 @@
             }
           },
           {
-            "id": "b3ed0f8db17c1b3d",
+            "id": "c33252c97c677e98",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "difference between local storage session storage and cookies.png"
+                "file": "when will i die new tab extension.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -177,12 +180,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d3a4fde5a46dc2f",
+  "active": "36f3f5aad3f8ed1c",
   "lastOpenFiles": [
-    "difference between local storage session storage and cookies.png",
+    "when will i die new tab extension.md",
     "Local Storage, Session Storage and Cookies.md",
     "Apr 4, 2023.md",
     "Apr 3, 2023.md",
+    "when will i die new tab extension first design.png",
+    "difference between local storage session storage and cookies.png",
     "Apr 1, 2023.md",
     "The garden of thoughts.md",
     "Who I trust.md",
@@ -205,7 +210,6 @@
     "yoga ball.md",
     "be healthy.md",
     "imagining about future, cooking with wife.md",
-    "Pasted image 20230403210420.png",
     "Pasted image 20230403210416.png",
     "Pasted Image 20230403075738_572.png",
     "Pasted Image 20230403075729_363.png",
