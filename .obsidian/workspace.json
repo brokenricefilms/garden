@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe3dc10f478ef352",
+            "id": "04f96b97d56a2718",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "Apr 4, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Apr 4, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Apr 4, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Apr 4, 2023.md"
               }
             }
           }
@@ -153,14 +153,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe3dc10f478ef352",
+  "active": "04f96b97d56a2718",
   "lastOpenFiles": [
+    "The garden of thoughts.md",
+    "Apr 4, 2023.md",
+    "IFSC.md",
+    "Tasks.md",
+    "Ai Mori.md",
     "Mar 31, 2023.md",
     "hi mom in rust.md",
-    "Tasks.md",
     "Apr 3, 2023.md",
     "writing note like API.md",
-    "The garden of thoughts.md",
     "Pasted image 20230403210420.png",
     "Pasted image 20230403210416.png",
     "Writing.md",
@@ -184,9 +187,6 @@
     "Pasted Image 20230401170323_440.png",
     "Pasted Image 20230401170038_434.png",
     "Apr 1, 2023.md",
-    "Speaking.md",
-    "zettelkasten note-taking method.md",
-    "What font i like.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",
