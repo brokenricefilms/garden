@@ -19,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "98d89d89a313d2a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mar 31, 2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fecea3cedf2bb44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hi mom in rust.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -116,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hi mom in rust.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hi mom in rust.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hi mom in rust.md"
+                "file": "Tasks.md"
               }
             }
           }
@@ -180,7 +153,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fecea3cedf2bb44",
+  "active": "fe3dc10f478ef352",
   "lastOpenFiles": [
     "Mar 31, 2023.md",
     "hi mom in rust.md",
