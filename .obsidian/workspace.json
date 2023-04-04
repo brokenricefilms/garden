@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Last will, di chúc.md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Last will, di chúc.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Last will, di chúc.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Last will, di chúc.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -155,6 +155,7 @@
   },
   "active": "6d31b88ea80873e8",
   "lastOpenFiles": [
+    "Last will, di chúc.md",
     "Apr 4, 2023.md",
     "thưởng thức một điều gì đó.md",
     "Would You Like a Cup of Coffee (2021).md",
@@ -170,7 +171,6 @@
     "Pasted image 20230403210416.png",
     "Writing.md",
     "không đầu thai.md",
-    "Last will, di chúc.md",
     "becoming rust gang member, neovim to helix, tmux to zellij, bash to fish     in the end come back home.md",
     "luật pháp có.md",
     "screenshot.excalidraw.md",
