@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "The garden of thoughts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82175332eb9de1b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "strong men weak men time.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ed540b0b7373ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "geohot.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,6 +47,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -89,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "geohot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "geohot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "geohot.md"
               }
             }
           }
@@ -153,14 +180,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b377969d9974261",
+  "active": "2ed540b0b7373ed7",
   "lastOpenFiles": [
+    "strong men weak men time loop.png",
+    "geohot.md",
+    "strong men weak men time.md",
+    "The garden of thoughts.md",
+    "Tasks.md",
     "custom_javascript/copy_image_link.js",
     "making the web more beautiful and blazingly fast.md",
-    "Tasks.md",
     "Chad developer.md",
     "comment in php.md",
-    "strong men weak men time.png",
     "play php in command line like node or deno.md",
     "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
     "Gốc chia sẻ setup linux sài hằng ngày (2021).md",
@@ -176,7 +206,6 @@
     "when will i die early design.png",
     "copy note link in markdown format.md",
     "custom_javascript/copy_note_link.js",
-    "The garden of thoughts.md",
     "Ai Mori.md",
     "IFSC.md",
     "Local Storage, Session Storage and Cookies.md",
@@ -188,8 +217,6 @@
     "Who I trust.md",
     "What in my mind right now.md",
     "Chuyện thằng bảo với thằng mật.md",
-    "What I think about people beauty.md",
-    "Tại sao light theme mới là chân ái.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "custom_javascript/copy_all_tag.js",
@@ -200,7 +227,6 @@
     "custom_javascript",
     "hairstyles.canvas",
     "template",
-    "Excalidraw",
-    "publish"
+    "Excalidraw"
   ]
 }
