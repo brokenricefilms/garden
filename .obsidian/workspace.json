@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "167806ea1ae84936",
+            "id": "9b377969d9974261",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apr 4, 2023.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,38 @@
             }
           },
           {
-            "id": "9b377969d9974261",
+            "id": "a671cbf3631558f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ai Mori.md",
+                "file": "Mar 31, 2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "daaa5bc3eece17dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian copy note linking in markdown.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5ac1900ff76c846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian plugin copy link share note on publish github repo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,6 +60,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -102,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apr 4, 2023.md",
+                "file": "obsidian copy note linking in markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apr 4, 2023.md",
+                "file": "obsidian copy note linking in markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apr 4, 2023.md"
+                "file": "obsidian copy note linking in markdown.md"
               }
             }
           }
@@ -166,11 +193,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "167806ea1ae84936",
+  "active": "daaa5bc3eece17dd",
   "lastOpenFiles": [
-    "Ai Mori.md",
+    "Mar 31, 2023.md",
+    "obsidian copy note linking in markdown.md",
+    "custom_javascript/copy_note_link.js",
+    "obsidian plugin copy link share note on publish github repo.md",
+    "Tasks.md",
     "Apr 4, 2023.md",
     "The garden of thoughts.md",
+    "Ai Mori.md",
+    "IFSC.md",
     "Local Storage, Session Storage and Cookies.md",
     "when will i die new tab extension.md",
     "Apr 3, 2023.md",
@@ -190,12 +223,6 @@
     "enjoy when my life ending.md",
     "be a good daddy.md",
     "cooking and enjoy time with my partner.md",
-    "thưởng thức một điều gì đó.md",
-    "try romantic love.md",
-    "make document film of yourself.md",
-    "fuck you money.md",
-    "yoga ball.md",
-    "be healthy.md",
     "Pasted image 20230403210416.png",
     "Pasted Image 20230403075738_572.png",
     "Pasted Image 20230403075729_363.png",
@@ -213,7 +240,6 @@
     "hairstyles.canvas",
     "template",
     "Excalidraw",
-    "publish",
-    "LICENSE"
+    "publish"
   ]
 }
