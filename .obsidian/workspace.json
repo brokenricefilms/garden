@@ -13,14 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Who I trust.md",
+                "file": "Apr 4, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d3a4fde5a46dc2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Local Storage, Session Storage and Cookies.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3ed0f8db17c1b3d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "difference between local storage session storage and cookies.png"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -89,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Who I trust.md",
+                "file": "Local Storage, Session Storage and Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Who I trust.md",
+                "file": "Local Storage, Session Storage and Cookies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Who I trust.md"
+                "file": "Local Storage, Session Storage and Cookies.md"
               }
             }
           }
@@ -153,11 +177,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "167806ea1ae84936",
+  "active": "3d3a4fde5a46dc2f",
   "lastOpenFiles": [
+    "difference between local storage session storage and cookies.png",
+    "Local Storage, Session Storage and Cookies.md",
+    "Apr 4, 2023.md",
+    "Apr 3, 2023.md",
+    "Apr 1, 2023.md",
     "The garden of thoughts.md",
     "Who I trust.md",
-    "Apr 4, 2023.md",
     "What in my mind right now.md",
     "Chuyện thằng bảo với thằng mật.md",
     "What I think about people beauty.md",
@@ -177,10 +205,6 @@
     "yoga ball.md",
     "be healthy.md",
     "imagining about future, cooking with wife.md",
-    "Would You Like a Cup of Coffee (2021).md",
-    "IFSC.md",
-    "Tasks.md",
-    "Ai Mori.md",
     "Pasted image 20230403210420.png",
     "Pasted image 20230403210416.png",
     "Pasted Image 20230403075738_572.png",
@@ -195,7 +219,6 @@
     "custom_javascript/copy_share_link.js",
     "custom_javascript/cObject.keys(app.metadataCache.getTags()).join(', ')opy_share_link.js",
     "sync",
-    "lighting_camera.png",
     "custom_javascript",
     "hairstyles.canvas",
     "template",
