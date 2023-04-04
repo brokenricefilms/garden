@@ -6,9 +6,8 @@
 		const note_file_name = app.workspace.activeLeaf.view.file.name.replace(/\s/gi, '%20')
 		const note_name = app.workspace.activeLeaf.view.file.basename
 		const markdown_link = `[${note_name}](${note_file_name})`
-		console.log(markdown_link)
 
-        navigator.clipboard.writeText(path)
+        navigator.clipboard.writeText(markdown_link)
 	}
 
 	app.commands.addCommand({
