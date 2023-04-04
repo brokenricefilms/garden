@@ -12,8 +12,8 @@ KEY_COMPOSE? ^md6ppZZh
 # Embedded files
 4322679404f1d0b4bbe5c6f0313e7cc334396520: [[easyeffects input tab.png]]
 1d887e92685e5bef44624cd256992a50c758cc3d: [[menu key on black keyboard.png]]
-71f29eeb10683c5a45779893998537f364e89e19: [[Pasted Image 20230403075729_363.png]]
-43679af77432483cc4748a191a801757b5824963: [[Pasted Image 20230403075738_572.png]]
+71f29eeb10683c5a45779893998537f364e89e19: [[soft wrap in vim.png]]
+43679af77432483cc4748a191a801757b5824963: [[soft wrap in helix.png]]
 
 %%
 # Drawing
