@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian copy note linking in markdown.md",
+                "file": "copy note link in markdown format.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mar 31, 2023.md",
+                "file": "Apr 4, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian copy note linking in markdown.md",
+                "file": "copy note link in markdown format.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian copy note linking in markdown.md",
+                "file": "copy note link in markdown format.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian copy note linking in markdown.md"
+                "file": "copy note link in markdown format.md"
               }
             }
           }
@@ -208,12 +208,12 @@
   },
   "active": "f769609ef29fe949",
   "lastOpenFiles": [
-    "Mar 31, 2023.md",
-    "obsidian plugin copy link share note on publish github repo.md",
-    "obsidian copy note linking in markdown.md",
-    "Tasks.md",
-    "custom_javascript/copy_note_link.js",
     "Apr 4, 2023.md",
+    "obsidian plugin copy link share note on publish github repo.md",
+    "Tasks.md",
+    "Mar 31, 2023.md",
+    "copy note link in markdown format.md",
+    "custom_javascript/copy_note_link.js",
     "The garden of thoughts.md",
     "Ai Mori.md",
     "IFSC.md",

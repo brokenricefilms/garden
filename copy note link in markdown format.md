@@ -1,4 +1,4 @@
-# obsidian copy note linking in markdown
+# copy note link in markdown format
 
 ```javascript
 !function() {
