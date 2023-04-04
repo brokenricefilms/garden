@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "244b4b7bdf308210",
+        "id": "25e67bcff66455cd",
         "type": "tabs",
         "children": [
           {
-            "id": "04f96b97d56a2718",
+            "id": "6d31b88ea80873e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apr 4, 2023.md",
+                "file": "Last will, di chúc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apr 4, 2023.md",
+                "file": "Last will, di chúc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apr 4, 2023.md",
+                "file": "Last will, di chúc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apr 4, 2023.md"
+                "file": "Last will, di chúc.md"
               }
             }
           }
@@ -153,10 +153,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04f96b97d56a2718",
+  "active": "6d31b88ea80873e8",
   "lastOpenFiles": [
-    "The garden of thoughts.md",
     "Apr 4, 2023.md",
+    "thưởng thức một điều gì đó.md",
+    "Would You Like a Cup of Coffee (2021).md",
+    "The garden of thoughts.md",
     "IFSC.md",
     "Tasks.md",
     "Ai Mori.md",
@@ -183,10 +185,8 @@
     "music i like.md",
     "10x developer.md",
     "bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, deadline 2027).md",
-    "Drawing 2023-04-01 17.00.08.excalidraw.md",
     "Pasted Image 20230401170323_440.png",
     "Pasted Image 20230401170038_434.png",
-    "Apr 1, 2023.md",
     "menu key on black keyboard.png",
     "easyeffects input tab.png",
     "Pasted Image 20230324220055_204.png",

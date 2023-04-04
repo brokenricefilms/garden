@@ -8,7 +8,3 @@
 - dù do ngoại lực hay nội lực tác động tới sự lựa chọn của chúng ta
 - vậy ngoại lực thời gian là lý do? → how to fixed this?
 - có lẽ việc tối ưu tời gian, hay còn gọi là tận dụng triệt để thời gian đầu tư vào kết quả mình nhận được sau một khoảng thời gian, giống như việc học vậy đầu tư thời gian → make somethings
-
----
-
-> #Society_and_social_sciences/psychology
