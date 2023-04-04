@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b377969d9974261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ai Mori.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "stacked": true
@@ -155,8 +168,9 @@
   },
   "active": "167806ea1ae84936",
   "lastOpenFiles": [
-    "The garden of thoughts.md",
+    "Ai Mori.md",
     "Apr 4, 2023.md",
+    "The garden of thoughts.md",
     "Local Storage, Session Storage and Cookies.md",
     "when will i die new tab extension.md",
     "Apr 3, 2023.md",
@@ -182,7 +196,6 @@
     "fuck you money.md",
     "yoga ball.md",
     "be healthy.md",
-    "imagining about future, cooking with wife.md",
     "Pasted image 20230403210416.png",
     "Pasted Image 20230403075738_572.png",
     "Pasted Image 20230403075729_363.png",
