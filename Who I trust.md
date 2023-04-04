@@ -1,4 +1,4 @@
-# Who I trust?
+# Who I trust
 
 - [Thuan Pham (thuanowa)](Thuan%20Pham%20(thuanowa).md)
 - [Lan Nguyen (mommy)](Lan%20Nguyen%20(mommy).md)

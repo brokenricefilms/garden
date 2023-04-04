@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Who I trust.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Who I trust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Who I trust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,12 +129,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "Who I trust.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -155,9 +155,10 @@
   },
   "active": "167806ea1ae84936",
   "lastOpenFiles": [
+    "The garden of thoughts.md",
+    "Who I trust.md",
     "Apr 4, 2023.md",
     "What in my mind right now.md",
-    "The garden of thoughts.md",
     "Chuyện thằng bảo với thằng mật.md",
     "What I think about people beauty.md",
     "Tại sao light theme mới là chân ái.md",
@@ -180,7 +181,6 @@
     "IFSC.md",
     "Tasks.md",
     "Ai Mori.md",
-    "Mar 31, 2023.md",
     "Pasted image 20230403210420.png",
     "Pasted image 20230403210416.png",
     "Pasted Image 20230403075738_572.png",
