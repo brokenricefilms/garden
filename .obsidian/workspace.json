@@ -19,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "36f3f5aad3f8ed1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Local Storage, Session Storage and Cookies.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c33252c97c677e98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "when will i die new tab extension.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -116,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "when will i die new tab extension.md",
+                "file": "Apr 4, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "when will i die new tab extension.md",
+                "file": "Apr 4, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "when will i die new tab extension.md"
+                "file": "Apr 4, 2023.md"
               }
             }
           }
@@ -180,16 +153,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c33252c97c677e98",
+  "active": "167806ea1ae84936",
   "lastOpenFiles": [
+    "The garden of thoughts.md",
+    "Apr 4, 2023.md",
     "Local Storage, Session Storage and Cookies.md",
     "when will i die new tab extension.md",
-    "Apr 4, 2023.md",
     "Apr 3, 2023.md",
     "when will i die new tab extension first design.png",
     "difference between local storage session storage and cookies.png",
     "Apr 1, 2023.md",
-    "The garden of thoughts.md",
     "Who I trust.md",
     "What in my mind right now.md",
     "Chuyện thằng bảo với thằng mật.md",
