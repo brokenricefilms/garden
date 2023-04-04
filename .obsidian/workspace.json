@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "012bdc7213865e48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital nomad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77ff65e46682135a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bike tour drink beer with ông dev at Da nang ( in 5 years, deadline 2027).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -89,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "bike tour drink beer with ông dev at Da nang ( in 5 years, deadline 2027).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "bike tour drink beer with ông dev at Da nang ( in 5 years, deadline 2027).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "bike tour drink beer with ông dev at Da nang ( in 5 years, deadline 2027).md"
               }
             }
           }
@@ -153,13 +180,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d31b88ea80873e8",
+  "active": "77ff65e46682135a",
   "lastOpenFiles": [
-    "Last will, di chúc.md",
+    "Digital nomad.md",
+    "The garden of thoughts.md",
     "Apr 4, 2023.md",
+    "Last will, di chúc.md",
     "thưởng thức một điều gì đó.md",
     "Would You Like a Cup of Coffee (2021).md",
-    "The garden of thoughts.md",
     "IFSC.md",
     "Tasks.md",
     "Ai Mori.md",
@@ -184,7 +212,6 @@
     "Thuan Pham (thuanowa).md",
     "music i like.md",
     "10x developer.md",
-    "bike tour uống bia ông dev tại Đà Nẵng (trong 5 năm, deadline 2027).md",
     "Pasted Image 20230401170323_440.png",
     "Pasted Image 20230401170038_434.png",
     "menu key on black keyboard.png",
