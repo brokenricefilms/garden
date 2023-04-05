@@ -1,5 +1,7 @@
 # Tokyo ghoul
 
+![](Tokyo%20ghoul%20poster.png)
+
 con người ghoul
 
 ăn và bị ăn, con người ăn những loài động vật thực vật khác nhưng không muốn bị ăn bởi loài động vật khác

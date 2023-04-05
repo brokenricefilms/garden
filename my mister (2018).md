@@ -1,5 +1,7 @@
 # my mister (2018)
 
+![](my%20mister%20(2018)%20poster.png)
+
 một cô gái 22 năm sống không ổn như đã được tái sinh 30 000 lần, một ông chú đang sống trong cuộc sống cũng đáng thương như cô gái ấy
 
 hai con người này gặp nhau,

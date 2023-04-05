@@ -1,5 +1,7 @@
 # OMG! Oh My Girl (2022)
 
+![](OMG!%20Oh%20My%20Girl%20(2022)%20poster.png)
+
 "Giá mà lúc trước"
 
 "Lúc đó mình mà làm vậy thì ngon cơm ròi"
@@ -41,6 +43,3 @@ Kết. Lười viết tiếp.
 Rồi Thuận kiu te sẽ trải nghiệm thực tế romantic love là gì?
 
 Hay là vẫn FA đến tuổi 30 trở thành pháp sư hồi quy về quá khứ mua cổ phiếu của FANG trở thành sugar daddy
-
----
-#Culture_and_the_arts/movie 

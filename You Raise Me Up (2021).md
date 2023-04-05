@@ -1,5 +1,7 @@
 # You Raise Me Up (2021)
 
+![](You%20Raise%20Me%20Up%20(2021)%20poster.png)
+
 - Tại sao phải tự ti rồi tự dìm bản thân xuống biển?
 - Tại sao đàn ông không được thích màu hồng, may búp bê?
 - Vậy tại sao người đàn ông phải có sự nghiệp, công việc được xã hội công nhận là **ổn định**, nhiều tiền?
@@ -9,6 +11,6 @@
 
 ---
 
-- [you raise me up (info)](https://mydramalist.com/696959-you-raise-me-up)
+[Hani (EXID)](Hani%20(EXID).md)
 
-> #Culture_and_the_arts/kdrama
+[You Raise Me Up (2021) - MyDramaList](https://mydramalist.com/696959-you-raise-me-up)

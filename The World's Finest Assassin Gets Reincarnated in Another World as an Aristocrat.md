@@ -1,5 +1,7 @@
 # The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
 
+![](The%20World's%20Finest%20Assassin%20Gets%20Reincarnated%20in%20Another%20World%20as%20an%20Aristocrat%20poster.png)
+
 - [sự chuyên nghiệp của sát thủ](sự%20chuyên%20nghiệp%20của%20sát%20thủ.md)
 - [con người là công cụ](con%20người%20là%20công%20cụ.md)
 - [kiểm soát sinh và tử](kiểm%20soát%20sinh%20và%20tử.md)
@@ -9,5 +11,3 @@
 
 - Japanese name: Sekai Saikō no Ansatsusha, Isekai Kizoku ni Tensei-suru
 - [Sát thủ đệ nhất thế giới chuyển sinh thành quý tộc ở thế giới khác [Việt sub] - YouTube](https://www.youtube.com/playlist?list=PLdM751AKK4aNZKavYFk3uWT7Sg1CqHp4q)
-
-#Culture_and_the_arts/anime

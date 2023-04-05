@@ -1,9 +1,14 @@
 # Culture and the arts
 
+[What I think about people beauty](What%20I%20think%20about%20people%20beauty.md)
+
+[Music i like](Music%20i%20like.md)
+
 ## Graphic design 
 
 [What font i like](What%20font%20i%20like.md)
-[[]]
+
+[Thiết kế đồ họa lại trước làn sóng Blockchain podcast](Thiết%20kế%20đồ%20họa%20lại%20trước%20làn%20sóng%20Blockchain%20podcast.md)
 
 ## Anime
 
@@ -23,6 +28,16 @@
 
 [the call of the wild (2020)](the%20call%20of%20the%20wild%20(2020).md)
 
+[OMG! Oh My Girl (2022)](OMG!%20Oh%20My%20Girl%20(2022).md)
+
+[Army of Thieves (2021)](Army%20of%20Thieves%20(2021).md)
+
 ## Drama
 
 [my mister (2018)](my%20mister%20(2018).md)
+
+[live (2018)](live%20(2018).md)
+
+[Vincenzo](Vincenzo.md)
+
+[You Raise Me Up (2021)](You%20Raise%20Me%20Up%20(2021).md)
