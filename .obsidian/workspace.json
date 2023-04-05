@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Chad Developer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geohot.md",
+                "file": "Chad Developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "geohot.md",
+                "file": "Chad Developer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "geohot.md"
+                "file": "Chad Developer.md"
               }
             }
           }
@@ -180,16 +179,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ed540b0b7373ed7",
+  "active": "9b377969d9974261",
   "lastOpenFiles": [
-    "strong men weak men time loop.png",
-    "geohot.md",
-    "strong men weak men time.md",
     "The garden of thoughts.md",
+    "geohot.md",
+    "strong men weak men time loop.png",
+    "strong men weak men time.md",
     "Tasks.md",
     "custom_javascript/copy_image_link.js",
     "making the web more beautiful and blazingly fast.md",
-    "Chad developer.md",
+    "Chad Developer.md",
     "comment in php.md",
     "play php in command line like node or deno.md",
     "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",

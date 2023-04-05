@@ -1,4 +1,4 @@
-# Chad developer
+# Chad Developer
 
 ![strong men weak men time](strong%20men%20weak%20men%20time%20loop.png)
 
