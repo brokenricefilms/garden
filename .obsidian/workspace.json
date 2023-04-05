@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c09db2bbe29454ea",
+        "id": "c7b2a7b1f44aeb70",
         "type": "tabs",
         "children": [
           {
-            "id": "9151d78530fb3735",
+            "id": "bb20745dbdeaa836",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,82 +19,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4014b1b7881f780b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "liên kết mọi người trong nhóm bằng đồ ăn.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12aaececdbf356f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Culture and the arts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40c06f447fc943f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What font i like.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08ba7c549a988de4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b5066f774eb0727c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "liên kết mọi người trong nhóm bằng đồ ăn.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3dce7f3fd156c2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Food i like.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -174,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The garden of thoughts.md"
+              }
             }
           }
         ],
@@ -223,14 +154,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08ba7c549a988de4",
+  "active": "bb20745dbdeaa836",
   "lastOpenFiles": [
-    "Chad chef.md",
-    "liên kết mọi người trong nhóm bằng đồ ăn.md",
-    "Food i like.md",
-    "What font i like.md",
-    "Culture and the arts.md",
+    "Hani (EXID).md",
+    "hani EXID funny.png",
+    "IU.md",
+    "IU eat ramen.png",
     "The garden of thoughts.md",
+    "Thinker.md",
+    "liên kết mọi người trong nhóm bằng đồ ăn.md",
+    "Culture and the arts.md",
+    "What font i like.md",
+    "Chad Developer.md",
+    "making the web more beautiful and blazingly fast.md",
+    "Chad chef.md",
+    "Food i like.md",
     "How zettelkasten note-taking method work.md",
     "template/daily.md",
     "Con trai quý ở nỗi đau.md",
@@ -239,19 +177,13 @@
     "Tại sao light theme mới là chân ái.md",
     "classroom of the elite.md",
     "Tasks.md",
-    "Chad Developer.md",
     "Chuyện thằng bảo với thằng mật.md",
     "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
     "Apr 5, 2023.md",
     "be healthy.md",
     "cooking and enjoy time with my partner.md",
     "Cooking Hobbyist Guy, Yonam.md",
-    "Thinker.md",
     "Viết lách giống như đánh tennis mỗi ngày.md",
-    "Writing.md",
-    "My note-writing setup.md",
-    "lý thuyết quả táo hư.md",
-    "Nghệ thuật tinh tế của việc đếch quan tâm.md",
     "The Sculpture of Auguste Rodin at the Legion of Honor.png",
     "Army of Thieves (2021) poster.png",
     "OMG! Oh My Girl (2022) poster.png",
@@ -259,8 +191,6 @@
     "vincenzo poster.png",
     "Tokyo ghoul poster.png",
     "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat poster.png",
-    "Death March to the Parallel World Rhapsody poster.png",
-    "sword art online poster.png",
     "custom_javascript/copy_image_link.js",
     "custom_javascript/copy_note_link.js",
     "custom_javascript/copy_all_tag.js",
