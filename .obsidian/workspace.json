@@ -8,12 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1249cffe2e55a5f4",
+            "id": "9151d78530fb3735",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "The garden of thoughts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4014b1b7881f780b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chad chef.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d5b7fe5ae4172e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Food i like.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12aaececdbf356f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture and the arts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08ba7c549a988de4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chad chef.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3dce7f3fd156c2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Food i like.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,6 +98,7 @@
       {
         "id": "e1f2be8348891ce7",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "3f671c6ddc500927",
@@ -58,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Philosophy_and_thinking/writing/zettelkasten_method",
+                "query": "tag:#Philosophy_and_thinking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,9 +146,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b1f0e172442cab20",
+        "id": "cfad5762966fd9e8",
         "type": "tabs",
         "children": [
+          {
+            "id": "6c06b15183ea6ccd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
           {
             "id": "9b8ac07029d3faac",
             "type": "leaf",
@@ -113,17 +190,6 @@
             }
           },
           {
-            "id": "6c06b15183ea6ccd",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "746d69cd0565460a",
             "type": "leaf",
             "state": {
@@ -138,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
+    "width": 352.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -153,44 +219,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1249cffe2e55a5f4",
+  "active": "9151d78530fb3735",
   "lastOpenFiles": [
-    "My Dreams in life.md",
+    "Chad chef.md",
+    "Food i like.md",
     "The garden of thoughts.md",
-    "Thinker.md",
-    "not reincarnated.md",
-    "Chad Developer.md",
     "Culture and the arts.md",
-    "Music i like.md",
+    "Chặng hành trình chở thành weeaboo giả cày.md",
+    "classroom of the elite poster.png",
+    "Tại sao light theme mới là chân ái.md",
+    "classroom of the elite.md",
+    "Tasks.md",
+    "Chad Developer.md",
+    "Chuyện thằng bảo với thằng mật.md",
+    "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
     "Apr 5, 2023.md",
     "be healthy.md",
-    "Disguised Toast talk about his journey to lose weight.md",
-    "Feb 5, 2023.md",
-    "Tazza One Eyed Jack.md",
-    "Army of Thieves (2021).md",
+    "cooking and enjoy time with my partner.md",
+    "Cooking Hobbyist Guy, Yonam.md",
+    "Thinker.md",
+    "Viết lách giống như đánh tennis mỗi ngày.md",
+    "Writing.md",
+    "My note-writing setup.md",
+    "lý thuyết quả táo hư.md",
+    "Nghệ thuật tinh tế của việc đếch quan tâm.md",
+    "Reading.md",
+    "What font i like.md",
+    "Làm sao tháo tung thao túng.md",
+    "làm sao để học một cái gì đó khi không có tiền + thời gian.md",
+    "Death March to the Parallel World Rhapsody.md",
+    "The Sculpture of Auguste Rodin at the Legion of Honor.png",
     "Army of Thieves (2021) poster.png",
-    "OMG! Oh My Girl (2022).md",
     "OMG! Oh My Girl (2022) poster.png",
-    "You Raise Me Up (2021).md",
-    "Hani (EXID).md",
     "You Raise Me Up (2021) poster.png",
-    "Vincenzo.md",
     "vincenzo poster.png",
-    "Tokyo ghoul.md",
-    "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat.md",
     "Tokyo ghoul poster.png",
     "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat poster.png",
-    "Death March to the Parallel World Rhapsody.md",
     "Death March to the Parallel World Rhapsody poster.png",
-    "Sword Art Online.md",
     "sword art online poster.png",
-    "my mister (2018).md",
-    "my mister (2018) poster.png",
-    "live (2018).md",
-    "live (2018) poster.png",
-    "gydient.md",
-    "Thiết kế đồ họa lại trước làn sóng Blockchain podcast.md",
-    "What font i like.md",
     "custom_javascript/copy_image_link.js",
     "custom_javascript/copy_note_link.js",
     "custom_javascript/copy_all_tag.js",

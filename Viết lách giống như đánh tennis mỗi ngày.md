@@ -17,4 +17,3 @@ khi nói chuyện với người lạ thì bản thân chúng ta sẽ dựng t�
   - Thùy Minh
 - [Viết lách giống như đánh tennis mỗi ngày - Đặng Hoàng Giang | Have a Sip EP48 - YouTube](https://www.youtube.com/watch?v=DJRhA4dGHD0)
 - Have a sip ep. 48 , Vietcetera
-#Society_and_social_sciences/psychology

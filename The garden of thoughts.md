@@ -10,6 +10,7 @@
 ## Trees
 
 - [Chad Developer](Chad%20Developer.md)
+- [Chad chef](Chad%20chef.md)
 - [Culture and the arts](Culture%20and%20the%20arts.md)
 - [Thinker](Thinker.md)
 	- [Reading](Reading.md)

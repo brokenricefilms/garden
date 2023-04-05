@@ -107,7 +107,3 @@
   - eg. bạn chọn ăn đồ heathy vs. fastfood
 
 **SUMMARY**: Một chuỗi lựa chọn, mọi lựa chọn của ta sẽ dẫn cuộc sống theo một con đường khác, những niềm đau mà chúng ta chấp nhận, những điều thật sự quan trọng trong cuộc sống của chúng ta, bản thân con người tầm thường chỉ là một thực thể trong vũ trụ không có nghĩa là không quan trọng đối với ta, hoặc với người khác, đếch quan tâm chính là đức tin để sàng lọc những thứ bullshit nhưng không vì thế mà nó hoàng toàn đúng, hay hoàng toàn sai, chỉ mang một khái niệm tưng đối, giúp chúng ta lựa chọn những nỗi khổ, nỗi đau mà bản thân thật sự muốn, tự đặt ra câu hỏi bản thân nhìn nhận vấn đề theo nhiều chiều, những cảm xúc là quan trọng nhưng không quan trọng hoá nó, cũng chỉ là môt loại phản ứng, run, tim đập mạnh,... tập trung vào thứ quan trọng, nói không và từ chối những thức nỗi đau mà bản thân không rõ.
-
----
-
-#Society_and_social_sciences/psychology

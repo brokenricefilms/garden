@@ -1,5 +1,7 @@
 # Thinker
 
+![](The%20Sculpture%20of%20Auguste%20Rodin%20at%20the%20Legion%20of%20Honor.png)
+
 How to be genius?
 - [Reading](Reading.md)
 - [Writing](Writing.md)

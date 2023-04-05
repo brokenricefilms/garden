@@ -43,7 +43,3 @@ Chắc điều mình mất đó là thời gian.
 **Tóm lại** mình có hối hận khi bỏ thời gian coi anime không?
 
 Và câu trả lời chắc chắn là mình không hối hận khi bỏ thời gian xem anime, nó giống như một sở thích mang lại hạnh phúc cho mình.
-
----
-
-#Culture_and_the_arts/anime #Philosophy_and_thinking/writing/blog

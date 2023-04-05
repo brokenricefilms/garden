@@ -19,5 +19,3 @@
 [BUỒN-CƯỜI PODCAST #7 FT. TÁO: Làm sao tháo tung thao túng? - YouTube](https://www.youtube.com/watch?v=gGvXJqw1-1I)
 
 [Táo (người làm nhạc](Táo%20(người%20làm%20nhạc.md)
-
-> #Society_and_social_sciences/psychology

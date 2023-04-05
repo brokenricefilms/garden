@@ -13,6 +13,6 @@ vậy để nói lên con người tôi thì tôi là thiện hay ác? suy cho c
 
 classroom of the elite ep. 1
 
-[classroom of the eilite](classroom%20of%20the%20eilite.md)
+[classroom of the elite](classroom%20of%20the%20elite.md)
 
 #Philosophy_and_thinking 
