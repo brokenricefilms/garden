@@ -7,7 +7,3 @@
 - không chỉ trong ngành game mà các lĩnh vực khác trong ngành lập trình rất khó, đồi hổi nhiều nội công từ chúng ta
 - giống như [ông dev](ông%20dev.md) nói (được chế lại) thì khi theo ngành lập trình thì bản thân sẽ đánh mất một sô thứ quan trọng
   - theo suy nghĩ của tui đánh mất thứ ở đây là sự kết nối với con người, thời gian khi cấm đầu vào màng hình nguyên ngày
-
----
-
-> #Culture_and_the_arts/anime

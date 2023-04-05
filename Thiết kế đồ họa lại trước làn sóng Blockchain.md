@@ -1,6 +1,6 @@
 # Thiết kế đồ họa lại trước làn sóng Blockchain
 
-tiếp tục một tập MAD postcast,
+tiếp tục một tập MAD podcast,
 một designer học js để làm creative :D cool
 thị trường design các thể loại ở việt nam đang phát triển rất nhanh,
 công nghệ blockchain áp dụng cho design :D

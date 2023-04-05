@@ -5,7 +5,3 @@
 - sau khi được thì thì sau tập 1 thì tui note lại [cuộc sống lập trình viên của lập trình viên game nhật bản qua lăng kính anime](cuộc%20sống%20lập%20trình%20viên%20của%20lập%20trình%20viên%20game%20nhật%20bản%20qua%20lăng%20kính%20anime.md), nói về suy nghĩ của tôi một cách nó rộng hơn.
 - thì trước đây tui cũng note một cái anime series DIMENSION W nhưng tui thấy chủ yếu nói lại tình huống truyện không, tui thấy nó không có giá trị nhiều lắm.
 - hi vọng là theo cách này giúp tui hiểu xâu hơn về ứng dụng phương pháp zettelkasten
-
----
-
-> #Culture_and_the_arts/anime #Philosophy_and_thinking/writing/zettelkasten_method

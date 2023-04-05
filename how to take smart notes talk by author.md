@@ -7,9 +7,8 @@
 - highlight sách hay đọc lại mấy cái highlight đó là một ý tồi vì làm cho bản thân à tôi nhớ nó, rồi đọc lại nhớ lại cái đoạn chữ đó tự lừa dối bản thân "à mình hiểu rồi" mà thật chất chúng ta chỉ recall để bản thân chúng ta nhớ đến thông tin đó thôi chứ chúng ta không thực sự hiểu nó, cũng giống như giáo sư [Jordan B. Peterson](Jordan%20B.%20Peterson.md) có đề cập về làm sao để [training critical thinking by writing](training%20critical%20thinking%20by%20writing.md)
 - chúng ta không dự chữ note chúng ta tận dụng note của bản thân, khi chúng ta copy paste thì chỉ kiến cái nhà kho chúng ta phìn to ra và rối rấp.
 
-## Reference
 
-- Author: [Sonke Ahrens](Sonke%20Ahrens.md)
-- Link: https://www.youtube.com/watch?v=nPOI4f7yCag
+---
 
-#Philosophy_and_thinking/writing/zettelkasten_method 
+Author: [Sonke Ahrens](Sonke%20Ahrens.md)
+[how to take smart notes - YouTube](https://www.youtube.com/watch?v=nPOI4f7yCag)

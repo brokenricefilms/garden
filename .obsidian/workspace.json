@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bda4537f2ebfb78f",
+            "id": "70886447155f01d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +19,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78459cb5f20e5b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture and the arts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fd99b47c756b0cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thiết kế đồ họa lại trước làn sóng Blockchain.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a86280114bd9a796",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What font i like.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8a8a9f996fd92df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gydient.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -89,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Culture and the arts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Culture and the arts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "Culture and the arts.md"
               }
             }
           }
@@ -153,46 +206,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bda4537f2ebfb78f",
+  "active": "78459cb5f20e5b05",
   "lastOpenFiles": [
-    "Apr 5, 2023.md",
+    "Thiết kế đồ họa lại trước làn sóng Blockchain.md",
+    "Culture and the arts.md",
+    "What font i like.md",
+    "gydient.md",
     "The garden of thoughts.md",
+    "The Social Dilemma (2020).md",
+    "the social dilemma (2020) poster.png",
+    "the call of the wild (2020).md",
+    "Pig (2021).md",
+    "pig (2021) poster.png",
+    "pig 2021 movie poster.png.md",
+    "pig 2021 movie poster.png",
+    "the cal of the wild movie poster.png",
+    "my mister (2018).md",
+    "Sword Art Online.md",
+    "Tokyo ghoul.md",
+    "Writing.md",
+    "cuộc sống lập trình viên của lập trình viên game nhật bản qua lăng kính anime.md",
+    "luyện phương pháp ghi chú zet với anime series.md",
+    "zettelkasten note-taking method.md",
+    "Reading.md",
+    "how to take smart notes talk by author.md",
+    "how to take smart notes.md",
+    "can đảm biến thách thức thành sức mạnh.md",
+    "Untitled.md",
+    "Sonke Ahrens.md",
+    "Osho.md",
+    "Apr 5, 2023.md",
     "geohot.md",
     "strong men weak men time.md",
-    "Chad Developer.md",
     "strong men weak men time loop.png",
-    "Tasks.md",
     "custom_javascript/copy_image_link.js",
-    "making the web more beautiful and blazingly fast.md",
-    "comment in php.md",
-    "play php in command line like node or deno.md",
-    "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
-    "Gốc chia sẻ setup linux sài hằng ngày (2021).md",
-    "hi mom in php.md",
-    "Mar 31, 2023.md",
-    "Apr 4, 2023.md",
-    "obsidian plugin copy link share note on publish github repo.md",
     "Pasted Image 20230401170038_434.png",
-    "screenshot.excalidraw.md",
     "browser tab contract when hover cursor.png",
     "soft wrap in vim.png",
     "soft wrap in helix.png",
     "when will i die early design.png",
-    "copy note link in markdown format.md",
     "custom_javascript/copy_note_link.js",
-    "Ai Mori.md",
-    "IFSC.md",
-    "Local Storage, Session Storage and Cookies.md",
-    "when will i die new tab extension.md",
-    "Apr 3, 2023.md",
-    "when will i die new tab extension first design.png",
-    "difference between local storage session storage and cookies.png",
-    "Apr 1, 2023.md",
-    "Who I trust.md",
-    "What in my mind right now.md",
-    "Chuyện thằng bảo với thằng mật.md",
-    "menu key on black keyboard.png",
-    "easyeffects input tab.png",
     "custom_javascript/copy_all_tag.js",
     "custom_javascript/Object.keys(app.metadataCache.getTags()).join(', ')",
     "custom_javascript/copy_share_link.js",

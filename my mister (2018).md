@@ -1,6 +1,6 @@
 # my mister (2018)
 
-một cô giái 22 năm sống không ổn như đã được tái sinh 30 000 lần, một ông chú đang sống trong cuộc sống cũng đáng thương như cô gái ấy
+một cô gái 22 năm sống không ổn như đã được tái sinh 30 000 lần, một ông chú đang sống trong cuộc sống cũng đáng thương như cô gái ấy
 
 hai con người này gặp nhau,
 
@@ -28,5 +28,4 @@ nỗi đau, nỗi đau ấy?
 
 ---
 
-- Diễn viên: [IU](IU.md)
-#Culture_and_the_arts/kdrama
+ Actor: [IU](IU.md)

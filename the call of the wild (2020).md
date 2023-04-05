@@ -1,6 +1,6 @@
 # the call of the wild (2020)
 
-#Culture_and_the_arts/movie
+![](the%20cal%20of%20the%20wild%20movie%20poster.png)
 
 chó thuộc về thiên nhiên, tổ tiên của chúng là sói và chúng thuộc về thiên nhiên
 

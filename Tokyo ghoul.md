@@ -1,4 +1,4 @@
-# tokyo ghoul
+# Tokyo ghoul
 
 con người ghoul
 
@@ -42,10 +42,6 @@ quy luật đó gíup con người quản lý một nhóm con người được 
 
 vậy nhìn theo một hướng tích cực thì sẽ giúp con người ta tốt hơn
 
-nhìn theo một hướng hơn tiêu cực là lập trình con người suy nghĩ theo một hướng, một cách lập luận và nhìn nhận, mà môi trường xunh quanh ta đặc ra để bộ não của chúng ta đi theo nó
+nhìn theo một hướng hơn tiêu cực là lập trình con người suy nghĩ theo một hướng, một cách lập luận và nhìn nhận, mà môi trường xung quanh ta đặc ra để bộ não của chúng ta đi theo nó
 
 và cái sự lập trình ấy được đề cập qua [The Social Dilemma (2020)](The%20Social%20Dilemma%20(2020).md)
-
----
-
-#Culture_and_the_arts/anime
