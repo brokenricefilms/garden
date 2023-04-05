@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2830d58600725b2e",
+        "id": "c09db2bbe29454ea",
         "type": "tabs",
         "children": [
           {
-            "id": "9b377969d9974261",
+            "id": "bda4537f2ebfb78f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chad Developer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82175332eb9de1b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "strong men weak men time.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ed540b0b7373ed7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "geohot.md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chad Developer.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chad Developer.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chad Developer.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -179,16 +153,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b377969d9974261",
+  "active": "bda4537f2ebfb78f",
   "lastOpenFiles": [
-    "The garden of thoughts.md",
+    "Apr 5, 2023.md",
     "geohot.md",
-    "strong men weak men time loop.png",
     "strong men weak men time.md",
+    "Chad Developer.md",
+    "The garden of thoughts.md",
+    "strong men weak men time loop.png",
     "Tasks.md",
     "custom_javascript/copy_image_link.js",
     "making the web more beautiful and blazingly fast.md",
-    "Chad Developer.md",
     "comment in php.md",
     "play php in command line like node or deno.md",
     "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
