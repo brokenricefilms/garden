@@ -15,5 +15,3 @@
 
 - Author: [rwxrob](rwxrob.md)
 - Link: <https://www.youtube.com/watch?v=ubwxVmM-5WU>
-
-#Society_and_social_sciences 

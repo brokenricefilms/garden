@@ -7,5 +7,3 @@
 ---
 
 [BUỒN-CƯỜI PODCAST #8 FT. GONZO: Con trai quý ở nỗi đau? - YouTube](https://www.youtube.com/watch?v=M1v9lL92m7E&list=PLCDQ2PbkrjsCPmGfeMVo5bs2Hl92dZWM6&index=2)
-
-#People_and_self/gender_equality

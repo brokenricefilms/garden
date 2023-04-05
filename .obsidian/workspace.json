@@ -26,20 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chad chef.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d5b7fe5ae4172e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Food i like.md",
+                "file": "liên kết mọi người trong nhóm bằng đồ ăn.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,12 +47,33 @@
             }
           },
           {
-            "id": "08ba7c549a988de4",
+            "id": "40c06f447fc943f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chad chef.md",
+                "file": "What font i like.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08ba7c549a988de4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5066f774eb0727c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "liên kết mọi người trong nhóm bằng đồ ăn.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +94,7 @@
             }
           }
         ],
-        "stacked": true
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +200,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The garden of thoughts.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -219,12 +223,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9151d78530fb3735",
+  "active": "08ba7c549a988de4",
   "lastOpenFiles": [
     "Chad chef.md",
+    "liên kết mọi người trong nhóm bằng đồ ăn.md",
     "Food i like.md",
-    "The garden of thoughts.md",
+    "What font i like.md",
     "Culture and the arts.md",
+    "The garden of thoughts.md",
+    "How zettelkasten note-taking method work.md",
+    "template/daily.md",
+    "Con trai quý ở nỗi đau.md",
     "Chặng hành trình chở thành weeaboo giả cày.md",
     "classroom of the elite poster.png",
     "Tại sao light theme mới là chân ái.md",
@@ -243,11 +252,6 @@
     "My note-writing setup.md",
     "lý thuyết quả táo hư.md",
     "Nghệ thuật tinh tế của việc đếch quan tâm.md",
-    "Reading.md",
-    "What font i like.md",
-    "Làm sao tháo tung thao túng.md",
-    "làm sao để học một cái gì đó khi không có tiền + thời gian.md",
-    "Death March to the Parallel World Rhapsody.md",
     "The Sculpture of Auguste Rodin at the Legion of Honor.png",
     "Army of Thieves (2021) poster.png",
     "OMG! Oh My Girl (2022) poster.png",
