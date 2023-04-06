@@ -13,7 +13,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Culture and the arts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b11fa68d0a7f7984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What I think about people beauty.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50a819502d1c6e7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anime.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "638ab6c77206cea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webtoon (manga, manhwa, manhua).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "552b39b93efc4099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drama.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d353e276b59b15d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "movie.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed3c1e1e6c5764c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anime.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78069d41b12547d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphic design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,6 +112,7 @@
             }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -101,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Webtoon (manga, manhwa, manhua).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Webtoon (manga, manhwa, manhua).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "Webtoon (manga, manhwa, manhua).md"
               }
             }
           }
@@ -154,16 +246,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb20745dbdeaa836",
+  "active": "638ab6c77206cea0",
   "lastOpenFiles": [
-    "Hani (EXID).md",
+    "Anime.md",
+    "What I think about people beauty.md",
+    "Culture and the arts.md",
+    "Webtoon (manga, manhwa, manhua).md",
+    "Drama.md",
+    "movie.md",
+    "Graphic design.md",
     "The garden of thoughts.md",
+    "Hani (EXID).md",
     "hani EXID funny.png",
     "IU.md",
     "IU eat ramen.png",
     "Thinker.md",
     "liên kết mọi người trong nhóm bằng đồ ăn.md",
-    "Culture and the arts.md",
     "What font i like.md",
     "Chad Developer.md",
     "making the web more beautiful and blazingly fast.md",
@@ -179,11 +277,6 @@
     "Tasks.md",
     "Chuyện thằng bảo với thằng mật.md",
     "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
-    "Apr 5, 2023.md",
-    "be healthy.md",
-    "cooking and enjoy time with my partner.md",
-    "Cooking Hobbyist Guy, Yonam.md",
-    "Viết lách giống như đánh tennis mỗi ngày.md",
     "The Sculpture of Auguste Rodin at the Legion of Honor.png",
     "Army of Thieves (2021) poster.png",
     "OMG! Oh My Girl (2022) poster.png",
