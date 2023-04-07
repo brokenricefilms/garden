@@ -8,5 +8,6 @@ Goal?
 [check list when i want buy things](check%20list%20when%20i%20want%20buy%20things.md) make sure i review this when i need buy stuff
 
 Keys and technical terms:
-- money Management 
+- money management 
 - [tax busy season](tax%20busy%20season.md)
+- tax write-off
