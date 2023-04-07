@@ -10,5 +10,3 @@
 [Justin Sung](Justin%20Sung.md)
 
 [The PROBLEM with Active Recall and Spaced Repetition (Truth Behind Studying Smarter) - YouTube](https://www.youtube.com/watch?v=--Hu2w0s72Y)
-
-#Human_activities/education  
