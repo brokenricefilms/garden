@@ -1,3 +1,3 @@
 # fuck you money
 
-- money money money
+i will study about finance, relative to personal money.
