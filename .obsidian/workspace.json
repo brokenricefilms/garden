@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fuck you money.md",
+                "file": "Apr 7, 2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be78fef181eb79a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apr 8, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fuck you money.md",
+                "file": "Apr 7, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fuck you money.md",
+                "file": "Apr 7, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fuck you money.md"
+                "file": "Apr 7, 2023.md"
               }
             }
           }
@@ -155,18 +168,20 @@
   },
   "active": "d2094ee98fc3675f",
   "lastOpenFiles": [
-    "tax busy season.md",
+    "Apr 8, 2023.md",
+    "Tasks.md",
+    "list startup, open source company for internship.md",
+    "Apr 7, 2023.md",
+    "The garden of thoughts.md",
     "fuck you money.md",
+    "tax busy season.md",
     "Những áp lực tiêu cực và sự cặm cụi.md",
     "The problem with active recall and spaced repetition.md",
-    "The garden of thoughts.md",
     "Thinker.md",
     "not reincarnated.md",
     "check list when i want buy things.md",
     "enjoy when my life ending.md",
     "My note-writing setup.md",
-    "Apr 7, 2023.md",
-    "Tasks.md",
     "Mar 18, 2023.md",
     "Apr 7, 2023.sync-conflict-20230407-154542-ZDRVYDR.md",
     "Apr 6, 2023.md",
@@ -180,9 +195,7 @@
     "Webtoon (manga, manhwa, manhua).md",
     "Hani (EXID).md",
     "hani EXID funny.png",
-    "IU.md",
     "IU eat ramen.png",
-    "liên kết mọi người trong nhóm bằng đồ ăn.md",
     "classroom of the elite poster.png",
     "The Sculpture of Auguste Rodin at the Legion of Honor.png",
     "Army of Thieves (2021) poster.png",
