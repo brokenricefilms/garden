@@ -21,6 +21,8 @@
 - `rem` can't change by set by the element in code
 - em can be conflit if have many sizing in inside or outside
 
+![](use%20rem%20for%20global%20sizing,%20use%20em%20for%20local%20sizing.png)
+ref: [GitHub - AllThingsSmitty/css-protips: ⚡️ A collection of tips to help take your CSS skills pro 🦾](https://github.com/AllThingsSmitty/css-protips#use-rem-for-global-sizing-use-em-for-local-sizing)
 ## vh
 
 - the view of height how many percent eg. 50% of window
