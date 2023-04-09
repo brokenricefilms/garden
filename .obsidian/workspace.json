@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -155,9 +155,10 @@
   },
   "active": "c50d156bf076c881",
   "lastOpenFiles": [
+    "Apr 9, 2023.md",
+    "Tasks.md",
     "Apr 8, 2023.md",
     "semantic commit.md",
-    "Tasks.md",
     "making the web more beautiful and blazingly fast.md",
     "html preprocessor.md",
     "pug html preprocessor.md",
@@ -183,7 +184,6 @@
     "check list when i want buy things.md",
     "enjoy when my life ending.md",
     "My note-writing setup.md",
-    "Mar 18, 2023.md",
     "hani EXID funny.png",
     "IU eat ramen.png",
     "classroom of the elite poster.png",
