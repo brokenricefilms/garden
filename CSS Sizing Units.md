@@ -64,5 +64,4 @@ ref: [GitHub - AllThingsSmitty/css-protips: ⚡️ A collection of tips to help 
 
 - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units
 - https://web.dev/learn/css/sizing/
-
-#Technology_and_applied_sciences/programming/css
+- [Why you should never use px to set font-size in CSS - Josh Collinsworth blog](https://joshcollinsworth.com/blog/never-use-px-for-font-size)

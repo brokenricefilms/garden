@@ -34,5 +34,3 @@ void bubbleSort(int array[], int n) {
 - Author: [ông dev](ông%20dev.md)
 - Video: <https://www.youtube.com/watch?v=KsbdeXLau08>
 - Code bubble sort của ông dev xài js: https://github.com/OngDevTutorials/sorting-algorithms-visualizer/blob/master/assets/js/algorithms/BubbleSort.js
-
-#Technology_and_applied_sciences/programming/algorithm 

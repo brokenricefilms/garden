@@ -8,81 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2094ee98fc3675f",
+            "id": "c50d156bf076c881",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apr 7, 2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd70359328382881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semantic commit.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39a6d55851b67161",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSS Sizing Units.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06d1c87841c740bc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "use rem for global sizing, use em for local sizing.png"
-              }
-            }
-          },
-          {
-            "id": "6db0b9978e287535",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "semantic commit breaking change example.png"
-              }
-            }
-          },
-          {
-            "id": "fbb75fc5c2507fdc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "semantic commit example table.png"
-              }
-            }
-          },
-          {
-            "id": "be78fef181eb79a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apr 8, 2023.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -90,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -170,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS Sizing Units.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS Sizing Units.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS Sizing Units.md"
+                "file": "Tasks.md"
               }
             }
           }
@@ -223,19 +153,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39a6d55851b67161",
+  "active": "c50d156bf076c881",
   "lastOpenFiles": [
-    "use rem for global sizing, use em for local sizing.png",
-    "CSS Sizing Units.md",
-    "css reset.md",
-    "semantic commit.md",
-    "semantic commit breaking change example.png",
     "Apr 8, 2023.md",
+    "semantic commit.md",
+    "Tasks.md",
+    "making the web more beautiful and blazingly fast.md",
+    "html preprocessor.md",
+    "pug html preprocessor.md",
+    "Chad Developer.md",
+    "The data structures and algorithms of humanity.md",
+    "cày cấu trúc dữ liệu và thuật toán cùng ông dev.md",
+    "thần bài với bubble sort.md",
+    "chiến lược cày videos cấu trúc dữ liệu và thuật toán của ông dev.md",
+    "The garden of thoughts.md",
+    "CSS Sizing Units.md",
+    "use rem for global sizing, use em for local sizing.png",
+    "css reset.md",
+    "semantic commit breaking change example.png",
     "semantic commit example table.png",
     "Apr 7, 2023.md",
-    "Tasks.md",
     "list startup, open source company for internship.md",
-    "The garden of thoughts.md",
     "fuck you money.md",
     "tax busy season.md",
     "Những áp lực tiêu cực và sự cặm cụi.md",
@@ -246,13 +184,6 @@
     "enjoy when my life ending.md",
     "My note-writing setup.md",
     "Mar 18, 2023.md",
-    "Apr 7, 2023.sync-conflict-20230407-154542-ZDRVYDR.md",
-    "Apr 6, 2023.md",
-    "Apr 5, 2023.md",
-    "Culture and the arts.md",
-    "Anime.md",
-    "Graphic design.md",
-    "movie.md",
     "hani EXID funny.png",
     "IU eat ramen.png",
     "classroom of the elite poster.png",

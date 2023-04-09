@@ -8,5 +8,3 @@
 [Cấu trúc dữ liệu và thuật toán - YouTube](https://www.youtube.com/playlist?list=PLoaAbmGPgTSNMAzkKBHkh2mLuBk54II5L)
 
 [ông dev](ông%20dev.md)
-
-#Technology_and_applied_sciences/programming/algorithm
