@@ -50,7 +50,6 @@ ref: [GitHub - AllThingsSmitty/css-protips: ⚡️ A collection of tips to help 
 - read: https://meyerweb.com/eric/thoughts/2018/06/28/what-is-the-css-ch-unit/
 
 > repo -> ongdev/client -> livechat.vue
-> // TODO: can use ch
 
 ```css
 .message-text {
