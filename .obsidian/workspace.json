@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "430834b60deb5323",
+        "id": "0be82a466026cf78",
         "type": "tabs",
         "children": [
           {
-            "id": "2052ae86412f8b7c",
+            "id": "4f9eaca6b470225d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chad chef.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4711c6acb382f6ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Food i like.md",
+                "file": "Apr 10, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -114,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Food i like.md",
+                "file": "Apr 10, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Food i like.md",
+                "file": "Apr 10, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Food i like.md"
+                "file": "Apr 10, 2023.md"
               }
             }
           }
@@ -167,15 +153,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4711c6acb382f6ed",
+  "active": "4f9eaca6b470225d",
   "lastOpenFiles": [
-    "Chad chef.md",
-    "Food i hate.md",
-    "Food i like.md",
-    "when will i die new tab extension.md",
-    "hairstyles.canvas",
     "The garden of thoughts.md",
     "Apr 10, 2023.md",
+    "Chad chef.md",
+    "Food i like.md",
+    "Food i hate.md",
+    "when will i die new tab extension.md",
+    "hairstyles.canvas",
     "hairstyle apr 10, 2023.jpg",
     "broken rice com tam.png",
     "Untitled.md",
