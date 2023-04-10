@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Food i like.md",
+                "file": "Chad chef.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "broken rice com tam.png",
+                "file": "Chad chef.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "broken rice com tam.png",
+                "file": "Chad chef.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "broken rice com tam.png"
+                "file": "Chad chef.md"
               }
             }
           }
@@ -229,19 +229,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47a3995cf62df7df",
+  "active": "6b4b8e1f72f48118",
   "lastOpenFiles": [
     "Food i like.md",
+    "The garden of thoughts.md",
+    "broken rice com tam.png",
     "Apr 10, 2023.md",
     "Food i hate.md",
-    "broken rice com tam.png",
     "when will i die new tab extension.md",
     "Untitled.md",
     "Apr 9, 2023.md",
     "Apr 8, 2023.md",
     "Sichuan pepper.png",
     "Chad chef.md",
-    "The garden of thoughts.md",
     "Tasks.md",
     "the effort gird.png",
     "the effort grid of dygma.md",
