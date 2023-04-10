@@ -47,6 +47,6 @@
 
 - https://l.thuanowa.com/music-spanish
 
-## 汉语 Music
+## 汉语
 
 - https://l.thuanowa.com/music-chinese
