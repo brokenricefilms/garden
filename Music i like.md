@@ -5,10 +5,12 @@
 ### Joji
 
 - https://l.thuanowa.com/music-joji
+- why i like:  [The people who make music: Joji - YouTube](https://youtu.be/AzlP_8Nwywg)
 
 ### Two Feet
 
 - https://l.thuanowa.com/music-two-feet
+- why i like: 
 
 ### Billie Eilish
 

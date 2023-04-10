@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Food i hate.md",
+                "file": "Music i like.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Food i hate.md",
+                "file": "Music i like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Food i hate.md",
+                "file": "Music i like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Food i hate.md"
+                "file": "Music i like.md"
               }
             }
           }
@@ -155,9 +155,9 @@
   },
   "active": "ad96466bf00cbea2",
   "lastOpenFiles": [
-    "Chad chef.md",
     "Food i hate.md",
     "Food i like.md",
+    "Chad chef.md",
     "The garden of thoughts.md",
     "The data structures and algorithms of humanity.md",
     "Apr 10, 2023.md",
