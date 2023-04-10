@@ -1,6 +1,6 @@
 # Food i hate
 
-- Sichuan pepper (vietnamese: hoa tiêu)
+## Sichuan pepper (vietnamese: hoa tiêu)
 ![](Sichuan%20pepper.png)
 
 
