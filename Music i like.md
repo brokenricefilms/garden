@@ -42,3 +42,11 @@
 ## 日本語
 
 - https://l.thuanowa.com/music-ja
+
+## Español
+
+- https://l.thuanowa.com/music-spanish
+
+## 汉语 Music
+
+- https://l.thuanowa.com/music-chinese
