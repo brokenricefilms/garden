@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f9eaca6b470225d",
+            "id": "ad96466bf00cbea2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apr 10, 2023.md",
+                "file": "Food i hate.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apr 10, 2023.md",
+                "file": "Food i hate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apr 10, 2023.md",
+                "file": "Food i hate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apr 10, 2023.md"
+                "file": "Food i hate.md"
               }
             }
           }
@@ -153,14 +153,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f9eaca6b470225d",
+  "active": "ad96466bf00cbea2",
   "lastOpenFiles": [
-    "The garden of thoughts.md",
-    "Apr 10, 2023.md",
     "Chad chef.md",
-    "Food i like.md",
     "Food i hate.md",
+    "Food i like.md",
+    "The garden of thoughts.md",
+    "The data structures and algorithms of humanity.md",
+    "Apr 10, 2023.md",
+    "list startup, open source company for internship.md",
+    "cày cấu trúc dữ liệu và thuật toán cùng ông dev.md",
     "when will i die new tab extension.md",
+    "How make tags useful for managing thoughts.md",
+    "Music i like.md",
+    "Culture and the arts.md",
+    "Webtoon (manga, manhwa, manhua).md",
+    "Anime.md",
+    "Drama.md",
+    "Graphic design.md",
+    "What in my mind right now.md",
+    "Chad Developer.md",
     "hairstyles.canvas",
     "hairstyle apr 10, 2023.jpg",
     "broken rice com tam.png",
@@ -174,20 +186,9 @@
     "CSS Sizing Units.md",
     "css reset.md",
     "semantic commit.md",
-    "making the web more beautiful and blazingly fast.md",
-    "html preprocessor.md",
-    "pug html preprocessor.md",
-    "Chad Developer.md",
-    "The data structures and algorithms of humanity.md",
-    "cày cấu trúc dữ liệu và thuật toán cùng ông dev.md",
-    "thần bài với bubble sort.md",
-    "chiến lược cày videos cấu trúc dữ liệu và thuật toán của ông dev.md",
     "use rem for global sizing, use em for local sizing.png",
     "semantic commit breaking change example.png",
     "semantic commit example table.png",
-    "Apr 7, 2023.md",
-    "list startup, open source company for internship.md",
-    "fuck you money.md",
     "hani EXID funny.png",
     "IU eat ramen.png",
     "classroom of the elite poster.png",
