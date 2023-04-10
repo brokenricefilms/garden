@@ -8,112 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c50d156bf076c881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The garden of thoughts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b4b8e1f72f48118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apr 10, 2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5548a316f6eb6f48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "when will i die new tab extension.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47a3995cf62df7df",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "broken rice com tam.png"
-              }
-            }
-          },
-          {
-            "id": "cead75a1bf65b96e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "hairstyle apr 10, 2023.jpg"
-              }
-            }
-          },
-          {
-            "id": "ca2538f0ab6e163d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "hairstyles.canvas",
-                "viewState": {
-                  "x": -191.42921080180773,
-                  "y": -383.77355751632973,
-                  "zoom": -0.8833333333333333
-                }
-              }
-            }
-          },
-          {
-            "id": "59016c3b8fd26319",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Food i hate.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e5f52448e609d4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "when will i die new tab extension.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2052ae86412f8b7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Food i hate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4711c6acb382f6ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Food i like.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -201,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apr 10, 2023.md",
+                "file": "Food i like.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apr 10, 2023.md",
+                "file": "Food i like.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apr 10, 2023.md"
+                "file": "Food i like.md"
               }
             }
           }
@@ -254,17 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b4b8e1f72f48118",
+  "active": "4711c6acb382f6ed",
   "lastOpenFiles": [
+    "Food i hate.md",
     "when will i die new tab extension.md",
+    "hairstyles.canvas",
+    "The garden of thoughts.md",
     "Apr 10, 2023.md",
-    "Chad chef.md",
     "hairstyle apr 10, 2023.jpg",
     "broken rice com tam.png",
-    "hairstyles.canvas",
-    "Food i hate.md",
+    "Chad chef.md",
     "Food i like.md",
-    "The garden of thoughts.md",
     "Untitled.md",
     "Apr 9, 2023.md",
     "Apr 8, 2023.md",
