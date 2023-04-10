@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chad chef.md",
+                "file": "Apr 9, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chad chef.md",
+                "file": "Apr 9, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chad chef.md",
+                "file": "Apr 9, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chad chef.md"
+                "file": "Apr 9, 2023.md"
               }
             }
           }
@@ -169,6 +169,7 @@
   },
   "active": "6b4b8e1f72f48118",
   "lastOpenFiles": [
+    "Chad chef.md",
     "The garden of thoughts.md",
     "Tasks.md",
     "Apr 9, 2023.md",
