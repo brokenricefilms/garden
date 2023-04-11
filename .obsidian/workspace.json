@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music i like.md",
+                "file": "Thinker.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c887a13c121af72f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -100,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music i like.md",
+                "file": "Writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music i like.md",
+                "file": "Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music i like.md"
+                "file": "Writing.md"
               }
             }
           }
@@ -153,20 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad96466bf00cbea2",
+  "active": "c887a13c121af72f",
   "lastOpenFiles": [
+    "Thinker.md",
+    "The garden of thoughts.md",
+    "Culture and the arts.md",
+    "Music i like.md",
     "Food i hate.md",
     "Food i like.md",
     "Chad chef.md",
-    "The garden of thoughts.md",
     "The data structures and algorithms of humanity.md",
     "Apr 10, 2023.md",
     "list startup, open source company for internship.md",
     "cày cấu trúc dữ liệu và thuật toán cùng ông dev.md",
     "when will i die new tab extension.md",
     "How make tags useful for managing thoughts.md",
-    "Music i like.md",
-    "Culture and the arts.md",
     "Webtoon (manga, manhwa, manhua).md",
     "Anime.md",
     "Drama.md",
@@ -185,7 +200,6 @@
     "the effort grid of dygma.md",
     "CSS Sizing Units.md",
     "css reset.md",
-    "semantic commit.md",
     "use rem for global sizing, use em for local sizing.png",
     "semantic commit breaking change example.png",
     "semantic commit example table.png",
