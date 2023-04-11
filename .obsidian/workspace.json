@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0be82a466026cf78",
+        "id": "b03ac1720165b4bd",
         "type": "tabs",
         "children": [
           {
-            "id": "ad96466bf00cbea2",
+            "id": "215bc5b731c12da7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thinker.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c887a13c121af72f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing.md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -114,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -167,9 +153,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c887a13c121af72f",
+  "active": "215bc5b731c12da7",
   "lastOpenFiles": [
     "Thinker.md",
+    "Writing.md",
     "The garden of thoughts.md",
     "Culture and the arts.md",
     "Music i like.md",
@@ -199,7 +186,6 @@
     "the effort gird.png",
     "the effort grid of dygma.md",
     "CSS Sizing Units.md",
-    "css reset.md",
     "use rem for global sizing, use em for local sizing.png",
     "semantic commit breaking change example.png",
     "semantic commit example table.png",
