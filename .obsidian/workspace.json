@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Apr 11, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Apr 11, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Apr 11, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "Apr 11, 2023.md"
               }
             }
           }
@@ -155,9 +155,10 @@
   },
   "active": "215bc5b731c12da7",
   "lastOpenFiles": [
+    "The garden of thoughts.md",
+    "Apr 11, 2023.md",
     "Thinker.md",
     "Writing.md",
-    "The garden of thoughts.md",
     "Culture and the arts.md",
     "Music i like.md",
     "Food i hate.md",
@@ -185,7 +186,6 @@
     "Tasks.md",
     "the effort gird.png",
     "the effort grid of dygma.md",
-    "CSS Sizing Units.md",
     "use rem for global sizing, use em for local sizing.png",
     "semantic commit breaking change example.png",
     "semantic commit example table.png",
