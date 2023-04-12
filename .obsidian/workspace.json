@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music i like.md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music i like.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music i like.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music i like.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -155,12 +155,12 @@
   },
   "active": "215bc5b731c12da7",
   "lastOpenFiles": [
+    "Music i like.md",
     "Apr 11, 2023.md",
     "The garden of thoughts.md",
     "Thinker.md",
     "Writing.md",
     "Culture and the arts.md",
-    "Music i like.md",
     "Food i hate.md",
     "Food i like.md",
     "Chad chef.md",
