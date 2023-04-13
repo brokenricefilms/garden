@@ -23,7 +23,7 @@
 	- [bike tour drink beer with ông dev at Da nang ( in 5 years, deadline 2027)](bike%20tour%20drink%20beer%20with%20ông%20dev%20at%20Da%20nang%20(%20in%205%20years,%20deadline%202027).md)
 	- [make document film of yourself](make%20document%20film%20of%20yourself.md)
 	- [try romantic love](try%20romantic%20love.md)
-	- [cooking and enjoy time with my prtner](cooking%20and%20enjoy%20time%20with%20my%20partner.md)
+	- [cooking and enjoy time with my partner](cooking%20and%20enjoy%20time%20with%20my%20partner.md)
 	- [be a good daddy](be%20a%20good%20daddy.md)
 	- [enjoy when my life ending](enjoy%20when%20my%20life%20ending.md)
 	- [not reincarnated](not%20reincarnated.md)
