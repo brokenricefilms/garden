@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b03ac1720165b4bd",
+        "id": "3ea2ca8502301f20",
         "type": "tabs",
         "children": [
           {
-            "id": "215bc5b731c12da7",
+            "id": "4e1a9974c1292f89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music i like.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0de7dcda2935992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thinker.md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music i like.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music i like.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music i like.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -166,13 +153,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "215bc5b731c12da7",
+  "active": "4e1a9974c1292f89",
   "lastOpenFiles": [
-    "The garden of thoughts.md",
     "Thinker.md",
+    "Music i like.md",
+    "The garden of thoughts.md",
     "obsidian plugin copy link share note on publish github repo.md",
     "cooking and enjoy time with my partner.md",
-    "Music i like.md",
     "Apr 11, 2023.md",
     "Writing.md",
     "Culture and the arts.md",
