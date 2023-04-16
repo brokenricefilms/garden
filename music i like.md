@@ -1,4 +1,4 @@
-# Music i like
+# music i like
 
 ## The people who make music
 

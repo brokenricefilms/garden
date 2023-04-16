@@ -8,5 +8,5 @@
 - [Anime](Anime.md)
 - [movie](movie.md)
 - [Drama](Drama.md)
-- [Music i like](Music%20i%20like.md)
+- [music i like](music%20i%20like.md)
 - [Webtoon (manga, manhwa, manhua)](Webtoon%20(manga,%20manhwa,%20manhua).md)
