@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dung Duc Huynh (IT man, youtuber).md",
+                "file": "Apr 15, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dung Duc Huynh (IT man, youtuber).md",
+                "file": "Apr 15, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dung Duc Huynh (IT man, youtuber).md"
+                "file": "Apr 15, 2023.md"
               }
             }
           }
@@ -167,10 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e7958bbbdd749c3",
+  "active": "4e1a9974c1292f89",
   "lastOpenFiles": [
-    "Apr 15, 2023.md",
     "Dung Duc Huynh (IT man, youtuber).md",
+    "Apr 15, 2023.md",
     "The garden of thoughts.md",
     "Thinker.md",
     "Music i like.md",
