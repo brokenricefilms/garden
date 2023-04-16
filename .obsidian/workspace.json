@@ -19,8 +19,74 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e716a2556991ebe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chad Developer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed93b2bbc26ae19d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "making the web more beautiful and blazingly fast.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cb3affee2fbff29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chuyện sửa switch bàn phím khi không có tool.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68ccbe39710c2a35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tại sao light theme mới là chân ái.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2821bb59c043b26d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -100,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "making the web more beautiful and blazingly fast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "making the web more beautiful and blazingly fast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "making the web more beautiful and blazingly fast.md"
               }
             }
           }
@@ -153,8 +219,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e591cae6285d2c2",
+  "active": "ed93b2bbc26ae19d",
   "lastOpenFiles": [
+    "Chad Developer.md",
+    "Chuyện sửa switch bàn phím khi không có tool.md",
+    "Tại sao light theme mới là chân ái.md",
+    "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
     "The garden of thoughts.md",
     "What in my mind right now.md",
     "Mar 22, 2023.md",
@@ -177,10 +247,6 @@
     "when will i die new tab extension.md",
     "How make tags useful for managing thoughts.md",
     "Webtoon (manga, manhwa, manhua).md",
-    "Anime.md",
-    "Drama.md",
-    "Graphic design.md",
-    "Chad Developer.md",
     "hairstyles.canvas",
     "hairstyle apr 10, 2023.jpg",
     "broken rice com tam.png",
