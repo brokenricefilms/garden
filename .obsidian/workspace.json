@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3ea2ca8502301f20",
+        "id": "4d531f9f648273a2",
         "type": "tabs",
         "children": [
           {
-            "id": "4e1a9974c1292f89",
+            "id": "e1f8a5f547a36df6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apr 15, 2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e7958bbbdd749c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dung Duc Huynh (IT man, youtuber).md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apr 15, 2023.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apr 15, 2023.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apr 15, 2023.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -166,7 +153,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e1a9974c1292f89",
+  "active": "e1f8a5f547a36df6",
   "lastOpenFiles": [
     "Dung Duc Huynh (IT man, youtuber).md",
     "Apr 15, 2023.md",
