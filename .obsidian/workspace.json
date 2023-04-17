@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hi mom in rust.md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hi mom in rust.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hi mom in rust.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hi mom in rust.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -155,12 +155,14 @@
   },
   "active": "6762c25b6ccb2d77",
   "lastOpenFiles": [
-    "play php in command line like node or deno.md",
+    "Chad Developer.md",
+    "Chad chef.md",
     "The garden of thoughts.md",
+    "hi mom in rust.md",
+    "play php in command line like node or deno.md",
     "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
     "Tại sao light theme mới là chân ái.md",
     "Chuyện sửa switch bàn phím khi không có tool.md",
-    "Chad Developer.md",
     "making the web more beautiful and blazingly fast.md",
     "What in my mind right now.md",
     "Mar 22, 2023.md",
@@ -176,11 +178,9 @@
     "Culture and the arts.md",
     "Food i hate.md",
     "Food i like.md",
-    "Chad chef.md",
     "The data structures and algorithms of humanity.md",
     "list startup, open source company for internship.md",
     "cày cấu trúc dữ liệu và thuật toán cùng ông dev.md",
-    "when will i die new tab extension.md",
     "hairstyles.canvas",
     "hairstyle apr 10, 2023.jpg",
     "broken rice com tam.png",
