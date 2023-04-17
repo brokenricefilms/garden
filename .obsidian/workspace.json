@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "play php in command line like node or deno.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "play php in command line like node or deno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "play php in command line like node or deno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "play php in command line like node or deno.md"
               }
             }
           }
@@ -155,10 +155,10 @@
   },
   "active": "6762c25b6ccb2d77",
   "lastOpenFiles": [
+    "The garden of thoughts.md",
     "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
     "Tại sao light theme mới là chân ái.md",
     "Chuyện sửa switch bàn phím khi không có tool.md",
-    "The garden of thoughts.md",
     "Chad Developer.md",
     "making the web more beautiful and blazingly fast.md",
     "What in my mind right now.md",
