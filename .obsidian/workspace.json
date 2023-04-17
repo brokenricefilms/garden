@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "play php in command line like node or deno.md",
+                "file": "hi mom in rust.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "play php in command line like node or deno.md",
+                "file": "hi mom in rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "play php in command line like node or deno.md",
+                "file": "hi mom in rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "play php in command line like node or deno.md"
+                "file": "hi mom in rust.md"
               }
             }
           }
@@ -155,6 +155,7 @@
   },
   "active": "6762c25b6ccb2d77",
   "lastOpenFiles": [
+    "play php in command line like node or deno.md",
     "The garden of thoughts.md",
     "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
     "Tại sao light theme mới là chân ái.md",
@@ -180,7 +181,6 @@
     "list startup, open source company for internship.md",
     "cày cấu trúc dữ liệu và thuật toán cùng ông dev.md",
     "when will i die new tab extension.md",
-    "How make tags useful for managing thoughts.md",
     "hairstyles.canvas",
     "hairstyle apr 10, 2023.jpg",
     "broken rice com tam.png",
