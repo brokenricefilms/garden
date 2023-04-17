@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Apr 17, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Apr 17, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Apr 17, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "Apr 17, 2023.md"
               }
             }
           }
@@ -155,9 +155,10 @@
   },
   "active": "6762c25b6ccb2d77",
   "lastOpenFiles": [
+    "The garden of thoughts.md",
+    "Apr 17, 2023.md",
     "Chad Developer.md",
     "Chad chef.md",
-    "The garden of thoughts.md",
     "hi mom in rust.md",
     "play php in command line like node or deno.md",
     "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
@@ -180,7 +181,6 @@
     "Food i like.md",
     "The data structures and algorithms of humanity.md",
     "list startup, open source company for internship.md",
-    "cày cấu trúc dữ liệu và thuật toán cùng ông dev.md",
     "hairstyles.canvas",
     "hairstyle apr 10, 2023.jpg",
     "broken rice com tam.png",
