@@ -19,9 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9a55f7740abc6f8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "geek up intern todo list.md"
+              }
+            }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "geek up intern todo list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "geek up intern todo list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "geek up intern todo list.md"
               }
             }
           }
@@ -153,10 +163,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6762c25b6ccb2d77",
+  "active": "a9a55f7740abc6f8",
   "lastOpenFiles": [
-    "Apr 18, 2023.md",
     "The garden of thoughts.md",
+    "geek up intern todo list.md",
+    "Apr 18, 2023.md",
     "Apr 17, 2023.md",
     "music i like.md",
     "Chad Developer.md",
@@ -180,7 +191,6 @@
     "Culture and the arts.md",
     "Food i hate.md",
     "Food i like.md",
-    "The data structures and algorithms of humanity.md",
     "hairstyles.canvas",
     "hairstyle apr 10, 2023.jpg",
     "broken rice com tam.png",
