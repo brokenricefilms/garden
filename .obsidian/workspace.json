@@ -8,16 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6762c25b6ccb2d77",
+            "id": "013351404f424ad1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apr 18, 2023.md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6762c25b6ccb2d77",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
             }
           },
           {
@@ -29,8 +46,17 @@
                 "file": "geek up intern todo list.md"
               }
             }
+          },
+          {
+            "id": "2757906b00332998",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apr 18, 2023.md",
+                "file": "geek up intern todo list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apr 18, 2023.md",
+                "file": "geek up intern todo list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apr 18, 2023.md"
+                "file": "geek up intern todo list.md"
               }
             }
           }
@@ -147,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 352.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,13 +188,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6762c25b6ccb2d77",
+  "active": "a9a55f7740abc6f8",
   "lastOpenFiles": [
+    "Tasks.md",
     "The garden of thoughts.md",
     "geek up intern todo list.md",
+    "Apr 18, 2023.md",
     "Pasted Image 20230418175956_958.png",
     "Pasted Image 20230418175840_936.png",
-    "Apr 18, 2023.md",
     "Apr 17, 2023.md",
     "music i like.md",
     "Chad Developer.md",
