@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apr 17, 2023.md",
+                "file": "Apr 18, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apr 17, 2023.md",
+                "file": "Apr 18, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apr 17, 2023.md",
+                "file": "Apr 18, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apr 17, 2023.md"
+                "file": "Apr 18, 2023.md"
               }
             }
           }
@@ -143,21 +143,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "6762c25b6ccb2d77",
   "lastOpenFiles": [
-    "music i like.md",
-    "Apr 17, 2023.md",
     "The garden of thoughts.md",
+    "Apr 18, 2023.md",
+    "Apr 17, 2023.md",
+    "music i like.md",
     "Chad Developer.md",
     "Chad chef.md",
     "hi mom in rust.md",
@@ -180,7 +181,6 @@
     "Food i hate.md",
     "Food i like.md",
     "The data structures and algorithms of humanity.md",
-    "list startup, open source company for internship.md",
     "hairstyles.canvas",
     "hairstyle apr 10, 2023.jpg",
     "broken rice com tam.png",
