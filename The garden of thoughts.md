@@ -1,6 +1,6 @@
 # The garden of thoughts
 
-> DISCLAIMER: My stories, lessons, and advice are my personal experience, not reflecting opinions from any organization or company.
+j> DISCLAIMER: My stories, lessons, and advice are my personal experience, not reflecting opinions from any organization or company.
 
 ## How to explore the garden of thoughts?
 
