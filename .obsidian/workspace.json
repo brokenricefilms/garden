@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Apr 18, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geek up intern todo list.md",
+                "file": "Apr 18, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "geek up intern todo list.md",
+                "file": "Apr 18, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "geek up intern todo list.md"
+                "file": "Apr 18, 2023.md"
               }
             }
           }
@@ -148,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +161,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a9a55f7740abc6f8",
+  "active": "6762c25b6ccb2d77",
   "lastOpenFiles": [
     "The garden of thoughts.md",
     "geek up intern todo list.md",
