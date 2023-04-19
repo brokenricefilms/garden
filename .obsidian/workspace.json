@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geek up intern todo list.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "geek up intern todo list.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "geek up intern todo list.md"
+                "file": "Tasks.md"
               }
             }
           }
@@ -180,11 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a9a55f7740abc6f8",
+  "active": "6762c25b6ccb2d77",
   "lastOpenFiles": [
+    "geek up intern todo list.md",
     "Tasks.md",
     "The garden of thoughts.md",
-    "geek up intern todo list.md",
     "Apr 19, 2023.md",
     "Apr 18, 2023.md",
     "Pasted Image 20230418175956_958.png",
