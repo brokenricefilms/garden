@@ -36,19 +36,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "a9a55f7740abc6f8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "geek up intern todo list.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -127,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "geek up intern todo list.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "geek up intern todo list.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "geek up intern todo list.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -176,15 +166,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9a55f7740abc6f8",
+  "active": "013351404f424ad1",
   "lastOpenFiles": [
     "Tasks.md",
-    "geek up intern todo list.md",
     "The garden of thoughts.md",
+    "geek up intern todo list.md",
     "Apr 19, 2023.md",
     "Apr 18, 2023.md",
     "Pasted Image 20230418175956_958.png",
