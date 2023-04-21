@@ -8,9 +8,8 @@
         "type": "tabs",
         "children": [
           {
-            "id": "013351404f424ad1",
+            "id": "65063174f750f05c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,144 +17,10 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "65063174f750f05c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gear I use.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
               }
-            }
-          },
-          {
-            "id": "9b8daa00f3ee44eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chad Developer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "882246b2482d4575",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "be healthy.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "886d6a07e791619e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38f78fd5ee84fd7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Speaking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7838807b8feedf80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thinker.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b265b7b67323406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chad chef.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce5c85d7bb86890a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chad Developer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "283a67f9b876a30a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gear I use.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6762c25b6ccb2d77",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "pinned": true
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -235,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gear I use.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gear I use.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gear I use.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -290,6 +155,7 @@
   },
   "active": "65063174f750f05c",
   "lastOpenFiles": [
+    "Apr 21, 2023.md",
     "The garden of thoughts.md",
     "Gear I use.md",
     "Chad Developer.md",
@@ -318,7 +184,6 @@
     "Mar 22, 2023.md",
     "Apr 10, 2023.md",
     "Apr 11, 2023.md",
-    "Apr 15, 2023.md",
     "hairstyles.canvas",
     "hairstyle apr 10, 2023.jpg",
     "broken rice com tam.png",
