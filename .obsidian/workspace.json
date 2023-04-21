@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "music i like.md",
+                "file": "Gear I use.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music i like.md",
+                "file": "Gear I use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "music i like.md",
+                "file": "Gear I use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "music i like.md"
+                "file": "Gear I use.md"
               }
             }
           }
@@ -155,6 +155,7 @@
   },
   "active": "65063174f750f05c",
   "lastOpenFiles": [
+    "music i like.md",
     "The garden of thoughts.md",
     "Apr 21, 2023.md",
     "Tasks.md",
@@ -173,7 +174,6 @@
     "Pasted Image 20230418175956_958.png",
     "Pasted Image 20230418175840_936.png",
     "Apr 17, 2023.md",
-    "music i like.md",
     "hi mom in rust.md",
     "play php in command line like node or deno.md",
     "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
