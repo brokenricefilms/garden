@@ -79,33 +79,5 @@
 - https://www.cassandra.global/
 
 ## Outsource:
-- https://tuyendung.rikkeisoft.com/
-- https://github.com/orgs/rikkeisoft/repositories?type=all
-- https://savvycom.vn/
-- https://careers.kms-technology.com/
-- https://www.sotatek.com/careers
-- https://github.com/sotatek-dev
-- https://cmcglobal.com.vn/careers/
-- https://nashtechglobal.com/
-- https://saigontechnology.com/
-- https://github.com/stssoftware
-- https://appota.com/careers
-- https://luvina.net/
-- https://vnext.vn/
-- https://haymora.com/cong-nghe-thong-tin/ifi-solution-co-ltd
-- https://www.orientsoftware.com/
-- https://wearefram.com/
-- https://www.s3corp.com.vn/
-- https://www.logigear.vn/
-- https://vti.com.vn/
-- https://tpssoft.com/
-- https://aegona.vn/
-- https://icts.io/
-- https://morsoftware.com/en/
-- https://agiletech.vn/
-- https://www.hdwebsoft.com/
-- https://waverleysoftware.com/
-- https://www.designveloper.com/en/
-- https://synova-solutions.com/
-- https://larion.com/
-- https://www.inapps.net/
+
+https://www.inapps.net/
