@@ -1,83 +1,62 @@
 # list startup, open source company for internship
 
 ## Startup
-- https://coinalpha.com/
-- http://scooterson.com/
-- https://www.atlasanalytics.co/
-- http://www.antler.co/
-- http://www.firekamp.com/
-- http://www.wallethub.com/
-- http://www.sarcontech.com/
-- http://www.bcmnext.com/
-- https://inovatyv.com/
-- https://api7.ai/
-- https://www.aspireapp.com/
-- http://autonomous.ai/
-- http://www.ns1.com/
-- https://1dotmedia.com/
-- https://www.transformify.org/
-- https://gorosen.xyz/
-- https://www.got-it.ai/
-- https://bde-ltd.com/
-- http://www.crossfund.com/
-- http://techuplabs.com/
-- https://boostcommerce.net/
-- https://www.imbee.io/
-- https://www.pagefly.io/
-- https://sav.money/
-- http://www.urbanetic.io/
-- http://www.valutico.com/
-- https://www.usemultiplier.com/
-- https://techt.io/
-- https://tap.pm/
-- https://www.evva360.com/
-- http://www.edufied.network/
-- https://www.transfi.com/
-- https://thesoftwarepractice.com/
-- https://neptunemutual.com/
-- http://www.ematicsolutions.com/ 
-- https://bepoz.com.au/
-- https://ree-pay.com/
-- https://primexbt.com/
-- http://www.elsanow.io/
-- https://www.brightriver.ai/
-- https://www.finverse.com/
-- https://canitravel.net/
-- https://wholesalehelper.io/
-- https://saaragh.com/
-- https://anovi.store/
-- https://bde-ltd.com/
-- https://www.finblox.com/ 
-- http://www.dichung.vn/
-- https://www.linkedin.com/in/tamalsantra
-- https://www.systemswisdom.com/
-- http://myconstant.com/
-- https://reco-vn.com/
-- https://www.flavorcrm.com/
-- https://bfree.africa/
-- https://www.amiy.io/
-- http://ablex.co.kr/
-- https://www.geocomply.com/
-- http://hiq.ai/
-- https://carro.sg/
-- https://www.amibigroup.com/
-- https://worca.io/
-- https://www.billionlaughs.com/
-- https://www.gobeyonddigital.net/
-- https://cue.group/en/
-- https://www.obakiapp.com/
-- https://www.pexpay.com/en
-- http://mapplinks.academy/
-- https://www.evolango.com/
-- https://stringee.com/en
-- https://www.moonxbt.com/
-- https://www.dikshatek.co.id/aboutus/index.html
-- https://asians.group/
-- https://www.verichains.io/
-- https://ekoios.vn/
-- https://playdestiny.io/
-- https://www.cassandra.global/
-
-## Outsource:
-
-https://www.inapps.net/
+https://bde-ltd.com/
+http://www.crossfund.com/
+http://techuplabs.com/
+https://boostcommerce.net/
+https://www.imbee.io/
+https://www.pagefly.io/
+https://sav.money/
+http://www.urbanetic.io/
+http://www.valutico.com/
+https://www.usemultiplier.com/
+https://techt.io/
+https://tap.pm/
+https://www.evva360.com/
+http://www.edufied.network/
+https://www.transfi.com/
+https://thesoftwarepractice.com/
+https://neptunemutual.com/
+http://www.ematicsolutions.com/ 
+https://bepoz.com.au/
+https://ree-pay.com/
+https://primexbt.com/
+http://www.elsanow.io/
+https://www.brightriver.ai/
+https://www.finverse.com/
+https://canitravel.net/
+https://wholesalehelper.io/
+https://saaragh.com/
+https://anovi.store/
+https://bde-ltd.com/
+https://www.finblox.com/ 
+http://www.dichung.vn/
+https://www.linkedin.com/in/tamalsantra
+https://www.systemswisdom.com/
+http://myconstant.com/
+https://reco-vn.com/
+https://www.flavorcrm.com/
+https://bfree.africa/
+https://www.amiy.io/
+http://ablex.co.kr/
+https://www.geocomply.com/
+http://hiq.ai/
+https://carro.sg/
+https://www.amibigroup.com/
+https://worca.io/
+https://www.billionlaughs.com/
+https://www.gobeyonddigital.net/
+https://cue.group/en/
+https://www.obakiapp.com/
+https://www.pexpay.com/en
+http://mapplinks.academy/
+https://www.evolango.com/
+https://stringee.com/en
+https://www.moonxbt.com/
+https://www.dikshatek.co.id/aboutus/index.html
+https://asians.group/
+https://www.verichains.io/
+https://ekoios.vn/
+https://playdestiny.io/
+https://www.cassandra.global/
