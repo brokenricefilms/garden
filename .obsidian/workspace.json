@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "music i like.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music i like.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "music i like.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "music i like.md"
+                "file": "Tasks.md"
               }
             }
           }
@@ -155,11 +155,11 @@
   },
   "active": "65063174f750f05c",
   "lastOpenFiles": [
+    "The garden of thoughts.md",
+    "music i like.md",
     "Apr 21, 2023.md",
     "Mar 25, 2023.md",
     "Gear I use.md",
-    "music i like.md",
-    "The garden of thoughts.md",
     "Tasks.md",
     "Chad Developer.md",
     "be healthy.md",
