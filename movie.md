@@ -1,5 +1,7 @@
 # movie
 
+[A Man Called Otto (2022)](A%20Man%20Called%20Otto%20(2022).md)
+
 [The Social Dilemma (2020)](The%20Social%20Dilemma%20(2020).md)
 
 [Pig (2021)](Pig%20(2021).md)

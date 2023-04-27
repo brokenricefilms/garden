@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "movie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "6ed0608899eddf2d",
+            "id": "0c72900083be6972",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "be a good daddy.md",
+                "file": "A Man Called Otto (2022).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "be a good daddy.md",
+                "file": "A Man Called Otto (2022).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "be a good daddy.md",
+                "file": "A Man Called Otto (2022).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "be a good daddy.md"
+                "file": "A Man Called Otto (2022).md"
               }
             }
           }
@@ -167,9 +167,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ed0608899eddf2d",
+  "active": "0c72900083be6972",
   "lastOpenFiles": [
+    "movie.md",
+    "A Man Called Otto (2022).md",
     "The garden of thoughts.md",
+    "be a good daddy.md",
     "Apr 24, 2023.md",
     "Tasks.md",
     "list startup, open source company for internship.md",
@@ -195,9 +198,6 @@
     "hi mom in rust.md",
     "play php in command line like node or deno.md",
     "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
-    "Tại sao light theme mới là chân ái.md",
-    "Chuyện sửa switch bàn phím khi không có tool.md",
-    "making the web more beautiful and blazingly fast.md",
     "hairstyles.canvas",
     "hairstyle apr 10, 2023.jpg",
     "broken rice com tam.png",
