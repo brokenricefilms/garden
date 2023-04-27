@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "movie.md",
+                "file": "Tom Hanks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "movie.md",
+                "file": "Tom Hanks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "movie.md",
+                "file": "Tom Hanks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "movie.md"
+                "file": "Tom Hanks.md"
               }
             }
           }
@@ -149,16 +149,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "65063174f750f05c",
   "lastOpenFiles": [
+    "A Man Called Otto (2022).md",
+    "movie.md",
     "Tom Hanks.md",
     "Forrest Gump.md",
-    "movie.md",
-    "A Man Called Otto (2022).md",
     "Pasted image 20230427154505.png",
     "The garden of thoughts.md",
     "be a good daddy.md",
