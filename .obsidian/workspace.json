@@ -32,6 +32,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "20ad85914c88f7bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tom Hanks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5993141b7bb135c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forrest Gump.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1,
@@ -169,8 +195,11 @@
   },
   "active": "0c72900083be6972",
   "lastOpenFiles": [
-    "movie.md",
+    "Tom Hanks.md",
+    "Forrest Gump.md",
     "A Man Called Otto (2022).md",
+    "Pasted image 20230427154505.png",
+    "movie.md",
     "The garden of thoughts.md",
     "be a good daddy.md",
     "Apr 24, 2023.md",
@@ -196,8 +225,6 @@
     "Pasted Image 20230418175840_936.png",
     "Apr 17, 2023.md",
     "hi mom in rust.md",
-    "play php in command line like node or deno.md",
-    "Trải nghiệm open-source sau 2 năm, 1 tháng và 20 ngày.md",
     "hairstyles.canvas",
     "hairstyle apr 10, 2023.jpg",
     "broken rice com tam.png",
@@ -205,7 +232,6 @@
     "the effort gird.png",
     "use rem for global sizing, use em for local sizing.png",
     "semantic commit breaking change example.png",
-    "semantic commit example table.png",
     "custom_javascript/copy_image_link.js",
     "custom_javascript/copy_note_link.js",
     "custom_javascript/copy_all_tag.js",
