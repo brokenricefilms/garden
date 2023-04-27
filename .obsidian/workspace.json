@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tom Hanks.md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tom Hanks.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tom Hanks.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tom Hanks.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -155,9 +155,9 @@
   },
   "active": "65063174f750f05c",
   "lastOpenFiles": [
+    "Tom Hanks.md",
     "A Man Called Otto (2022).md",
     "movie.md",
-    "Tom Hanks.md",
     "Forrest Gump.md",
     "Pasted image 20230427154505.png",
     "The garden of thoughts.md",
