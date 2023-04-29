@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7f5a637762a7f09a",
+        "id": "33cd00240bc32852",
         "type": "tabs",
         "children": [
           {
-            "id": "65063174f750f05c",
+            "id": "03ec3eb98895c659",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Apr 29, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Apr 29, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Apr 29, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Apr 29, 2023.md"
               }
             }
           }
@@ -153,9 +153,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "65063174f750f05c",
+  "active": "03ec3eb98895c659",
   "lastOpenFiles": [
+    "Cho Ray hospital.md",
+    "Apr 29, 2023.md",
+    "Apr 28, 2023.md",
+    "Tasks.md",
     "The garden of thoughts.md",
+    "Thuan Pham (thuanowa).md",
+    "Phuong Pham (sis).md",
+    "Phuc (sis husband).md",
+    "README.md",
     "Tom Hanks.md",
     "A Man Called Otto (2022).md",
     "movie.md",
@@ -163,7 +171,6 @@
     "Pasted image 20230427154505.png",
     "be a good daddy.md",
     "Apr 24, 2023.md",
-    "Tasks.md",
     "list startup, open source company for internship.md",
     "Apr 23, 2023.md",
     "music i like.md",
@@ -175,16 +182,9 @@
     "Reading.md",
     "Speaking.md",
     "Thinker.md",
-    "Chad chef.md",
     "Pasted image 20230421201345.png",
-    "Digital nomad.md",
-    "geek up intern todo list.md",
-    "Apr 19, 2023.md",
-    "Apr 18, 2023.md",
     "Pasted Image 20230418175956_958.png",
     "Pasted Image 20230418175840_936.png",
-    "Apr 17, 2023.md",
-    "hi mom in rust.md",
     "hairstyles.canvas",
     "hairstyle apr 10, 2023.jpg",
     "broken rice com tam.png",
