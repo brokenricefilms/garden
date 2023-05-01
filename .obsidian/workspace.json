@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3337cf0c65f0593",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chad Developer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "stacked": true
@@ -155,11 +168,13 @@
   },
   "active": "03ec3eb98895c659",
   "lastOpenFiles": [
+    "Chad Developer.md",
+    "The garden of thoughts.md",
+    "What in my mind right now.md",
     "Apr 29, 2023.md",
     "Cho Ray hospital.md",
     "Apr 28, 2023.md",
     "Tasks.md",
-    "The garden of thoughts.md",
     "Thuan Pham (thuanowa).md",
     "Phuong Pham (sis).md",
     "Phuc (sis husband).md",
@@ -177,11 +192,9 @@
     "Apr 21, 2023.md",
     "Mar 25, 2023.md",
     "Gear I use.md",
-    "Chad Developer.md",
     "be healthy.md",
     "Reading.md",
     "Speaking.md",
-    "Thinker.md",
     "Pasted image 20230421201345.png",
     "Pasted Image 20230418175956_958.png",
     "Pasted Image 20230418175840_936.png",

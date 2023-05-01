@@ -1,8 +1,8 @@
 {
-  "accentColor": "#d7827e",
+  "accentColor": "#353535",
   "theme": "moonstone",
   "showViewHeader": false,
   "nativeMenus": false,
   "baseFontSize": 16,
-  "cssTheme": "Minimal"
+  "cssTheme": ""
 }
