@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Last will, di chúc.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Last will, di chúc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "Last will, di chúc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "Last will, di chúc.md"
               }
             }
           }
@@ -155,8 +155,8 @@
   },
   "active": "93ec5e8e5171c65b",
   "lastOpenFiles": [
-    "Chad Developer.md",
     "The garden of thoughts.md",
+    "Chad Developer.md",
     "What in my mind right now.md",
     "Apr 29, 2023.md",
     "Cho Ray hospital.md",
