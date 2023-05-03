@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "May 2, 2023.md",
+                "file": "May 3, 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,6 +66,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "0ee482233910feec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -100,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "May 2, 2023.md",
+                "file": "May 3, 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "May 2, 2023.md",
+                "file": "May 3, 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "May 2, 2023.md"
+                "file": "May 3, 2023.md"
               }
             }
           }
@@ -155,9 +163,10 @@
   },
   "active": "93ec5e8e5171c65b",
   "lastOpenFiles": [
-    "Tasks.md",
-    "May 2, 2023.md",
     "The garden of thoughts.md",
+    "May 3, 2023.md",
+    "May 2, 2023.md",
+    "Tasks.md",
     "Last will, di chúc.md",
     "Chad Developer.md",
     "What in my mind right now.md",
@@ -181,7 +190,6 @@
     "Apr 21, 2023.md",
     "Mar 25, 2023.md",
     "Gear I use.md",
-    "be healthy.md",
     "Pasted image 20230421201345.png",
     "Pasted Image 20230418175956_958.png",
     "Pasted Image 20230418175840_936.png",
