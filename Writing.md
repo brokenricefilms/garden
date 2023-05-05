@@ -6,4 +6,6 @@
 
 Maybe without tags i can force yourself  connect  thoughts
 
+[Stop Procrastinating With Note-Taking Apps Like Obsidian, Roam, Logseq - YouTube](https://www.youtube.com/watch?v=baKCC2uTbRc)
+
 [Viết lách giống như đánh tennis mỗi ngày](Viết%20lách%20giống%20như%20đánh%20tennis%20mỗi%20ngày.md)

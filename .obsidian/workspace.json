@@ -13,7 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "May 5, 2023.md",
+                "file": "The garden of thoughts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f48d01184d9644ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "try romantic love.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3200b914195b010c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culture and the arts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7273a2b2230b169f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "music i like.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d11595252dcb692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webtoon (manga, manhwa, manhua).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81b9aa5882ad3f74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drama.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,6 +86,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -108,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "May 5, 2023.md",
+                "file": "try romantic love.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "May 5, 2023.md",
+                "file": "try romantic love.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "May 5, 2023.md"
+                "file": "try romantic love.md"
               }
             }
           }
@@ -146,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 352.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,35 +227,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "93ec5e8e5171c65b",
+  "active": "f48d01184d9644ba",
   "lastOpenFiles": [
     "The garden of thoughts.md",
+    "Culture and the arts.md",
+    "music i like.md",
+    "Webtoon (manga, manhwa, manhua).md",
+    "Drama.md",
+    "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat.md",
+    "Anime.md",
+    "Death March to the Parallel World Rhapsody.md",
+    "Chặng hành trình chở thành weeaboo giả cày.md",
+    "Last will, di chúc.md",
+    "bike tour drink beer with ông dev at Da nang ( in 5 years, deadline 2027).md",
+    "Reading.md",
+    "Speaking.md",
+    "train mount movement to speak clearly.md",
+    "Food i like.md",
+    "Tasks.md",
+    "May 6, 2023.md",
+    "be healthy.md",
+    "Writing.md",
+    "My note-writing setup.md",
+    "the problem with question mark on file name.md",
+    "Filename heading sync plugin.md",
+    "Chad chef.md",
     "May 5, 2023.md",
     "May 4, 2023.md",
     "May 3, 2023.md",
-    "May 2, 2023.md",
-    "Tasks.md",
-    "Last will, di chúc.md",
-    "Chad Developer.md",
-    "What in my mind right now.md",
-    "Apr 29, 2023.md",
-    "Cho Ray hospital.md",
-    "Apr 28, 2023.md",
-    "Thuan Pham (thuanowa).md",
-    "Phuong Pham (sis).md",
-    "Phuc (sis husband).md",
-    "README.md",
-    "Tom Hanks.md",
-    "A Man Called Otto (2022).md",
-    "movie.md",
-    "Forrest Gump.md",
     "Pasted image 20230427154505.png",
-    "be a good daddy.md",
-    "Apr 24, 2023.md",
-    "list startup, open source company for internship.md",
-    "Apr 23, 2023.md",
-    "music i like.md",
-    "Apr 21, 2023.md",
     "Pasted image 20230421201345.png",
     "Pasted Image 20230418175956_958.png",
     "Pasted Image 20230418175840_936.png",
