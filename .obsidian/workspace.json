@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7088d28181676228",
+        "id": "768aad43b2fadb0a",
         "type": "tabs",
         "children": [
           {
-            "id": "b6447dc913ad5257",
+            "id": "56260120661a8fe8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -108,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tasks.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,12 +152,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b6447dc913ad5257",
+  "active": "56260120661a8fe8",
   "lastOpenFiles": [
+    "Tasks.md",
     "May 6, 2023.md",
     "Mar 18, 2023.md",
     "Mar 29, 2023.md",
-    "Tasks.md",
     "The garden of thoughts.md",
     "May 5, 2023.md",
     "title ideas itviec writing contest.md",
