@@ -14,8 +14,8 @@
 
 ## 🌴 Trees 🌴
 
-- [Chad Developer](Chad%20Developer.md)
-- [Chad chef](Chad%20chef.md)
+- [The Developer](The%20Developer.md)
+- [The Chef](The%20Chef.md)
 - [Culture and the arts](Culture%20and%20the%20arts.md)
 - [Thinker](Thinker.md)
 	- [Reading](Reading.md)

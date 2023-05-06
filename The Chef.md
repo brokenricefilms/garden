@@ -1,4 +1,4 @@
-# Chad chef
+# The Chef
 
 everything about food, cooking maybe have [Culture and the arts](Culture%20and%20the%20arts.md) relative 
 

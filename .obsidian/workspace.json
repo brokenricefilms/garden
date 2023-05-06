@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "768aad43b2fadb0a",
+        "id": "61589a2efc65475c",
         "type": "tabs",
         "children": [
           {
-            "id": "56260120661a8fe8",
+            "id": "0a9704a65779dc80",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,9 +160,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "56260120661a8fe8",
+  "active": "0a9704a65779dc80",
   "lastOpenFiles": [
-    "Chad Developer.md",
+    "The Chef.md",
+    "The Developer.md",
     "The garden of thoughts.md",
     "The data structures and algorithms of humanity.md",
     "May 6, 2023.md",
@@ -197,7 +198,6 @@
     "Reading.md",
     "Speaking.md",
     "train mount movement to speak clearly.md",
-    "Food i like.md",
     "Pasted image 20230427154505.png",
     "Pasted image 20230421201345.png",
     "Pasted Image 20230418175956_958.png",
