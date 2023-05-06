@@ -20,8 +20,7 @@
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,11 +162,13 @@
   },
   "active": "56260120661a8fe8",
   "lastOpenFiles": [
-    "Tasks.md",
+    "Chad Developer.md",
+    "The garden of thoughts.md",
+    "The data structures and algorithms of humanity.md",
     "May 6, 2023.md",
+    "Tasks.md",
     "Mar 18, 2023.md",
     "Mar 29, 2023.md",
-    "The garden of thoughts.md",
     "May 5, 2023.md",
     "title ideas itviec writing contest.md",
     "logseq/bak/logseq/config/2023-05-06T05_15_36.225Z.Desktop.edn",
@@ -197,8 +198,6 @@
     "Speaking.md",
     "train mount movement to speak clearly.md",
     "Food i like.md",
-    "be healthy.md",
-    "Writing.md",
     "Pasted image 20230427154505.png",
     "Pasted image 20230421201345.png",
     "Pasted Image 20230418175956_958.png",
