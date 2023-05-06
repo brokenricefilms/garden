@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "May 5, 2023.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b11429699f66f423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "title ideas itviec writing contest.md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -122,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "title ideas itviec writing contest.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "title ideas itviec writing contest.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "title ideas itviec writing contest.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -175,11 +161,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b11429699f66f423",
+  "active": "93ec5e8e5171c65b",
   "lastOpenFiles": [
-    "The garden of thoughts.md",
-    "title ideas itviec writing contest.md",
     "May 5, 2023.md",
+    "title ideas itviec writing contest.md",
+    "The garden of thoughts.md",
     "May 6, 2023.md",
     "logseq/bak/logseq/config/2023-05-06T05_15_36.225Z.Desktop.edn",
     "logseq/bak/logseq/config/2023-05-06T05_14_53.231Z.Desktop.edn",
