@@ -1,3 +1,3 @@
 # high school friend
 
-Lê Trần Cát trương
+Lê Trần Cát tường
