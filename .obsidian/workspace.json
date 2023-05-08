@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culture and the arts.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Culture and the arts.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Culture and the arts.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Culture and the arts.md"
+                "file": "README.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   },
   "active": "065a288646a30d79",
   "lastOpenFiles": [
+    "Culture and the arts.md",
     "Graphic design.md",
     "The garden of thoughts.md",
     "Thinker.md",
@@ -193,7 +194,6 @@
     "pages",
     "logseq/config.edn",
     "try romantic love.md",
-    "Culture and the arts.md",
     "music i like.md",
     "Webtoon (manga, manhwa, manhua).md",
     "Drama.md",
