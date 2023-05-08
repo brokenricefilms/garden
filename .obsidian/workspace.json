@@ -4,36 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "61589a2efc65475c",
+        "id": "b97a0a391f7cf9a0",
         "type": "tabs",
         "children": [
           {
-            "id": "0a9704a65779dc80",
+            "id": "065a288646a30d79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff66c57988a16302",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thinker.md",
+                "file": "Culture and the arts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Culture and the arts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Culture and the arts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Culture and the arts.md"
               }
             }
           }
@@ -173,13 +161,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0a9704a65779dc80",
+  "active": "065a288646a30d79",
   "lastOpenFiles": [
+    "Graphic design.md",
+    "The garden of thoughts.md",
+    "Thinker.md",
+    "README.md",
     "index.html~",
     "_sidebar.md",
-    "The garden of thoughts.md",
     "index.html",
-    "Thinker.md",
     "Con trai quý ở nỗi đau.md",
     "Tasks.md",
     "May 7, 2023.md",
@@ -209,7 +199,6 @@
     "Drama.md",
     "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat.md",
     "Anime.md",
-    "Death March to the Parallel World Rhapsody.md",
     "Pasted image 20230427154505.png",
     "Pasted image 20230421201345.png",
     "Pasted Image 20230418175956_958.png",
