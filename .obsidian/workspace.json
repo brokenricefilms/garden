@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "The garden of thoughts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "The garden of thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "The garden of thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "The garden of thoughts.md"
               }
             }
           }
@@ -163,11 +163,11 @@
   },
   "active": "065a288646a30d79",
   "lastOpenFiles": [
+    "README.md",
     "Culture and the arts.md",
     "Graphic design.md",
     "The garden of thoughts.md",
     "Thinker.md",
-    "README.md",
     "index.html~",
     "_sidebar.md",
     "index.html",
