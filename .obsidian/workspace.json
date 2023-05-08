@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "README.md"
               }
             }
           }
@@ -175,10 +175,10 @@
   },
   "active": "0a9704a65779dc80",
   "lastOpenFiles": [
+    "The garden of thoughts.md",
     "_sidebar.md",
     "index.html",
     "Thinker.md",
-    "The garden of thoughts.md",
     "Con trai quý ở nỗi đau.md",
     "Tasks.md",
     "May 7, 2023.md",
