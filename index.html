@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>The garden of thoughts</title>
+  <!-- <title>The garden of thoughts</title> -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="thuanowa notes, knowledge-management, zettelkasten">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -23,6 +23,8 @@
       homepage: 'The garden of thoughts.md',
       auto2top: true,
     }
+    document.title = document.getElementById("last-will-di-chúc").textContent
+    console.log(document.querySelector("#last-will-di-chúc > a > span").id)
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
