@@ -1,5 +1,7 @@
 # what i use
 
+Moving to https://use.thunaowa.com
+
 > When you buy it with link below you can help me pay my water bill
 
 ![](Pasted%20image%2020230421201345.png)

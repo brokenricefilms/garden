@@ -10,7 +10,6 @@
 ## 🌸 Flowers 🌸
 
 - [Last will, di chúc](Last%20will,%20di%20chúc.md)
-- [what i use](what%20i%20use.md)
 
 ## 🌴 Trees 🌴
 
