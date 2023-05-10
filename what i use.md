@@ -88,4 +88,3 @@ Langtu GK85
 ## Notebook
 
 - I have basic note book and single pen for draw, brainstorm. I try to reuse pen and note, i think, it will available for several years.
-
