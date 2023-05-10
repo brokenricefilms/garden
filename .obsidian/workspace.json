@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "what i use.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "what i use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The garden of thoughts.md",
+                "file": "what i use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The garden of thoughts.md"
+                "file": "what i use.md"
               }
             }
           }
@@ -163,10 +163,10 @@
   },
   "active": "065a288646a30d79",
   "lastOpenFiles": [
+    "The garden of thoughts.md",
     "README.md",
     "Culture and the arts.md",
     "Graphic design.md",
-    "The garden of thoughts.md",
     "Thinker.md",
     "index.html~",
     "_sidebar.md",

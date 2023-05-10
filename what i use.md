@@ -1,4 +1,4 @@
-# Gear I use
+# what i use
 
 > When you buy it with link below you can help me pay my water bill
 
