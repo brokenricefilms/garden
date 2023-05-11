@@ -1,5 +1,8 @@
 # The garden of thoughts
 
+**IMPORTANT**: I think will stop note writing in obsidian, or other connect think like this, **that mean** content will not updated.
+**SO** what next? I will focus on writing blog. Take note anywhere like in readme, docs repo or just doc.new open new google doc and take note or draw mind map stuff in my notebook.
+
 > DISCLAIMER: My stories, lessons, and advice are my personal experience, not reflecting opinions from any organization or company.
 
 ## How to explore the garden of thoughts?
